@@ -1,0 +1,1301 @@
+race_id,track_name_ri,pred_finish_ri,car_number_ri,driver,formatted_driver,driver_id
+5546,Daytona International Speedway,1,8,Kyle Busch,Kyle Busch,454
+5546,Daytona International Speedway,2,20,Christopher Bell,Christopher Bell,4153
+5546,Daytona International Speedway,3,24,William Byron,William Byron,4184
+5546,Daytona International Speedway,4,17,Chris Buescher,Chris Buescher,3989
+5546,Daytona International Speedway,5,48,Alex Bowman,Alex Bowman,4045
+5546,Daytona International Speedway,6,23,Bubba Wallace,Bubba Wallace,4025
+5546,Daytona International Speedway,7,9,Chase Elliott,Chase Elliott,4062
+5546,Daytona International Speedway,8,12,Ryan Blaney,Ryan Blaney,4023
+5546,Daytona International Speedway,9,22,Joey Logano,Joey Logano,3859
+5546,Daytona International Speedway,10,2,Austin Cindric,Austin Cindric,4180
+5546,Daytona International Speedway,11,5,Kyle Larson,Kyle Larson,4030
+5546,Daytona International Speedway,12,1,Ross Chastain,Ross Chastain,4001
+5546,Daytona International Speedway,13,6,Brad Keselowski,Brad Keselowski,1816
+5546,Daytona International Speedway,14,11,Denny Hamlin,Denny Hamlin,1361
+5546,Daytona International Speedway,15,56,Martin Truex Jr.,Martin Truex Jr,3368
+5546,Daytona International Speedway,16,99,Daniel Suárez,Daniel Suárez,4113
+5546,Daytona International Speedway,17,16,AJ Allmendinger,AJ Allmendinger,3774
+5546,Daytona International Speedway,18,19,Chase Briscoe,Chase Briscoe,4228
+5546,Daytona International Speedway,19,1,Corey LaJoie,Corey LaJoie,4096
+5546,Daytona International Speedway,20,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5546,Daytona International Speedway,21,45,Tyler Reddick,Tyler Reddick,4065
+5546,Daytona International Speedway,22,51,Cody Ware,Cody Ware,4125
+5546,Daytona International Speedway,23,38,Zane Smith,Zane Smith,4272
+5546,Daytona International Speedway,24,43,Erik Jones,Erik Jones,4059
+5546,Daytona International Speedway,25,4,Noah Gragson,Noah Gragson,4224
+5546,Daytona International Speedway,26,54,Ty Gibbs,Ty Gibbs,4368
+5546,Daytona International Speedway,27,71,Michael McDowell,Michael McDowell,3832
+5546,Daytona International Speedway,28,34,Todd Gilliland,Todd Gilliland,4231
+5546,Daytona International Speedway,29,42,John H. Nemechek,John H. Nemechek,4092
+5546,Daytona International Speedway,30,7,Justin Haley,Justin Haley,4172
+5546,Daytona International Speedway,31,77,Carson Hocevar,Carson Hocevar,4326
+5546,Daytona International Speedway,32,21,Josh Berry,Josh Berry,4123
+5546,Daytona International Speedway,33,60,Ryan Preece,Ryan Preece,4070
+5546,Daytona International Speedway,34,3,Austin Dillon,Austin Dillon,3873
+5546,Daytona International Speedway,35,10,Ty Dillon,Ty Dillon,4013
+5546,Daytona International Speedway,36,62,Anthony Alfredo,Anthony Alfredo,4301
+5546,Daytona International Speedway,37,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5546,Daytona International Speedway,38,78,BJ McLeod,BJ McLeod,3973
+5546,Daytona International Speedway,39,66,Chandler Smith,Chandler Smith,4312
+5546,Daytona International Speedway,40,44,J.J. Yeley,JJ Yeley,3669
+5546,Daytona International Speedway,41,41,Cole Custer,Cole Custer,4104
+5546,Daytona International Speedway,42,84,Jimmie Johnson,Jimmie Johnson,1717
+5546,Daytona International Speedway,43,35,Riley Herbst,Riley Herbst,4269
+5546,Daytona International Speedway,44,40,Justin Allgaier,Justin Allgaier,34
+5546,Daytona International Speedway,45,91,Hélio Castroneves,Hélio Castroneves,4505
+5547,Atlanta Motor Speedway,1,12,Ryan Blaney,Ryan Blaney,4023
+5547,Atlanta Motor Speedway,2,24,William Byron,William Byron,4184
+5547,Atlanta Motor Speedway,3,9,Chase Elliott,Chase Elliott,4062
+5547,Atlanta Motor Speedway,4,2,Austin Cindric,Austin Cindric,4180
+5547,Atlanta Motor Speedway,5,8,Kyle Busch,Kyle Busch,454
+5547,Atlanta Motor Speedway,6,20,Christopher Bell,Christopher Bell,4153
+5547,Atlanta Motor Speedway,7,22,Joey Logano,Joey Logano,3859
+5547,Atlanta Motor Speedway,8,99,Daniel Suárez,Daniel Suárez,4113
+5547,Atlanta Motor Speedway,9,48,Alex Bowman,Alex Bowman,4045
+5547,Atlanta Motor Speedway,10,23,Bubba Wallace,Bubba Wallace,4025
+5547,Atlanta Motor Speedway,11,17,Chris Buescher,Chris Buescher,3989
+5547,Atlanta Motor Speedway,12,1,Ross Chastain,Ross Chastain,4001
+5547,Atlanta Motor Speedway,13,6,Brad Keselowski,Brad Keselowski,1816
+5547,Atlanta Motor Speedway,14,71,Michael McDowell,Michael McDowell,3832
+5547,Atlanta Motor Speedway,15,5,Kyle Larson,Kyle Larson,4030
+5547,Atlanta Motor Speedway,16,11,Denny Hamlin,Denny Hamlin,1361
+5547,Atlanta Motor Speedway,17,16,AJ Allmendinger,AJ Allmendinger,3774
+5547,Atlanta Motor Speedway,18,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5547,Atlanta Motor Speedway,19,45,Tyler Reddick,Tyler Reddick,4065
+5547,Atlanta Motor Speedway,20,43,Erik Jones,Erik Jones,4059
+5547,Atlanta Motor Speedway,21,1,Corey LaJoie,Corey LaJoie,4096
+5547,Atlanta Motor Speedway,22,7,Justin Haley,Justin Haley,4172
+5547,Atlanta Motor Speedway,23,54,Ty Gibbs,Ty Gibbs,4368
+5547,Atlanta Motor Speedway,24,34,Todd Gilliland,Todd Gilliland,4231
+5547,Atlanta Motor Speedway,25,19,Chase Briscoe,Chase Briscoe,4228
+5547,Atlanta Motor Speedway,26,60,Ryan Preece,Ryan Preece,4070
+5547,Atlanta Motor Speedway,27,77,Carson Hocevar,Carson Hocevar,4326
+5547,Atlanta Motor Speedway,28,10,Ty Dillon,Ty Dillon,4013
+5547,Atlanta Motor Speedway,29,4,Noah Gragson,Noah Gragson,4224
+5547,Atlanta Motor Speedway,30,3,Austin Dillon,Austin Dillon,3873
+5547,Atlanta Motor Speedway,31,41,Cole Custer,Cole Custer,4104
+5547,Atlanta Motor Speedway,32,21,Josh Berry,Josh Berry,4123
+5547,Atlanta Motor Speedway,33,42,John Hunter Nemechek,John H. Nemechek,4092
+5547,Atlanta Motor Speedway,34,38,Zane Smith,Zane Smith,4272
+5547,Atlanta Motor Speedway,35,51,Cody Ware,Cody Ware,4125
+5547,Atlanta Motor Speedway,36,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5547,Atlanta Motor Speedway,37,44,J.J. Yeley,JJ Yeley,3669
+5547,Atlanta Motor Speedway,38,35,Riley Herbst,Riley Herbst,4269
+5547,Atlanta Motor Speedway,39,78,BJ McLeod,BJ McLeod,3973
+5548,Las Vegas Motor Speedway,1,24,William Byron,William Byron,4184
+5548,Las Vegas Motor Speedway,2,5,Kyle Larson,Kyle Larson,4030
+5548,Las Vegas Motor Speedway,3,20,Christopher Bell,Christopher Bell,4153
+5548,Las Vegas Motor Speedway,4,11,Denny Hamlin,Denny Hamlin,1361
+5548,Las Vegas Motor Speedway,5,48,Alex Bowman,Alex Bowman,4045
+5548,Las Vegas Motor Speedway,6,45,Tyler Reddick,Tyler Reddick,4065
+5548,Las Vegas Motor Speedway,7,1,Ross Chastain,Ross Chastain,4001
+5548,Las Vegas Motor Speedway,8,17,Chris Buescher,Chris Buescher,3989
+5548,Las Vegas Motor Speedway,9,12,Ryan Blaney,Ryan Blaney,4023
+5548,Las Vegas Motor Speedway,10,8,Kyle Busch,Kyle Busch,454
+5548,Las Vegas Motor Speedway,11,22,Joey Logano,Joey Logano,3859
+5548,Las Vegas Motor Speedway,12,9,Chase Elliott,Chase Elliott,4062
+5548,Las Vegas Motor Speedway,13,23,Bubba Wallace,Bubba Wallace,4025
+5548,Las Vegas Motor Speedway,14,99,Daniel Suárez,Daniel Suárez,4113
+5548,Las Vegas Motor Speedway,15,16,AJ Allmendinger,AJ Allmendinger,3774
+5548,Las Vegas Motor Speedway,16,2,Austin Cindric,Austin Cindric,4180
+5548,Las Vegas Motor Speedway,17,4,Noah Gragson,Noah Gragson,4224
+5548,Las Vegas Motor Speedway,18,6,Brad Keselowski,Brad Keselowski,1816
+5548,Las Vegas Motor Speedway,19,77,Carson Hocevar,Carson Hocevar,4326
+5548,Las Vegas Motor Speedway,20,43,Erik Jones,Erik Jones,4059
+5548,Las Vegas Motor Speedway,21,21,Josh Berry,Josh Berry,4123
+5548,Las Vegas Motor Speedway,22,60,Ryan Preece,Ryan Preece,4070
+5548,Las Vegas Motor Speedway,23,71,Michael McDowell,Michael McDowell,3832
+5548,Las Vegas Motor Speedway,24,19,Chase Briscoe,Chase Briscoe,4228
+5548,Las Vegas Motor Speedway,25,3,Austin Dillon,Austin Dillon,3873
+5548,Las Vegas Motor Speedway,26,42,John H. Nemechek,John H. Nemechek,4092
+5548,Las Vegas Motor Speedway,27,54,Ty Gibbs,Ty Gibbs,4368
+5548,Las Vegas Motor Speedway,28,38,Zane Smith,Zane Smith,4272
+5548,Las Vegas Motor Speedway,29,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5548,Las Vegas Motor Speedway,30,41,Cole Custer,Cole Custer,4104
+5548,Las Vegas Motor Speedway,31,7,Justin Haley,Justin Haley,4172
+5548,Las Vegas Motor Speedway,32,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5548,Las Vegas Motor Speedway,33,10,Ty Dillon,Ty Dillon,4013
+5548,Las Vegas Motor Speedway,34,34,Todd Gilliland,Todd Gilliland,4231
+5548,Las Vegas Motor Speedway,35,51,Cody Ware,Cody Ware,4125
+5548,Las Vegas Motor Speedway,36,35,Riley Herbst,Riley Herbst,4269
+5549,Phoenix Raceway,1,12,Ryan Blaney,Ryan Blaney,4023
+5549,Phoenix Raceway,2,20,Christopher Bell,Christopher Bell,4153
+5549,Phoenix Raceway,3,24,William Byron,William Byron,4184
+5549,Phoenix Raceway,4,9,Chase Elliott,Chase Elliott,4062
+5549,Phoenix Raceway,5,11,Denny Hamlin,Denny Hamlin,1361
+5549,Phoenix Raceway,6,17,Chris Buescher,Chris Buescher,3989
+5549,Phoenix Raceway,7,22,Joey Logano,Joey Logano,3859
+5549,Phoenix Raceway,8,5,Kyle Larson,Kyle Larson,4030
+5549,Phoenix Raceway,9,1,Ross Chastain,Ross Chastain,4001
+5549,Phoenix Raceway,10,45,Tyler Reddick,Tyler Reddick,4065
+5549,Phoenix Raceway,11,23,Bubba Wallace,Bubba Wallace,4025
+5549,Phoenix Raceway,12,77,Carson Hocevar,Carson Hocevar,4326
+5549,Phoenix Raceway,13,21,Josh Berry,Josh Berry,4123
+5549,Phoenix Raceway,14,19,Chase Briscoe,Chase Briscoe,4228
+5549,Phoenix Raceway,15,6,Brad Keselowski,Brad Keselowski,1816
+5549,Phoenix Raceway,16,71,Michael McDowell,Michael McDowell,3832
+5549,Phoenix Raceway,17,43,Erik Jones,Erik Jones,4059
+5549,Phoenix Raceway,18,48,Alex Bowman,Alex Bowman,4045
+5549,Phoenix Raceway,19,8,Kyle Busch,Kyle Busch,454
+5549,Phoenix Raceway,20,2,Austin Cindric,Austin Cindric,4180
+5549,Phoenix Raceway,21,99,Daniel Suárez,Daniel Suárez,4113
+5549,Phoenix Raceway,22,60,Ryan Preece,Ryan Preece,4070
+5549,Phoenix Raceway,23,41,Cole Custer,Cole Custer,4104
+5549,Phoenix Raceway,24,16,AJ Allmendinger,AJ Allmendinger,3774
+5549,Phoenix Raceway,25,4,Noah Gragson,Noah Gragson,4224
+5549,Phoenix Raceway,26,3,Austin Dillon,Austin Dillon,3873
+5549,Phoenix Raceway,27,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5549,Phoenix Raceway,28,34,Todd Gilliland,Todd Gilliland,4231
+5549,Phoenix Raceway,29,54,Ty Gibbs,Ty Gibbs,4368
+5549,Phoenix Raceway,30,7,Justin Haley,Justin Haley,4172
+5549,Phoenix Raceway,31,35,Riley Herbst,Riley Herbst,4269
+5549,Phoenix Raceway,32,38,Zane Smith,Zane Smith,4272
+5549,Phoenix Raceway,33,10,Ty Dillon,Ty Dillon,4013
+5549,Phoenix Raceway,34,42,John H. Nemechek,John H. Nemechek,4092
+5549,Phoenix Raceway,35,51,Cody Ware,Cody Ware,4125
+5549,Phoenix Raceway,36,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5549,Phoenix Raceway,37,78,Katherine Legge,Katherine Legge,4284
+5550,Bristol Motor Speedway,1,5,Kyle Larson,Kyle Larson,4030
+5550,Bristol Motor Speedway,2,11,Denny Hamlin,Denny Hamlin,1361
+5550,Bristol Motor Speedway,3,20,Christopher Bell,Christopher Bell,4153
+5550,Bristol Motor Speedway,4,9,Chase Elliott,Chase Elliott,4062
+5550,Bristol Motor Speedway,5,48,Alex Bowman,Alex Bowman,4045
+5550,Bristol Motor Speedway,6,24,William Byron,William Byron,4184
+5550,Bristol Motor Speedway,7,17,Chris Buescher,Chris Buescher,3989
+5550,Bristol Motor Speedway,8,12,Ryan Blaney,Ryan Blaney,4023
+5550,Bristol Motor Speedway,9,54,Ty Gibbs,Ty Gibbs,4368
+5550,Bristol Motor Speedway,10,1,Ross Chastain,Ross Chastain,4001
+5550,Bristol Motor Speedway,11,19,Chase Briscoe,Chase Briscoe,4228
+5550,Bristol Motor Speedway,12,23,Bubba Wallace,Bubba Wallace,4025
+5550,Bristol Motor Speedway,13,45,Tyler Reddick,Tyler Reddick,4065
+5550,Bristol Motor Speedway,14,6,Brad Keselowski,Brad Keselowski,1816
+5550,Bristol Motor Speedway,15,21,Josh Berry,Josh Berry,4123
+5550,Bristol Motor Speedway,16,77,Carson Hocevar,Carson Hocevar,4326
+5550,Bristol Motor Speedway,17,8,Kyle Busch,Kyle Busch,454
+5550,Bristol Motor Speedway,18,71,Michael McDowell,Michael McDowell,3832
+5550,Bristol Motor Speedway,19,60,Ryan Preece,Ryan Preece,4070
+5550,Bristol Motor Speedway,20,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5550,Bristol Motor Speedway,21,22,Joey Logano,Joey Logano,3859
+5550,Bristol Motor Speedway,22,4,Noah Gragson,Noah Gragson,4224
+5550,Bristol Motor Speedway,23,16,A.J. Allmendinger,AJ Allmendinger,3774
+5550,Bristol Motor Speedway,24,42,John H Nemechek,John H. Nemechek,4092
+5550,Bristol Motor Speedway,25,3,Austin Dillon,Austin Dillon,3873
+5550,Bristol Motor Speedway,26,7,Justin Haley,Justin Haley,4172
+5550,Bristol Motor Speedway,27,2,Austin Cindric,Austin Cindric,4180
+5550,Bristol Motor Speedway,28,99,Daniel Suarez,Daniel Suárez,4113
+5550,Bristol Motor Speedway,29,43,Erik Jones,Erik Jones,4059
+5550,Bristol Motor Speedway,30,41,Cole Custer,Cole Custer,4104
+5550,Bristol Motor Speedway,31,38,Zane Smith,Zane Smith,4272
+5550,Bristol Motor Speedway,32,34,Todd Gilliland,Todd Gilliland,4231
+5550,Bristol Motor Speedway,33,10,Ty Dillon,Ty Dillon,4013
+5550,Bristol Motor Speedway,34,1,Corey LaJoie,Corey LaJoie,4096
+5550,Bristol Motor Speedway,35,51,Cody Ware,Cody Ware,4125
+5550,Bristol Motor Speedway,36,35,Riley Herbst,Riley Herbst,4269
+5550,Bristol Motor Speedway,37,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5550,Bristol Motor Speedway,38,33,Jesse Love,Jesse Love,4463
+5550,Bristol Motor Speedway,39,66,Josh Bilicki,Josh Bilicki,4213
+5551,Circuit of The Americas,1,5,Kyle Larson,Kyle Larson,4030
+5551,Circuit of The Americas,2,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5551,Circuit of The Americas,3,9,Chase Elliott,Chase Elliott,4062
+5551,Circuit of The Americas,4,1,Ross Chastain,Ross Chastain,4001
+5551,Circuit of The Americas,5,45,Tyler Reddick,Tyler Reddick,4065
+5551,Circuit of The Americas,6,24,William Byron,William Byron,4184
+5551,Circuit of The Americas,7,20,Christopher Bell,Christopher Bell,4153
+5551,Circuit of The Americas,8,16,AJ Allmendinger,AJ Allmendinger,3774
+5551,Circuit of The Americas,9,17,Chris Buescher,Chris Buescher,3989
+5551,Circuit of The Americas,10,54,Ty Gibbs,Ty Gibbs,4368
+5551,Circuit of The Americas,11,48,Alex Bowman,Alex Bowman,4045
+5551,Circuit of The Americas,12,71,Michael McDowell,Michael McDowell,3832
+5551,Circuit of The Americas,13,8,Kyle Busch,Kyle Busch,454
+5551,Circuit of The Americas,14,12,Ryan Blaney,Ryan Blaney,4023
+5551,Circuit of The Americas,15,11,Denny Hamlin,Denny Hamlin,1361
+5551,Circuit of The Americas,16,2,Austin Cindric,Austin Cindric,4180
+5551,Circuit of The Americas,17,77,Carson Hocevar,Carson Hocevar,4326
+5551,Circuit of The Americas,18,22,Joey Logano,Joey Logano,3859
+5551,Circuit of The Americas,19,19,Chase Briscoe,Chase Briscoe,4228
+5551,Circuit of The Americas,20,99,Daniel Suárez,Daniel Suárez,4113
+5551,Circuit of The Americas,21,34,Todd Gilliland,Todd Gilliland,4231
+5551,Circuit of The Americas,22,23,Bubba Wallace,Bubba Wallace,4025
+5551,Circuit of The Americas,23,38,Zane Smith,Zane Smith,4272
+5551,Circuit of The Americas,24,60,Ryan Preece,Ryan Preece,4070
+5551,Circuit of The Americas,25,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5551,Circuit of The Americas,26,6,Brad Keselowski,Brad Keselowski,1816
+5551,Circuit of The Americas,27,4,Noah Gragson,Noah Gragson,4224
+5551,Circuit of The Americas,28,3,Austin Dillon,Austin Dillon,3873
+5551,Circuit of The Americas,29,7,Justin Haley,Justin Haley,4172
+5551,Circuit of The Americas,30,42,John H. Nemechek,John H. Nemechek,4092
+5551,Circuit of The Americas,31,43,Erik Jones,Erik Jones,4059
+5551,Circuit of The Americas,32,21,Josh Berry,Josh Berry,4123
+5551,Circuit of The Americas,33,10,Ty Dillon,Ty Dillon,4013
+5551,Circuit of The Americas,34,51,Cody Ware,Cody Ware,4125
+5551,Circuit of The Americas,35,41,Cole Custer,Cole Custer,4104
+5551,Circuit of The Americas,36,87,Connor Zilisch,Connor Zilisch,4481
+5551,Circuit of The Americas,37,35,Riley Herbst,Riley Herbst,4269
+5552,Autódromo Hermanos Rodríguez,1,5,Kyle Larson,Kyle Larson,4030
+5552,Autódromo Hermanos Rodríguez,2,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5552,Autódromo Hermanos Rodríguez,3,20,Christopher Bell,Christopher Bell,4153
+5552,Autódromo Hermanos Rodríguez,4,9,Chase Elliott,Chase Elliott,4062
+5552,Autódromo Hermanos Rodríguez,5,24,William Byron,William Byron,4184
+5552,Autódromo Hermanos Rodríguez,6,1,Ross Chastain,Ross Chastain,4001
+5552,Autódromo Hermanos Rodríguez,7,16,AJ Allmendinger,AJ Allmendinger,3774
+5552,Autódromo Hermanos Rodríguez,8,54,Ty Gibbs,Ty Gibbs,4368
+5552,Autódromo Hermanos Rodríguez,9,17,Chris Buescher,Chris Buescher,3989
+5552,Autódromo Hermanos Rodríguez,10,45,Tyler Reddick,Tyler Reddick,4065
+5552,Autódromo Hermanos Rodríguez,11,71,Michael McDowell,Michael McDowell,3832
+5552,Autódromo Hermanos Rodríguez,12,8,Kyle Busch,Kyle Busch,454
+5552,Autódromo Hermanos Rodríguez,13,12,Ryan Blaney,Ryan Blaney,4023
+5552,Autódromo Hermanos Rodríguez,14,22,Joey Logano,Joey Logano,3859
+5552,Autódromo Hermanos Rodríguez,15,19,Chase Briscoe,Chase Briscoe,4228
+5552,Autódromo Hermanos Rodríguez,16,77,Carson Hocevar,Carson Hocevar,4326
+5552,Autódromo Hermanos Rodríguez,17,48,Alex Bowman,Alex Bowman,4045
+5552,Autódromo Hermanos Rodríguez,18,99,Daniel Suárez,Daniel Suárez,4113
+5552,Autódromo Hermanos Rodríguez,19,2,Austin Cindric,Austin Cindric,4180
+5552,Autódromo Hermanos Rodríguez,20,34,Todd Gilliland,Todd Gilliland,4231
+5552,Autódromo Hermanos Rodríguez,21,60,Ryan Preece,Ryan Preece,4070
+5552,Autódromo Hermanos Rodríguez,22,23,Bubba Wallace,Bubba Wallace,4025
+5552,Autódromo Hermanos Rodríguez,23,35,Riley Herbst,Riley Herbst,4269
+5552,Autódromo Hermanos Rodríguez,24,38,Zane Smith,Zane Smith,4272
+5552,Autódromo Hermanos Rodríguez,25,6,Brad Keselowski,Brad Keselowski,1816
+5552,Autódromo Hermanos Rodríguez,26,7,Justin Haley,Justin Haley,4172
+5552,Autódromo Hermanos Rodríguez,27,3,Austin Dillon,Austin Dillon,3873
+5552,Autódromo Hermanos Rodríguez,28,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5552,Autódromo Hermanos Rodríguez,29,43,Erik Jones,Erik Jones,4059
+5552,Autódromo Hermanos Rodríguez,30,4,Noah Gragson,Noah Gragson,4224
+5552,Autódromo Hermanos Rodríguez,31,41,Cole Custer,Cole Custer,4104
+5552,Autódromo Hermanos Rodríguez,32,21,Josh Berry,Josh Berry,4123
+5552,Autódromo Hermanos Rodríguez,33,42,John Hunter Nemechek,John H. Nemechek,4092
+5552,Autódromo Hermanos Rodríguez,34,10,Ty Dillon,Ty Dillon,4013
+5552,Autódromo Hermanos Rodríguez,35,51,Cody Ware,Cody Ware,4125
+5552,Autódromo Hermanos Rodríguez,36,11,Ryan Truex,Ryan Truex,3952
+5552,Autódromo Hermanos Rodríguez,37,78,Katherine Legge,Katherine Legge,4284
+5553,Martinsville Speedway,1,9,Chase Elliott,Chase Elliott,4062
+5553,Martinsville Speedway,2,11,Denny Hamlin,Denny Hamlin,1361
+5553,Martinsville Speedway,3,5,Kyle Larson,Kyle Larson,4030
+5553,Martinsville Speedway,4,24,William Byron,William Byron,4184
+5553,Martinsville Speedway,5,12,Ryan Blaney,Ryan Blaney,4023
+5553,Martinsville Speedway,6,22,Joey Logano,Joey Logano,3859
+5553,Martinsville Speedway,7,20,Christopher Bell,Christopher Bell,4153
+5553,Martinsville Speedway,8,19,Chase Briscoe,Chase Briscoe,4228
+5553,Martinsville Speedway,9,23,Bubba Wallace,Bubba Wallace,4025
+5553,Martinsville Speedway,10,48,Alex Bowman,Alex Bowman,4045
+5553,Martinsville Speedway,11,1,Ross Chastain,Ross Chastain,4001
+5553,Martinsville Speedway,12,41,Cole Custer,Cole Custer,4104
+5553,Martinsville Speedway,13,17,Chris Buescher,Chris Buescher,3989
+5553,Martinsville Speedway,14,21,Josh Berry,Josh Berry,4123
+5553,Martinsville Speedway,15,60,Ryan Preece,Ryan Preece,4070
+5553,Martinsville Speedway,16,99,Daniel Suárez,Daniel Suárez,4113
+5553,Martinsville Speedway,17,45,Tyler Reddick,Tyler Reddick,4065
+5553,Martinsville Speedway,18,8,Kyle Busch,Kyle Busch,454
+5553,Martinsville Speedway,19,2,Austin Cindric,Austin Cindric,4180
+5553,Martinsville Speedway,20,6,Brad Keselowski,Brad Keselowski,1816
+5553,Martinsville Speedway,21,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5553,Martinsville Speedway,22,54,Ty Gibbs,Ty Gibbs,4368
+5553,Martinsville Speedway,23,4,Noah Gragson,Noah Gragson,4224
+5553,Martinsville Speedway,24,34,Todd Gilliland,Todd Gilliland,4231
+5553,Martinsville Speedway,25,3,Austin Dillon,Austin Dillon,3873
+5553,Martinsville Speedway,26,71,Michael McDowell,Michael McDowell,3832
+5553,Martinsville Speedway,27,43,Erik Jones,Erik Jones,4059
+5553,Martinsville Speedway,28,16,AJ Allmendinger,AJ Allmendinger,3774
+5553,Martinsville Speedway,29,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5553,Martinsville Speedway,30,77,Carson Hocevar,Carson Hocevar,4326
+5553,Martinsville Speedway,31,38,Zane Smith,Zane Smith,4272
+5553,Martinsville Speedway,32,10,Ty Dillon,Ty Dillon,4013
+5553,Martinsville Speedway,33,42,John Hunter Nemechek,John H. Nemechek,4092
+5553,Martinsville Speedway,34,7,Justin Haley,Justin Haley,4172
+5553,Martinsville Speedway,35,51,Cody Ware,Cody Ware,4125
+5553,Martinsville Speedway,36,35,Riley Herbst,Riley Herbst,4269
+5553,Martinsville Speedway,37,66,Casey Mears,Casey Mears,2215
+5553,Martinsville Speedway,38,50,Burt Myers,Burt Myers,3918
+5554,Texas Motor Speedway,1,24,William Byron,William Byron,4184
+5554,Texas Motor Speedway,2,5,Kyle Larson,Kyle Larson,4030
+5554,Texas Motor Speedway,3,11,Denny Hamlin,Denny Hamlin,1361
+5554,Texas Motor Speedway,4,45,Tyler Reddick,Tyler Reddick,4065
+5554,Texas Motor Speedway,5,20,Christopher Bell,Christopher Bell,4153
+5554,Texas Motor Speedway,6,48,Alex Bowman,Alex Bowman,4045
+5554,Texas Motor Speedway,7,9,Chase Elliott,Chase Elliott,4062
+5554,Texas Motor Speedway,8,17,Chris Buescher,Chris Buescher,3989
+5554,Texas Motor Speedway,9,23,Bubba Wallace,Bubba Wallace,4025
+5554,Texas Motor Speedway,10,77,Carson Hocevar,Carson Hocevar,4326
+5554,Texas Motor Speedway,11,19,Chase Briscoe,Chase Briscoe,4228
+5554,Texas Motor Speedway,12,22,Joey Logano,Joey Logano,3859
+5554,Texas Motor Speedway,13,54,Ty Gibbs,Ty Gibbs,4368
+5554,Texas Motor Speedway,14,12,Ryan Blaney,Ryan Blaney,4023
+5554,Texas Motor Speedway,15,16,AJ Allmendinger,AJ Allmendinger,3774
+5554,Texas Motor Speedway,16,2,Austin Cindric,Austin Cindric,4180
+5554,Texas Motor Speedway,17,8,Kyle Busch,Kyle Busch,454
+5554,Texas Motor Speedway,18,1,Ross Chastain,Ross Chastain,4001
+5554,Texas Motor Speedway,19,99,Daniel Suárez,Daniel Suárez,4113
+5554,Texas Motor Speedway,20,6,Brad Keselowski,Brad Keselowski,1816
+5554,Texas Motor Speedway,21,4,Noah Gragson,Noah Gragson,4224
+5554,Texas Motor Speedway,22,43,Erik Jones,Erik Jones,4059
+5554,Texas Motor Speedway,23,71,Michael McDowell,Michael McDowell,3832
+5554,Texas Motor Speedway,24,3,Austin Dillon,Austin Dillon,3873
+5554,Texas Motor Speedway,25,60,Ryan Preece,Ryan Preece,4070
+5554,Texas Motor Speedway,26,21,Josh Berry,Josh Berry,4123
+5554,Texas Motor Speedway,27,7,Justin Haley,Justin Haley,4172
+5554,Texas Motor Speedway,28,38,Zane Smith,Zane Smith,4272
+5554,Texas Motor Speedway,29,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5554,Texas Motor Speedway,30,10,Ty Dillon,Ty Dillon,4013
+5554,Texas Motor Speedway,31,42,John Hunter Nemechek,John H. Nemechek,4092
+5554,Texas Motor Speedway,32,41,Cole Custer,Cole Custer,4104
+5554,Texas Motor Speedway,33,34,Todd Gilliland,Todd Gilliland,4231
+5554,Texas Motor Speedway,34,35,Riley Herbst,Riley Herbst,4269
+5554,Texas Motor Speedway,35,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5554,Texas Motor Speedway,36,51,Cody Ware,Cody Ware,4125
+5554,Texas Motor Speedway,37,62,Jesse Love,Jesse Love,4463
+5554,Texas Motor Speedway,38,66,Chad Finchum,Chad Finchum,4232
+5555,Talladega Superspeedway,1,24,William Byron,William Byron,4184
+5555,Talladega Superspeedway,2,9,Chase Elliott,Chase Elliott,4062
+5555,Talladega Superspeedway,3,12,Ryan Blaney,Ryan Blaney,4023
+5555,Talladega Superspeedway,4,20,Christopher Bell,Christopher Bell,4153
+5555,Talladega Superspeedway,5,5,Kyle Larson,Kyle Larson,4030
+5555,Talladega Superspeedway,6,48,Alex Bowman,Alex Bowman,4045
+5555,Talladega Superspeedway,7,11,Denny Hamlin,Denny Hamlin,1361
+5555,Talladega Superspeedway,8,2,Austin Cindric,Austin Cindric,4180
+5555,Talladega Superspeedway,9,17,Chris Buescher,Chris Buescher,3989
+5555,Talladega Superspeedway,10,8,Kyle Busch,Kyle Busch,454
+5555,Talladega Superspeedway,11,45,Tyler Reddick,Tyler Reddick,4065
+5555,Talladega Superspeedway,12,23,Bubba Wallace,Bubba Wallace,4025
+5555,Talladega Superspeedway,13,19,Chase Briscoe,Chase Briscoe,4228
+5555,Talladega Superspeedway,14,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5555,Talladega Superspeedway,15,22,Joey Logano,Joey Logano,3859
+5555,Talladega Superspeedway,16,1,Ross Chastain,Ross Chastain,4001
+5555,Talladega Superspeedway,17,6,Brad Keselowski,Brad Keselowski,1816
+5555,Talladega Superspeedway,18,34,Todd Gilliland,Todd Gilliland,4231
+5555,Talladega Superspeedway,19,99,Daniel Suárez,Daniel Suárez,4113
+5555,Talladega Superspeedway,20,7,Justin Haley,Justin Haley,4172
+5555,Talladega Superspeedway,21,43,Erik Jones,Erik Jones,4059
+5555,Talladega Superspeedway,22,54,Ty Gibbs,Ty Gibbs,4368
+5555,Talladega Superspeedway,23,4,Noah Gragson,Noah Gragson,4224
+5555,Talladega Superspeedway,24,71,Michael McDowell,Michael McDowell,3832
+5555,Talladega Superspeedway,25,35,Riley Herbst,Riley Herbst,4269
+5555,Talladega Superspeedway,26,21,Josh Berry,Josh Berry,4123
+5555,Talladega Superspeedway,27,16,AJ Allmendinger,AJ Allmendinger,3774
+5555,Talladega Superspeedway,28,77,Carson Hocevar,Carson Hocevar,4326
+5555,Talladega Superspeedway,29,60,Ryan Preece,Ryan Preece,4070
+5555,Talladega Superspeedway,30,3,Austin Dillon,Austin Dillon,3873
+5555,Talladega Superspeedway,31,42,John Hunter Nemechek,John H. Nemechek,4092
+5555,Talladega Superspeedway,32,10,Ty Dillon,Ty Dillon,4013
+5555,Talladega Superspeedway,33,41,Cole Custer,Cole Custer,4104
+5555,Talladega Superspeedway,34,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5555,Talladega Superspeedway,35,38,Zane Smith,Zane Smith,4272
+5555,Talladega Superspeedway,36,51,Cody Ware,Cody Ware,4125
+5555,Talladega Superspeedway,37,62,Anthony Alfredo,Anthony Alfredo,4301
+5555,Talladega Superspeedway,38,78,BJ McLeod,BJ McLeod,3973
+5555,Talladega Superspeedway,39,44,J.J. Yeley,JJ Yeley,3669
+5557,Kansas Speedway,1,5,Kyle Larson,Kyle Larson,4030
+5557,Kansas Speedway,2,24,William Byron,William Byron,4184
+5557,Kansas Speedway,3,11,Denny Hamlin,Denny Hamlin,1361
+5557,Kansas Speedway,4,9,Chase Elliott,Chase Elliott,4062
+5557,Kansas Speedway,5,20,Christopher Bell,Christopher Bell,4153
+5557,Kansas Speedway,6,48,Alex Bowman,Alex Bowman,4045
+5557,Kansas Speedway,7,45,Tyler Reddick,Tyler Reddick,4065
+5557,Kansas Speedway,8,17,Chris Buescher,Chris Buescher,3989
+5557,Kansas Speedway,9,12,Ryan Blaney,Ryan Blaney,4023
+5557,Kansas Speedway,10,1,Ross Chastain,Ross Chastain,4001
+5557,Kansas Speedway,11,23,Bubba Wallace,Bubba Wallace,4025
+5557,Kansas Speedway,12,22,Joey Logano,Joey Logano,3859
+5557,Kansas Speedway,13,54,Ty Gibbs,Ty Gibbs,4368
+5557,Kansas Speedway,14,99,Daniel Suárez,Daniel Suárez,4113
+5557,Kansas Speedway,15,8,Kyle Busch,Kyle Busch,454
+5557,Kansas Speedway,16,3,Austin Dillon,Austin Dillon,3873
+5557,Kansas Speedway,17,2,Austin Cindric,Austin Cindric,4180
+5557,Kansas Speedway,18,71,Michael McDowell,Michael McDowell,3832
+5557,Kansas Speedway,19,77,Carson Hocevar,Carson Hocevar,4326
+5557,Kansas Speedway,20,19,Chase Briscoe,Chase Briscoe,4228
+5557,Kansas Speedway,21,6,Brad Keselowski,Brad Keselowski,1816
+5557,Kansas Speedway,22,7,Justin Haley,Justin Haley,4172
+5557,Kansas Speedway,23,16,AJ Allmendinger,AJ Allmendinger,3774
+5557,Kansas Speedway,24,38,Zane Smith,Zane Smith,4272
+5557,Kansas Speedway,25,4,Noah Gragson,Noah Gragson,4224
+5557,Kansas Speedway,26,43,Erik Jones,Erik Jones,4059
+5557,Kansas Speedway,27,21,Josh Berry,Josh Berry,4123
+5557,Kansas Speedway,28,60,Ryan Preece,Ryan Preece,4070
+5557,Kansas Speedway,29,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5557,Kansas Speedway,30,42,John Hunter Nemechek,John H. Nemechek,4092
+5557,Kansas Speedway,31,10,Ty Dillon,Ty Dillon,4013
+5557,Kansas Speedway,32,34,Todd Gilliland,Todd Gilliland,4231
+5557,Kansas Speedway,33,41,Cole Custer,Cole Custer,4104
+5557,Kansas Speedway,34,35,Riley Herbst,Riley Herbst,4269
+5557,Kansas Speedway,35,51,Cody Ware,Cody Ware,4125
+5557,Kansas Speedway,36,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5557,Kansas Speedway,37,33,Jesse Love,Jesse Love,4463
+5557,Kansas Speedway,38,67,Corey Heim,Corey Heim,4387
+5558,Darlington Raceway,1,24,William Byron,William Byron,4184
+5558,Darlington Raceway,2,11,Denny Hamlin,Denny Hamlin,1361
+5558,Darlington Raceway,3,5,Kyle Larson,Kyle Larson,4030
+5558,Darlington Raceway,4,45,Tyler Reddick,Tyler Reddick,4065
+5558,Darlington Raceway,5,23,Bubba Wallace,Bubba Wallace,4025
+5558,Darlington Raceway,6,9,Chase Elliott,Chase Elliott,4062
+5558,Darlington Raceway,7,20,Christopher Bell,Christopher Bell,4153
+5558,Darlington Raceway,8,12,Ryan Blaney,Ryan Blaney,4023
+5558,Darlington Raceway,9,6,Brad Keselowski,Brad Keselowski,1816
+5558,Darlington Raceway,10,17,Chris Buescher,Chris Buescher,3989
+5558,Darlington Raceway,11,8,Kyle Busch,Kyle Busch,454
+5558,Darlington Raceway,12,60,Ryan Preece,Ryan Preece,4070
+5558,Darlington Raceway,13,19,Chase Briscoe,Chase Briscoe,4228
+5558,Darlington Raceway,14,48,Alex Bowman,Alex Bowman,4045
+5558,Darlington Raceway,15,21,Josh Berry,Josh Berry,4123
+5558,Darlington Raceway,16,22,Joey Logano,Joey Logano,3859
+5558,Darlington Raceway,17,1,Ross Chastain,Ross Chastain,4001
+5558,Darlington Raceway,18,2,Austin Cindric,Austin Cindric,4180
+5558,Darlington Raceway,19,16,AJ Allmendinger,AJ Allmendinger,3774
+5558,Darlington Raceway,20,54,Ty Gibbs,Ty Gibbs,4368
+5558,Darlington Raceway,21,77,Carson Hocevar,Carson Hocevar,4326
+5558,Darlington Raceway,22,4,Noah Gragson,Noah Gragson,4224
+5558,Darlington Raceway,23,43,Erik Jones,Erik Jones,4059
+5558,Darlington Raceway,24,3,Austin Dillon,Austin Dillon,3873
+5558,Darlington Raceway,25,71,Michael McDowell,Michael McDowell,3832
+5558,Darlington Raceway,26,7,Justin Haley,Justin Haley,4172
+5558,Darlington Raceway,27,34,Todd Gilliland,Todd Gilliland,4231
+5558,Darlington Raceway,28,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5558,Darlington Raceway,29,41,Cole Custer,Cole Custer,4104
+5558,Darlington Raceway,30,38,Zane Smith,Zane Smith,4272
+5558,Darlington Raceway,31,99,Daniel Suárez,Daniel Suárez,4113
+5558,Darlington Raceway,32,42,John Hunter Nemechek,John H. Nemechek,4092
+5558,Darlington Raceway,33,10,Ty Dillon,Ty Dillon,4013
+5558,Darlington Raceway,34,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5558,Darlington Raceway,35,35,Riley Herbst,Riley Herbst,4269
+5558,Darlington Raceway,36,51,Cody Ware,Cody Ware,4125
+5558,Darlington Raceway,37,44,J.J. Yeley,JJ Yeley,3669
+5558,Darlington Raceway,38,33,Austin Hill,Austin Hill,4133
+5563,Charlotte Motor Speedway,1,5,Kyle Larson,Kyle Larson,4030
+5563,Charlotte Motor Speedway,2,24,William Byron,William Byron,4184
+5563,Charlotte Motor Speedway,3,45,Tyler Reddick,Tyler Reddick,4065
+5563,Charlotte Motor Speedway,4,20,Christopher Bell,Christopher Bell,4153
+5563,Charlotte Motor Speedway,5,48,Alex Bowman,Alex Bowman,4045
+5563,Charlotte Motor Speedway,6,11,Denny Hamlin,Denny Hamlin,1361
+5563,Charlotte Motor Speedway,7,9,Chase Elliott,Chase Elliott,4062
+5563,Charlotte Motor Speedway,8,17,Chris Buescher,Chris Buescher,3989
+5563,Charlotte Motor Speedway,9,12,Ryan Blaney,Ryan Blaney,4023
+5563,Charlotte Motor Speedway,10,19,Chase Briscoe,Chase Briscoe,4228
+5563,Charlotte Motor Speedway,11,22,Joey Logano,Joey Logano,3859
+5563,Charlotte Motor Speedway,12,16,AJ Allmendinger,AJ Allmendinger,3774
+5563,Charlotte Motor Speedway,13,1,Ross Chastain,Ross Chastain,4001
+5563,Charlotte Motor Speedway,14,54,Ty Gibbs,Ty Gibbs,4368
+5563,Charlotte Motor Speedway,15,21,Josh Berry,Josh Berry,4123
+5563,Charlotte Motor Speedway,16,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5563,Charlotte Motor Speedway,17,23,Bubba Wallace,Bubba Wallace,4025
+5563,Charlotte Motor Speedway,18,2,Austin Cindric,Austin Cindric,4180
+5563,Charlotte Motor Speedway,19,8,Kyle Busch,Kyle Busch,454
+5563,Charlotte Motor Speedway,20,71,Michael McDowell,Michael McDowell,3832
+5563,Charlotte Motor Speedway,21,99,Daniel Suárez,Daniel Suárez,4113
+5563,Charlotte Motor Speedway,22,6,Brad Keselowski,Brad Keselowski,1816
+5563,Charlotte Motor Speedway,23,42,John Hunter Nemechek,John H. Nemechek,4092
+5563,Charlotte Motor Speedway,24,4,Noah Gragson,Noah Gragson,4224
+5563,Charlotte Motor Speedway,25,77,Carson Hocevar,Carson Hocevar,4326
+5563,Charlotte Motor Speedway,26,3,Austin Dillon,Austin Dillon,3873
+5563,Charlotte Motor Speedway,27,60,Ryan Preece,Ryan Preece,4070
+5563,Charlotte Motor Speedway,28,38,Zane Smith,Zane Smith,4272
+5563,Charlotte Motor Speedway,29,7,Justin Haley,Justin Haley,4172
+5563,Charlotte Motor Speedway,30,43,Erik Jones,Erik Jones,4059
+5563,Charlotte Motor Speedway,31,34,Todd Gilliland,Todd Gilliland,4231
+5563,Charlotte Motor Speedway,32,10,Ty Dillon,Ty Dillon,4013
+5563,Charlotte Motor Speedway,33,41,Cole Custer,Cole Custer,4104
+5563,Charlotte Motor Speedway,34,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5563,Charlotte Motor Speedway,35,35,Riley Herbst,Riley Herbst,4269
+5563,Charlotte Motor Speedway,36,51,Cody Ware,Cody Ware,4125
+5563,Charlotte Motor Speedway,37,84,Jimmie Johnson,Jimmie Johnson,1717
+5563,Charlotte Motor Speedway,38,87,Connor Zilisch,Connor Zilisch,4481
+5563,Charlotte Motor Speedway,39,44,Derek Kraus,Derek Kraus,4297
+5563,Charlotte Motor Speedway,40,66,Josh Bilicki,Josh Bilicki,4213
+5565,Sonoma Raceway,1,5,Kyle Larson,Kyle Larson,4030
+5565,Sonoma Raceway,2,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5565,Sonoma Raceway,3,20,Christopher Bell,Christopher Bell,4153
+5565,Sonoma Raceway,4,16,AJ Allmendinger,AJ Allmendinger,3774
+5565,Sonoma Raceway,5,45,Tyler Reddick,Tyler Reddick,4065
+5565,Sonoma Raceway,6,9,Chase Elliott,Chase Elliott,4062
+5565,Sonoma Raceway,7,1,Ross Chastain,Ross Chastain,4001
+5565,Sonoma Raceway,8,24,William Byron,William Byron,4184
+5565,Sonoma Raceway,9,17,Chris Buescher,Chris Buescher,3989
+5565,Sonoma Raceway,10,54,Ty Gibbs,Ty Gibbs,4368
+5565,Sonoma Raceway,11,12,Ryan Blaney,Ryan Blaney,4023
+5565,Sonoma Raceway,12,8,Kyle Busch,Kyle Busch,454
+5565,Sonoma Raceway,13,71,Michael McDowell,Michael McDowell,3832
+5565,Sonoma Raceway,14,48,Alex Bowman,Alex Bowman,4045
+5565,Sonoma Raceway,15,19,Chase Briscoe,Chase Briscoe,4228
+5565,Sonoma Raceway,16,11,Denny Hamlin,Denny Hamlin,1361
+5565,Sonoma Raceway,17,22,Joey Logano,Joey Logano,3859
+5565,Sonoma Raceway,18,77,Carson Hocevar,Carson Hocevar,4326
+5565,Sonoma Raceway,19,99,Daniel Suárez,Daniel Suárez,4113
+5565,Sonoma Raceway,20,2,Austin Cindric,Austin Cindric,4180
+5565,Sonoma Raceway,21,60,Ryan Preece,Ryan Preece,4070
+5565,Sonoma Raceway,22,6,Brad Keselowski,Brad Keselowski,1816
+5565,Sonoma Raceway,23,38,Zane Smith,Zane Smith,4272
+5565,Sonoma Raceway,24,23,Bubba Wallace,Bubba Wallace,4025
+5565,Sonoma Raceway,25,34,Todd Gilliland,Todd Gilliland,4231
+5565,Sonoma Raceway,26,42,John Hunter Nemechek,John H. Nemechek,4092
+5565,Sonoma Raceway,27,43,Erik Jones,Erik Jones,4059
+5565,Sonoma Raceway,28,4,Noah Gragson,Noah Gragson,4224
+5565,Sonoma Raceway,29,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5565,Sonoma Raceway,30,7,Justin Haley,Justin Haley,4172
+5565,Sonoma Raceway,31,41,Cole Custer,Cole Custer,4104
+5565,Sonoma Raceway,32,3,Austin Dillon,Austin Dillon,3873
+5565,Sonoma Raceway,33,35,Riley Herbst,Riley Herbst,4269
+5565,Sonoma Raceway,34,21,Josh Berry,Josh Berry,4123
+5565,Sonoma Raceway,35,10,Ty Dillon,Ty Dillon,4013
+5565,Sonoma Raceway,36,51,Cody Ware,Cody Ware,4125
+5565,Sonoma Raceway,37,78,Katherine Legge,Katherine Legge,4284
+5568,Nashville Superspeedway,1,11,Denny Hamlin,Denny Hamlin,1361
+5568,Nashville Superspeedway,2,5,Kyle Larson,Kyle Larson,4030
+5568,Nashville Superspeedway,3,20,Christopher Bell,Christopher Bell,4153
+5568,Nashville Superspeedway,4,1,Ross Chastain,Ross Chastain,4001
+5568,Nashville Superspeedway,5,24,William Byron,William Byron,4184
+5568,Nashville Superspeedway,6,9,Chase Elliott,Chase Elliott,4062
+5568,Nashville Superspeedway,7,45,Tyler Reddick,Tyler Reddick,4065
+5568,Nashville Superspeedway,8,12,Ryan Blaney,Ryan Blaney,4023
+5568,Nashville Superspeedway,9,22,Joey Logano,Joey Logano,3859
+5568,Nashville Superspeedway,10,17,Chris Buescher,Chris Buescher,3989
+5568,Nashville Superspeedway,11,54,Ty Gibbs,Ty Gibbs,4368
+5568,Nashville Superspeedway,12,23,Bubba Wallace,Bubba Wallace,4025
+5568,Nashville Superspeedway,13,19,Chase Briscoe,Chase Briscoe,4228
+5568,Nashville Superspeedway,14,48,Alex Bowman,Alex Bowman,4045
+5568,Nashville Superspeedway,15,16,AJ Allmendinger,AJ Allmendinger,3774
+5568,Nashville Superspeedway,16,8,Kyle Busch,Kyle Busch,454
+5568,Nashville Superspeedway,17,6,Brad Keselowski,Brad Keselowski,1816
+5568,Nashville Superspeedway,18,60,Ryan Preece,Ryan Preece,4070
+5568,Nashville Superspeedway,19,77,Carson Hocevar,Carson Hocevar,4326
+5568,Nashville Superspeedway,20,43,Erik Jones,Erik Jones,4059
+5568,Nashville Superspeedway,21,2,Austin Cindric,Austin Cindric,4180
+5568,Nashville Superspeedway,22,71,Michael McDowell,Michael McDowell,3832
+5568,Nashville Superspeedway,23,38,Zane Smith,Zane Smith,4272
+5568,Nashville Superspeedway,24,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5568,Nashville Superspeedway,25,21,Josh Berry,Josh Berry,4123
+5568,Nashville Superspeedway,26,4,Noah Gragson,Noah Gragson,4224
+5568,Nashville Superspeedway,27,3,Austin Dillon,Austin Dillon,3873
+5568,Nashville Superspeedway,28,7,Justin Haley,Justin Haley,4172
+5568,Nashville Superspeedway,29,99,Daniel Suárez,Daniel Suárez,4113
+5568,Nashville Superspeedway,30,67,Corey Heim,Corey Heim,4387
+5568,Nashville Superspeedway,31,42,John Hunter Nemechek,John H. Nemechek,4092
+5568,Nashville Superspeedway,32,34,Todd Gilliland,Todd Gilliland,4231
+5568,Nashville Superspeedway,33,41,Cole Custer,Cole Custer,4104
+5568,Nashville Superspeedway,34,10,Ty Dillon,Ty Dillon,4013
+5568,Nashville Superspeedway,35,35,Riley Herbst,Riley Herbst,4269
+5568,Nashville Superspeedway,36,51,Cody Ware,Cody Ware,4125
+5568,Nashville Superspeedway,37,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5568,Nashville Superspeedway,38,44,J.J. Yeley,JJ Yeley,3669
+5568,Nashville Superspeedway,39,66,Chad Finchum,Chad Finchum,4232
+5569,Chicago Street Race,1,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5569,Chicago Street Race,2,5,Kyle Larson,Kyle Larson,4030
+5569,Chicago Street Race,3,9,Chase Elliott,Chase Elliott,4062
+5569,Chicago Street Race,4,20,Christopher Bell,Christopher Bell,4153
+5569,Chicago Street Race,5,54,Ty Gibbs,Ty Gibbs,4368
+5569,Chicago Street Race,6,71,Michael McDowell,Michael McDowell,3832
+5569,Chicago Street Race,7,45,Tyler Reddick,Tyler Reddick,4065
+5569,Chicago Street Race,8,24,William Byron,William Byron,4184
+5569,Chicago Street Race,9,17,Chris Buescher,Chris Buescher,3989
+5569,Chicago Street Race,10,16,AJ Allmendinger,AJ Allmendinger,3774
+5569,Chicago Street Race,11,8,Kyle Busch,Kyle Busch,454
+5569,Chicago Street Race,12,1,Ross Chastain,Ross Chastain,4001
+5569,Chicago Street Race,13,12,Ryan Blaney,Ryan Blaney,4023
+5569,Chicago Street Race,14,77,Carson Hocevar,Carson Hocevar,4326
+5569,Chicago Street Race,15,22,Joey Logano,Joey Logano,3859
+5569,Chicago Street Race,16,48,Alex Bowman,Alex Bowman,4045
+5569,Chicago Street Race,17,19,Chase Briscoe,Chase Briscoe,4228
+5569,Chicago Street Race,18,11,Denny Hamlin,Denny Hamlin,1361
+5569,Chicago Street Race,19,2,Austin Cindric,Austin Cindric,4180
+5569,Chicago Street Race,20,6,Brad Keselowski,Brad Keselowski,1816
+5569,Chicago Street Race,21,99,Daniel Suárez,Daniel Suárez,4113
+5569,Chicago Street Race,22,23,Bubba Wallace,Bubba Wallace,4025
+5569,Chicago Street Race,23,34,Todd Gilliland,Todd Gilliland,4231
+5569,Chicago Street Race,24,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5569,Chicago Street Race,25,60,Ryan Preece,Ryan Preece,4070
+5569,Chicago Street Race,26,7,Justin Haley,Justin Haley,4172
+5569,Chicago Street Race,27,38,Zane Smith,Zane Smith,4272
+5569,Chicago Street Race,28,4,Noah Gragson,Noah Gragson,4224
+5569,Chicago Street Race,29,35,Riley Herbst,Riley Herbst,4269
+5569,Chicago Street Race,30,3,Austin Dillon,Austin Dillon,3873
+5569,Chicago Street Race,31,43,Erik Jones,Erik Jones,4059
+5569,Chicago Street Race,32,42,John Hunter Nemechek,John H. Nemechek,4092
+5569,Chicago Street Race,33,33,Austin Hill,Austin Hill,4133
+5569,Chicago Street Race,34,41,Cole Custer,Cole Custer,4104
+5569,Chicago Street Race,35,21,Josh Berry,Josh Berry,4123
+5569,Chicago Street Race,36,66,Josh Bilicki,Josh Bilicki,4213
+5569,Chicago Street Race,37,10,Ty Dillon,Ty Dillon,4013
+5569,Chicago Street Race,38,13,Will Brown,Will Brown,4492
+5569,Chicago Street Race,39,51,Cody Ware,Cody Ware,4125
+5569,Chicago Street Race,40,78,Katherine Legge,Katherine Legge,4284
+5569,Chicago Street Race,41,67,Corey Heim,Corey Heim,4387
+5570,Pocono Raceway,1,11,Denny Hamlin,Denny Hamlin,1361
+5570,Pocono Raceway,2,45,Tyler Reddick,Tyler Reddick,4065
+5570,Pocono Raceway,3,24,William Byron,William Byron,4184
+5570,Pocono Raceway,4,5,Kyle Larson,Kyle Larson,4030
+5570,Pocono Raceway,5,20,Christopher Bell,Christopher Bell,4153
+5570,Pocono Raceway,6,9,Chase Elliott,Chase Elliott,4062
+5570,Pocono Raceway,7,54,Ty Gibbs,Ty Gibbs,4368
+5570,Pocono Raceway,8,12,Ryan Blaney,Ryan Blaney,4023
+5570,Pocono Raceway,9,17,Chris Buescher,Chris Buescher,3989
+5570,Pocono Raceway,10,23,Bubba Wallace,Bubba Wallace,4025
+5570,Pocono Raceway,11,6,Brad Keselowski,Brad Keselowski,1816
+5570,Pocono Raceway,12,22,Joey Logano,Joey Logano,3859
+5570,Pocono Raceway,13,43,Erik Jones,Erik Jones,4059
+5570,Pocono Raceway,14,19,Chase Briscoe,Chase Briscoe,4228
+5570,Pocono Raceway,15,48,Alex Bowman,Alex Bowman,4045
+5570,Pocono Raceway,16,77,Carson Hocevar,Carson Hocevar,4326
+5570,Pocono Raceway,17,8,Kyle Busch,Kyle Busch,454
+5570,Pocono Raceway,18,99,Daniel Suárez,Daniel Suárez,4113
+5570,Pocono Raceway,19,1,Ross Chastain,Ross Chastain,4001
+5570,Pocono Raceway,20,60,Ryan Preece,Ryan Preece,4070
+5570,Pocono Raceway,21,2,Austin Cindric,Austin Cindric,4180
+5570,Pocono Raceway,22,3,Austin Dillon,Austin Dillon,3873
+5570,Pocono Raceway,23,71,Michael McDowell,Michael McDowell,3832
+5570,Pocono Raceway,24,16,AJ Allmendinger,AJ Allmendinger,3774
+5570,Pocono Raceway,25,42,John H. Nemechek,John H. Nemechek,4092
+5570,Pocono Raceway,26,41,Cole Custer,Cole Custer,4104
+5570,Pocono Raceway,27,4,Noah Gragson,Noah Gragson,4224
+5570,Pocono Raceway,28,38,Zane Smith,Zane Smith,4272
+5570,Pocono Raceway,29,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5570,Pocono Raceway,30,21,Josh Berry,Josh Berry,4123
+5570,Pocono Raceway,31,7,Justin Haley,Justin Haley,4172
+5570,Pocono Raceway,32,34,Todd Gilliland,Todd Gilliland,4231
+5570,Pocono Raceway,33,10,Ty Dillon,Ty Dillon,4013
+5570,Pocono Raceway,34,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5570,Pocono Raceway,35,35,Riley Herbst,Riley Herbst,4269
+5570,Pocono Raceway,36,51,Cody Ware,Cody Ware,4125
+5570,Pocono Raceway,37,44,Brennan Poole,Brennan Poole,4144
+5573,Michigan International Speedway,1,11,Denny Hamlin,Denny Hamlin,1361
+5573,Michigan International Speedway,2,24,William Byron,William Byron,4184
+5573,Michigan International Speedway,3,5,Kyle Larson,Kyle Larson,4030
+5573,Michigan International Speedway,4,17,Chris Buescher,Chris Buescher,3989
+5573,Michigan International Speedway,5,9,Chase Elliott,Chase Elliott,4062
+5573,Michigan International Speedway,6,12,Ryan Blaney,Ryan Blaney,4023
+5573,Michigan International Speedway,7,54,Ty Gibbs,Ty Gibbs,4368
+5573,Michigan International Speedway,8,45,Tyler Reddick,Tyler Reddick,4065
+5573,Michigan International Speedway,9,23,Bubba Wallace,Bubba Wallace,4025
+5573,Michigan International Speedway,10,20,Christopher Bell,Christopher Bell,4153
+5573,Michigan International Speedway,11,22,Joey Logano,Joey Logano,3859
+5573,Michigan International Speedway,12,1,Ross Chastain,Ross Chastain,4001
+5573,Michigan International Speedway,13,19,Chase Briscoe,Chase Briscoe,4228
+5573,Michigan International Speedway,14,77,Carson Hocevar,Carson Hocevar,4326
+5573,Michigan International Speedway,15,8,Kyle Busch,Kyle Busch,454
+5573,Michigan International Speedway,16,6,Brad Keselowski,Brad Keselowski,1816
+5573,Michigan International Speedway,17,48,Alex Bowman,Alex Bowman,4045
+5573,Michigan International Speedway,18,43,Erik Jones,Erik Jones,4059
+5573,Michigan International Speedway,19,38,Zane Smith,Zane Smith,4272
+5573,Michigan International Speedway,20,99,Daniel Suárez,Daniel Suárez,4113
+5573,Michigan International Speedway,21,2,Austin Cindric,Austin Cindric,4180
+5573,Michigan International Speedway,22,60,Ryan Preece,Ryan Preece,4070
+5573,Michigan International Speedway,23,3,Austin Dillon,Austin Dillon,3873
+5573,Michigan International Speedway,24,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5573,Michigan International Speedway,25,16,AJ Allmendinger,AJ Allmendinger,3774
+5573,Michigan International Speedway,26,42,John H. Nemechek,John H. Nemechek,4092
+5573,Michigan International Speedway,27,4,Noah Gragson,Noah Gragson,4224
+5573,Michigan International Speedway,28,21,Josh Berry,Josh Berry,4123
+5573,Michigan International Speedway,29,10,Ty Dillon,Ty Dillon,4013
+5573,Michigan International Speedway,30,71,Michael McDowell,Michael McDowell,3832
+5573,Michigan International Speedway,31,7,Justin Haley,Justin Haley,4172
+5573,Michigan International Speedway,32,34,Todd Gilliland,Todd Gilliland,4231
+5573,Michigan International Speedway,33,41,Cole Custer,Cole Custer,4104
+5573,Michigan International Speedway,34,51,Cody Ware,Cody Ware,4125
+5573,Michigan International Speedway,35,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5573,Michigan International Speedway,36,35,Riley Herbst,Riley Herbst,4269
+5576,Atlanta Motor Speedway,1,12,Ryan Blaney,Ryan Blaney,4023
+5576,Atlanta Motor Speedway,2,24,William Byron,William Byron,4184
+5576,Atlanta Motor Speedway,3,2,Austin Cindric,Austin Cindric,4180
+5576,Atlanta Motor Speedway,4,20,Christopher Bell,Christopher Bell,4153
+5576,Atlanta Motor Speedway,5,9,Chase Elliott,Chase Elliott,4062
+5576,Atlanta Motor Speedway,6,8,Kyle Busch,Kyle Busch,454
+5576,Atlanta Motor Speedway,7,5,Kyle Larson,Kyle Larson,4030
+5576,Atlanta Motor Speedway,8,22,Joey Logano,Joey Logano,3859
+5576,Atlanta Motor Speedway,9,11,Denny Hamlin,Denny Hamlin,1361
+5576,Atlanta Motor Speedway,10,1,Ross Chastain,Ross Chastain,4001
+5576,Atlanta Motor Speedway,11,45,Tyler Reddick,Tyler Reddick,4065
+5576,Atlanta Motor Speedway,12,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5576,Atlanta Motor Speedway,13,23,Bubba Wallace,Bubba Wallace,4025
+5576,Atlanta Motor Speedway,14,19,Chase Briscoe,Chase Briscoe,4228
+5576,Atlanta Motor Speedway,15,17,Chris Buescher,Chris Buescher,3989
+5576,Atlanta Motor Speedway,16,54,Ty Gibbs,Ty Gibbs,4368
+5576,Atlanta Motor Speedway,17,48,Alex Bowman,Alex Bowman,4045
+5576,Atlanta Motor Speedway,18,77,Carson Hocevar,Carson Hocevar,4326
+5576,Atlanta Motor Speedway,19,99,Daniel Suárez,Daniel Suárez,4113
+5576,Atlanta Motor Speedway,20,16,AJ Allmendinger,AJ Allmendinger,3774
+5576,Atlanta Motor Speedway,21,71,Michael McDowell,Michael McDowell,3832
+5576,Atlanta Motor Speedway,22,43,Erik Jones,Erik Jones,4059
+5576,Atlanta Motor Speedway,23,60,Ryan Preece,Ryan Preece,4070
+5576,Atlanta Motor Speedway,24,34,Todd Gilliland,Todd Gilliland,4231
+5576,Atlanta Motor Speedway,25,6,Brad Keselowski,Brad Keselowski,1816
+5576,Atlanta Motor Speedway,26,35,Riley Herbst,Riley Herbst,4269
+5576,Atlanta Motor Speedway,27,7,Justin Haley,Justin Haley,4172
+5576,Atlanta Motor Speedway,28,3,Austin Dillon,Austin Dillon,3873
+5576,Atlanta Motor Speedway,29,42,John Hunter Nemechek,John H. Nemechek,4092
+5576,Atlanta Motor Speedway,30,21,Josh Berry,Josh Berry,4123
+5576,Atlanta Motor Speedway,31,4,Noah Gragson,Noah Gragson,4224
+5576,Atlanta Motor Speedway,32,38,Zane Smith,Zane Smith,4272
+5576,Atlanta Motor Speedway,33,41,Cole Custer,Cole Custer,4104
+5576,Atlanta Motor Speedway,34,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5576,Atlanta Motor Speedway,35,10,Ty Dillon,Ty Dillon,4013
+5576,Atlanta Motor Speedway,36,1,Corey LaJoie,Corey LaJoie,4096
+5576,Atlanta Motor Speedway,37,51,Cody Ware,Cody Ware,4125
+5576,Atlanta Motor Speedway,38,87,Connor Zilisch,Connor Zilisch,4481
+5576,Atlanta Motor Speedway,39,78,BJ McLeod,BJ McLeod,3973
+5576,Atlanta Motor Speedway,40,66,David Starr,David Starr,3170
+5583,Homestead-Miami Speedway,1,24,William Byron,William Byron,4184
+5583,Homestead-Miami Speedway,2,5,Kyle Larson,Kyle Larson,4030
+5583,Homestead-Miami Speedway,3,20,Christopher Bell,Christopher Bell,4153
+5583,Homestead-Miami Speedway,4,9,Chase Elliott,Chase Elliott,4062
+5583,Homestead-Miami Speedway,5,12,Ryan Blaney,Ryan Blaney,4023
+5583,Homestead-Miami Speedway,6,11,Denny Hamlin,Denny Hamlin,1361
+5583,Homestead-Miami Speedway,7,45,Tyler Reddick,Tyler Reddick,4065
+5583,Homestead-Miami Speedway,8,48,Alex Bowman,Alex Bowman,4045
+5583,Homestead-Miami Speedway,9,23,Bubba Wallace,Bubba Wallace,4025
+5583,Homestead-Miami Speedway,10,16,AJ Allmendinger,AJ Allmendinger,3774
+5583,Homestead-Miami Speedway,11,17,Chris Buescher,Chris Buescher,3989
+5583,Homestead-Miami Speedway,12,21,Josh Berry,Josh Berry,4123
+5583,Homestead-Miami Speedway,13,22,Joey Logano,Joey Logano,3859
+5583,Homestead-Miami Speedway,14,77,Carson Hocevar,Carson Hocevar,4326
+5583,Homestead-Miami Speedway,15,99,Daniel Suárez,Daniel Suárez,4113
+5583,Homestead-Miami Speedway,16,4,Noah Gragson,Noah Gragson,4224
+5583,Homestead-Miami Speedway,17,2,Austin Cindric,Austin Cindric,4180
+5583,Homestead-Miami Speedway,18,1,Ross Chastain,Ross Chastain,4001
+5583,Homestead-Miami Speedway,19,6,Brad Keselowski,Brad Keselowski,1816
+5583,Homestead-Miami Speedway,20,8,Kyle Busch,Kyle Busch,454
+5583,Homestead-Miami Speedway,21,54,Ty Gibbs,Ty Gibbs,4368
+5583,Homestead-Miami Speedway,22,19,Chase Briscoe,Chase Briscoe,4228
+5583,Homestead-Miami Speedway,23,60,Ryan Preece,Ryan Preece,4070
+5583,Homestead-Miami Speedway,24,71,Michael McDowell,Michael McDowell,3832
+5583,Homestead-Miami Speedway,25,3,Austin Dillon,Austin Dillon,3873
+5583,Homestead-Miami Speedway,26,42,John Hunter Nemechek,John H. Nemechek,4092
+5583,Homestead-Miami Speedway,27,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5583,Homestead-Miami Speedway,28,43,Erik Jones,Erik Jones,4059
+5583,Homestead-Miami Speedway,29,7,Justin Haley,Justin Haley,4172
+5583,Homestead-Miami Speedway,30,38,Zane Smith,Zane Smith,4272
+5583,Homestead-Miami Speedway,31,41,Cole Custer,Cole Custer,4104
+5583,Homestead-Miami Speedway,32,34,Todd Gilliland,Todd Gilliland,4231
+5583,Homestead-Miami Speedway,33,10,Ty Dillon,Ty Dillon,4013
+5583,Homestead-Miami Speedway,34,35,Riley Herbst,Riley Herbst,4269
+5583,Homestead-Miami Speedway,35,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5583,Homestead-Miami Speedway,36,51,Cody Ware,Cody Ware,4125
+5583,Homestead-Miami Speedway,37,44,J.J. Yeley,JJ Yeley,3669
+5564,World Wide Technology Raceway,1,20,Christopher Bell*,Christopher Bell,4153
+5564,World Wide Technology Raceway,2,12,Ryan Blaney*,Ryan Blaney,4023
+5564,World Wide Technology Raceway,3,5,Kyle Larson*,Kyle Larson,4030
+5564,World Wide Technology Raceway,4,24,William Byron*,William Byron,4184
+5564,World Wide Technology Raceway,5,11,Denny Hamlin*,Denny Hamlin,1361
+5564,World Wide Technology Raceway,6,22,Joey Logano*,Joey Logano,3859
+5564,World Wide Technology Raceway,7,9,Chase Elliott*,Chase Elliott,4062
+5564,World Wide Technology Raceway,8,45,Tyler Reddick*,Tyler Reddick,4065
+5564,World Wide Technology Raceway,9,19,Chase Briscoe*,Chase Briscoe,4228
+5564,World Wide Technology Raceway,10,2,Austin Cindric*,Austin Cindric,4180
+5564,World Wide Technology Raceway,11,6,Brad Keselowski,Brad Keselowski,1816
+5564,World Wide Technology Raceway,12,1,Ross Chastain*,Ross Chastain,4001
+5564,World Wide Technology Raceway,13,23,Bubba Wallace*,Bubba Wallace,4025
+5564,World Wide Technology Raceway,14,48,Alex Bowman*,Alex Bowman,4045
+5564,World Wide Technology Raceway,15,17,Chris Buescher,Chris Buescher,3989
+5564,World Wide Technology Raceway,16,54,Ty Gibbs,Ty Gibbs,4368
+5564,World Wide Technology Raceway,17,16,AJ Allmendinger,AJ Allmendinger,3774
+5564,World Wide Technology Raceway,18,8,Kyle Busch,Kyle Busch,454
+5564,World Wide Technology Raceway,19,99,Daniel Suárez,Daniel Suárez,4113
+5564,World Wide Technology Raceway,20,77,Carson Hocevar,Carson Hocevar,4326
+5564,World Wide Technology Raceway,21,60,Ryan Preece,Ryan Preece,4070
+5564,World Wide Technology Raceway,22,71,Michael McDowell,Michael McDowell,3832
+5564,World Wide Technology Raceway,23,3,Austin Dillon*,Austin Dillon,3873
+5564,World Wide Technology Raceway,24,43,Erik Jones,Erik Jones,4059
+5564,World Wide Technology Raceway,25,38,Zane Smith,Zane Smith,4272
+5564,World Wide Technology Raceway,26,7,Justin Haley,Justin Haley,4172
+5564,World Wide Technology Raceway,27,21,Josh Berry*,Josh Berry,4123
+5564,World Wide Technology Raceway,28,42,John Hunter Nemechek,John H. Nemechek,4092
+5564,World Wide Technology Raceway,29,34,Todd Gilliland,Todd Gilliland,4231
+5564,World Wide Technology Raceway,30,4,Noah Gragson,Noah Gragson,4224
+5564,World Wide Technology Raceway,31,88,Shane van Gisbergen*,Shane van Gisbergen,4469
+5564,World Wide Technology Raceway,32,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5564,World Wide Technology Raceway,33,41,Cole Custer,Cole Custer,4104
+5564,World Wide Technology Raceway,34,10,Ty Dillon,Ty Dillon,4013
+5564,World Wide Technology Raceway,35,35,Riley Herbst,Riley Herbst,4269
+5564,World Wide Technology Raceway,36,51,Cody Ware,Cody Ware,4125
+5556,Dover Motor Speedway,1,11,Denny Hamlin,Denny Hamlin,1361
+5556,Dover Motor Speedway,2,5,Kyle Larson,Kyle Larson,4030
+5556,Dover Motor Speedway,3,9,Chase Elliott,Chase Elliott,4062
+5556,Dover Motor Speedway,4,24,William Byron,William Byron,4184
+5556,Dover Motor Speedway,5,12,Ryan Blaney,Ryan Blaney,4023
+5556,Dover Motor Speedway,6,20,Christopher Bell,Christopher Bell,4153
+5556,Dover Motor Speedway,7,1,Ross Chastain,Ross Chastain,4001
+5556,Dover Motor Speedway,8,17,Chris Buescher,Chris Buescher,3989
+5556,Dover Motor Speedway,9,54,Ty Gibbs,Ty Gibbs,4368
+5556,Dover Motor Speedway,10,48,Alex Bowman,Alex Bowman,4045
+5556,Dover Motor Speedway,11,45,Tyler Reddick,Tyler Reddick,4065
+5556,Dover Motor Speedway,12,19,Chase Briscoe,Chase Briscoe,4228
+5556,Dover Motor Speedway,13,8,Kyle Busch,Kyle Busch,454
+5556,Dover Motor Speedway,14,22,Joey Logano,Joey Logano,3859
+5556,Dover Motor Speedway,15,23,Bubba Wallace,Bubba Wallace,4025
+5556,Dover Motor Speedway,16,6,Brad Keselowski,Brad Keselowski,1816
+5556,Dover Motor Speedway,17,43,Erik Jones,Erik Jones,4059
+5556,Dover Motor Speedway,18,77,Carson Hocevar,Carson Hocevar,4326
+5556,Dover Motor Speedway,19,21,Josh Berry,Josh Berry,4123
+5556,Dover Motor Speedway,20,16,AJ Allmendinger,AJ Allmendinger,3774
+5556,Dover Motor Speedway,21,60,Ryan Preece,Ryan Preece,4070
+5556,Dover Motor Speedway,22,41,Cole Custer,Cole Custer,4104
+5556,Dover Motor Speedway,23,7,Justin Haley,Justin Haley,4172
+5556,Dover Motor Speedway,24,42,John Hunter Nemechek,John H. Nemechek,4092
+5556,Dover Motor Speedway,25,4,Noah Gragson,Noah Gragson,4224
+5556,Dover Motor Speedway,26,71,Michael McDowell,Michael McDowell,3832
+5556,Dover Motor Speedway,27,99,Daniel Suárez,Daniel Suárez,4113
+5556,Dover Motor Speedway,28,2,Austin Cindric,Austin Cindric,4180
+5556,Dover Motor Speedway,29,3,Austin Dillon,Austin Dillon,3873
+5556,Dover Motor Speedway,30,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5556,Dover Motor Speedway,31,38,Zane Smith,Zane Smith,4272
+5556,Dover Motor Speedway,32,10,Ty Dillon,Ty Dillon,4013
+5556,Dover Motor Speedway,33,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5556,Dover Motor Speedway,34,34,Todd Gilliland,Todd Gilliland,4231
+5556,Dover Motor Speedway,35,35,Riley Herbst,Riley Herbst,4269
+5556,Dover Motor Speedway,36,51,Cody Ware,Cody Ware,4125
+5556,Dover Motor Speedway,37,44,J.J. Yeley,JJ Yeley,3669
+5566,Iowa Speedway,1,20,Christopher Bell,Christopher Bell,4153
+5566,Iowa Speedway,2,24,William Byron,William Byron,4184
+5566,Iowa Speedway,3,9,Chase Elliott,Chase Elliott,4062
+5566,Iowa Speedway,4,12,Ryan Blaney,Ryan Blaney,4023
+5566,Iowa Speedway,5,11,Denny Hamlin,Denny Hamlin,1361
+5566,Iowa Speedway,6,48,Alex Bowman,Alex Bowman,4045
+5566,Iowa Speedway,7,6,Brad Keselowski,Brad Keselowski,1816
+5566,Iowa Speedway,8,5,Kyle Larson,Kyle Larson,4030
+5566,Iowa Speedway,9,22,Joey Logano,Joey Logano,3859
+5566,Iowa Speedway,10,17,Chris Buescher,Chris Buescher,3989
+5566,Iowa Speedway,11,23,Bubba Wallace,Bubba Wallace,4025
+5566,Iowa Speedway,12,19,Chase Briscoe,Chase Briscoe,4228
+5566,Iowa Speedway,13,21,Josh Berry,Josh Berry,4123
+5566,Iowa Speedway,14,45,Tyler Reddick,Tyler Reddick,4065
+5566,Iowa Speedway,15,1,Ross Chastain,Ross Chastain,4001
+5566,Iowa Speedway,16,77,Carson Hocevar,Carson Hocevar,4326
+5566,Iowa Speedway,17,54,Ty Gibbs,Ty Gibbs,4368
+5566,Iowa Speedway,18,7,Justin Haley,Justin Haley,4172
+5566,Iowa Speedway,19,99,Daniel Suárez,Daniel Suárez,4113
+5566,Iowa Speedway,20,2,Austin Cindric,Austin Cindric,4180
+5566,Iowa Speedway,21,71,Michael McDowell,Michael McDowell,3832
+5566,Iowa Speedway,22,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5566,Iowa Speedway,23,3,Austin Dillon,Austin Dillon,3873
+5566,Iowa Speedway,24,60,Ryan Preece,Ryan Preece,4070
+5566,Iowa Speedway,25,34,Todd Gilliland,Todd Gilliland,4231
+5566,Iowa Speedway,26,4,Noah Gragson,Noah Gragson,4224
+5566,Iowa Speedway,27,43,Erik Jones,Erik Jones,4059
+5566,Iowa Speedway,28,16,AJ Allmendinger,AJ Allmendinger,3774
+5566,Iowa Speedway,29,8,Kyle Busch,Kyle Busch,454
+5566,Iowa Speedway,30,42,John Hunter Nemechek,John H. Nemechek,4092
+5566,Iowa Speedway,31,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5566,Iowa Speedway,32,38,Zane Smith,Zane Smith,4272
+5566,Iowa Speedway,33,10,Ty Dillon,Ty Dillon,4013
+5566,Iowa Speedway,34,41,Cole Custer,Cole Custer,4104
+5566,Iowa Speedway,35,35,Riley Herbst,Riley Herbst,4269
+5566,Iowa Speedway,36,51,Cody Ware,Cody Ware,4125
+5566,Iowa Speedway,37,66,Joey Gase,Joey Gase,4004
+5571,Indianapolis Motor Speedway,1,11,Denny Hamlin,Denny Hamlin,1361
+5571,Indianapolis Motor Speedway,2,45,Tyler Reddick,Tyler Reddick,4065
+5571,Indianapolis Motor Speedway,3,5,Kyle Larson,Kyle Larson,4030
+5571,Indianapolis Motor Speedway,4,24,William Byron,William Byron,4184
+5571,Indianapolis Motor Speedway,5,9,Chase Elliott,Chase Elliott,4062
+5571,Indianapolis Motor Speedway,6,20,Christopher Bell,Christopher Bell,4153
+5571,Indianapolis Motor Speedway,7,17,Chris Buescher,Chris Buescher,3989
+5571,Indianapolis Motor Speedway,8,54,Ty Gibbs,Ty Gibbs,4368
+5571,Indianapolis Motor Speedway,9,6,Brad Keselowski,Brad Keselowski,1816
+5571,Indianapolis Motor Speedway,10,23,Bubba Wallace,Bubba Wallace,4025
+5571,Indianapolis Motor Speedway,11,22,Joey Logano,Joey Logano,3859
+5571,Indianapolis Motor Speedway,12,12,Ryan Blaney,Ryan Blaney,4023
+5571,Indianapolis Motor Speedway,13,8,Kyle Busch,Kyle Busch,454
+5571,Indianapolis Motor Speedway,14,19,Chase Briscoe,Chase Briscoe,4228
+5571,Indianapolis Motor Speedway,15,43,Erik Jones,Erik Jones,4059
+5571,Indianapolis Motor Speedway,16,2,Austin Cindric,Austin Cindric,4180
+5571,Indianapolis Motor Speedway,17,77,Carson Hocevar,Carson Hocevar,4326
+5571,Indianapolis Motor Speedway,18,99,Daniel Suárez,Daniel Suárez,4113
+5571,Indianapolis Motor Speedway,19,48,Alex Bowman,Alex Bowman,4045
+5571,Indianapolis Motor Speedway,20,71,Michael McDowell,Michael McDowell,3832
+5571,Indianapolis Motor Speedway,21,4,Noah Gragson,Noah Gragson,4224
+5571,Indianapolis Motor Speedway,22,1,Ross Chastain,Ross Chastain,4001
+5571,Indianapolis Motor Speedway,23,16,AJ Allmendinger,AJ Allmendinger,3774
+5571,Indianapolis Motor Speedway,24,41,Cole Custer,Cole Custer,4104
+5571,Indianapolis Motor Speedway,25,34,Todd Gilliland,Todd Gilliland,4231
+5571,Indianapolis Motor Speedway,26,38,Zane Smith,Zane Smith,4272
+5571,Indianapolis Motor Speedway,27,60,Ryan Preece,Ryan Preece,4070
+5571,Indianapolis Motor Speedway,28,42,John Hunter Nemechek,John H. Nemechek,4092
+5571,Indianapolis Motor Speedway,29,3,Austin Dillon,Austin Dillon,3873
+5571,Indianapolis Motor Speedway,30,7,Justin Haley,Justin Haley,4172
+5571,Indianapolis Motor Speedway,31,10,Ty Dillon,Ty Dillon,4013
+5571,Indianapolis Motor Speedway,32,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5571,Indianapolis Motor Speedway,33,21,Josh Berry,Josh Berry,4123
+5571,Indianapolis Motor Speedway,34,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5571,Indianapolis Motor Speedway,35,51,Cody Ware,Cody Ware,4125
+5571,Indianapolis Motor Speedway,36,35,Riley Herbst,Riley Herbst,4269
+5571,Indianapolis Motor Speedway,37,66,Josh Bilicki,Josh Bilicki,4213
+5571,Indianapolis Motor Speedway,38,78,Katherine Legge,Katherine Legge,4284
+5571,Indianapolis Motor Speedway,39,62,Jesse Love,Jesse Love,4463
+5572,Richmond Raceway,1,11,Denny Hamlin,Denny Hamlin,1361
+5572,Richmond Raceway,2,9,Chase Elliott,Chase Elliott,4062
+5572,Richmond Raceway,3,20,Christopher Bell,Christopher Bell,4153
+5572,Richmond Raceway,4,24,William Byron,William Byron,4184
+5572,Richmond Raceway,5,5,Kyle Larson,Kyle Larson,4030
+5572,Richmond Raceway,6,12,Ryan Blaney,Ryan Blaney,4023
+5572,Richmond Raceway,7,17,Chris Buescher,Chris Buescher,3989
+5572,Richmond Raceway,8,23,Bubba Wallace,Bubba Wallace,4025
+5572,Richmond Raceway,9,45,Tyler Reddick,Tyler Reddick,4065
+5572,Richmond Raceway,10,6,Brad Keselowski,Brad Keselowski,1816
+5572,Richmond Raceway,11,21,Josh Berry,Josh Berry,4123
+5572,Richmond Raceway,12,60,Ryan Preece,Ryan Preece,4070
+5572,Richmond Raceway,13,19,Chase Briscoe,Chase Briscoe,4228
+5572,Richmond Raceway,14,48,Alex Bowman,Alex Bowman,4045
+5572,Richmond Raceway,15,22,Joey Logano,Joey Logano,3859
+5572,Richmond Raceway,16,54,Ty Gibbs,Ty Gibbs,4368
+5572,Richmond Raceway,17,8,Kyle Busch,Kyle Busch,454
+5572,Richmond Raceway,18,1,Ross Chastain,Ross Chastain,4001
+5572,Richmond Raceway,19,2,Austin Cindric,Austin Cindric,4180
+5572,Richmond Raceway,20,3,Austin Dillon,Austin Dillon,3873
+5572,Richmond Raceway,21,77,Carson Hocevar,Carson Hocevar,4326
+5572,Richmond Raceway,22,16,AJ Allmendinger,AJ Allmendinger,3774
+5572,Richmond Raceway,23,99,Daniel Suárez,Daniel Suárez,4113
+5572,Richmond Raceway,24,71,Michael McDowell,Michael McDowell,3832
+5572,Richmond Raceway,25,43,Erik Jones,Erik Jones,4059
+5572,Richmond Raceway,26,10,Ty Dillon,Ty Dillon,4013
+5572,Richmond Raceway,27,7,Justin Haley,Justin Haley,4172
+5572,Richmond Raceway,28,4,Noah Gragson,Noah Gragson,4224
+5572,Richmond Raceway,29,34,Todd Gilliland,Todd Gilliland,4231
+5572,Richmond Raceway,30,42,John Hunter Nemechek,John H. Nemechek,4092
+5572,Richmond Raceway,31,38,Zane Smith,Zane Smith,4272
+5572,Richmond Raceway,32,41,Cole Custer,Cole Custer,4104
+5572,Richmond Raceway,33,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5572,Richmond Raceway,34,35,Riley Herbst,Riley Herbst,4269
+5572,Richmond Raceway,35,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5572,Richmond Raceway,36,33,Jesse Love,Jesse Love,4463
+5572,Richmond Raceway,37,67,Corey Heim,Corey Heim,4387
+5572,Richmond Raceway,38,51,Cody Ware,Cody Ware,4125
+5574,Daytona International Speedway,1,48,Alex Bowman,Alex Bowman,4045
+5574,Daytona International Speedway,2,24,William Byron,William Byron,4184
+5574,Daytona International Speedway,3,9,Chase Elliott,Chase Elliott,4062
+5574,Daytona International Speedway,4,17,Chris Buescher,Chris Buescher,3989
+5574,Daytona International Speedway,5,23,Bubba Wallace,Bubba Wallace,4025
+5574,Daytona International Speedway,6,19,Chase Briscoe,Chase Briscoe,4228
+5574,Daytona International Speedway,7,20,Christopher Bell,Christopher Bell,4153
+5574,Daytona International Speedway,8,5,Kyle Larson,Kyle Larson,4030
+5574,Daytona International Speedway,9,12,Ryan Blaney,Ryan Blaney,4023
+5574,Daytona International Speedway,10,2,Austin Cindric,Austin Cindric,4180
+5574,Daytona International Speedway,11,54,Ty Gibbs,Ty Gibbs,4368
+5574,Daytona International Speedway,12,8,Kyle Busch,Kyle Busch,454
+5574,Daytona International Speedway,13,6,Brad Keselowski,Brad Keselowski,1816
+5574,Daytona International Speedway,14,22,Joey Logano,Joey Logano,3859
+5574,Daytona International Speedway,15,45,Tyler Reddick,Tyler Reddick,4065
+5574,Daytona International Speedway,16,11,Denny Hamlin,Denny Hamlin,1361
+5574,Daytona International Speedway,17,42,John H Nemechek,John H. Nemechek,4092
+5574,Daytona International Speedway,18,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5574,Daytona International Speedway,19,16,AJ Allmendinger,AJ Allmendinger,3774
+5574,Daytona International Speedway,20,1,Ross Chastain,Ross Chastain,4001
+5574,Daytona International Speedway,21,43,Erik Jones,Erik Jones,4059
+5574,Daytona International Speedway,22,77,Carson Hocevar,Carson Hocevar,4326
+5574,Daytona International Speedway,23,60,Ryan Preece,Ryan Preece,4070
+5574,Daytona International Speedway,24,99,Daniel Suárez,Daniel Suárez,4113
+5574,Daytona International Speedway,25,38,Zane Smith,Zane Smith,4272
+5574,Daytona International Speedway,26,71,Michael McDowell,Michael McDowell,3832
+5574,Daytona International Speedway,27,7,Justin Haley,Justin Haley,4172
+5574,Daytona International Speedway,28,10,Ty Dillon,Ty Dillon,4013
+5574,Daytona International Speedway,29,21,Josh Berry,Josh Berry,4123
+5574,Daytona International Speedway,30,4,Noah Gragson,Noah Gragson,4224
+5574,Daytona International Speedway,31,41,Cole Custer,Cole Custer,4104
+5574,Daytona International Speedway,32,35,Riley Herbst,Riley Herbst,4269
+5574,Daytona International Speedway,33,3,Austin Dillon,Austin Dillon,3873
+5574,Daytona International Speedway,34,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5574,Daytona International Speedway,35,51,Cody Ware,Cody Ware,4125
+5574,Daytona International Speedway,36,34,Todd Gilliland,Todd Gilliland,4231
+5574,Daytona International Speedway,37,33,Austin Hill,Austin Hill,4133
+5574,Daytona International Speedway,38,78,BJ McLeod,BJ McLeod,3973
+5574,Daytona International Speedway,39,44,Joey Gase,Joey Gase,4004
+5574,Daytona International Speedway,40,66,Casey Mears,Casey Mears,2215
+5575,Darlington Raceway,1,24,William Byron*,William Byron,4184
+5575,Darlington Raceway,2,11,Denny Hamlin*,Denny Hamlin,1361
+5575,Darlington Raceway,3,45,Tyler Reddick*,Tyler Reddick,4065
+5575,Darlington Raceway,4,5,Kyle Larson*,Kyle Larson,4030
+5575,Darlington Raceway,5,9,Chase Elliott*,Chase Elliott,4062
+5575,Darlington Raceway,6,20,Christopher Bell*,Christopher Bell,4153
+5575,Darlington Raceway,7,12,Ryan Blaney*,Ryan Blaney,4023
+5575,Darlington Raceway,8,23,Bubba Wallace*,Bubba Wallace,4025
+5575,Darlington Raceway,9,19,Chase Briscoe*,Chase Briscoe,4228
+5575,Darlington Raceway,10,17,Chris Buescher,Chris Buescher,3989
+5575,Darlington Raceway,11,54,Ty Gibbs,Ty Gibbs,4368
+5575,Darlington Raceway,12,6,Brad Keselowski,Brad Keselowski,1816
+5575,Darlington Raceway,13,22,Joey Logano*,Joey Logano,3859
+5575,Darlington Raceway,14,1,Ross Chastain*,Ross Chastain,4001
+5575,Darlington Raceway,15,8,Kyle Busch,Kyle Busch,454
+5575,Darlington Raceway,16,2,Austin Cindric*,Austin Cindric,4180
+5575,Darlington Raceway,17,48,Alex Bowman*,Alex Bowman,4045
+5575,Darlington Raceway,18,43,Erik Jones,Erik Jones,4059
+5575,Darlington Raceway,19,21,Josh Berry*,Josh Berry,4123
+5575,Darlington Raceway,20,16,AJ Allmendinger,AJ Allmendinger,3774
+5575,Darlington Raceway,21,7,Justin Haley,Justin Haley,4172
+5575,Darlington Raceway,22,3,Austin Dillon*,Austin Dillon,3873
+5575,Darlington Raceway,23,60,Ryan Preece,Ryan Preece,4070
+5575,Darlington Raceway,24,99,Daniel Suárez,Daniel Suárez,4113
+5575,Darlington Raceway,25,88,Shane van Gisbergen*,Shane van Gisbergen,4469
+5575,Darlington Raceway,26,34,Todd Gilliland,Todd Gilliland,4231
+5575,Darlington Raceway,27,41,Cole Custer,Cole Custer,4104
+5575,Darlington Raceway,28,38,Zane Smith,Zane Smith,4272
+5575,Darlington Raceway,29,4,Noah Gragson,Noah Gragson,4224
+5575,Darlington Raceway,30,71,Michael McDowell,Michael McDowell,3832
+5575,Darlington Raceway,31,77,Carson Hocevar,Carson Hocevar,4326
+5575,Darlington Raceway,32,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5575,Darlington Raceway,33,10,Ty Dillon,Ty Dillon,4013
+5575,Darlington Raceway,34,42,John H Nemechek,John H. Nemechek,4092
+5575,Darlington Raceway,35,35,Riley Herbst,Riley Herbst,4269
+5575,Darlington Raceway,36,51,Cody Ware,Cody Ware,4125
+5575,Darlington Raceway,37,44,Derek Kraus,Derek Kraus,4297
+5575,Darlington Raceway,38,66,Timmy Hill,Timmy Hill,3984
+5577,Watkins Glen International,1,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5577,Watkins Glen International,2,20,Christopher Bell,Christopher Bell,4153
+5577,Watkins Glen International,3,24,William Byron,William Byron,4184
+5577,Watkins Glen International,4,9,Chase Elliott,Chase Elliott,4062
+5577,Watkins Glen International,5,5,Kyle Larson,Kyle Larson,4030
+5577,Watkins Glen International,6,45,Tyler Reddick,Tyler Reddick,4065
+5577,Watkins Glen International,7,17,Chris Buescher,Chris Buescher,3989
+5577,Watkins Glen International,8,54,Ty Gibbs,Ty Gibbs,4368
+5577,Watkins Glen International,9,16,AJ Allmendinger,AJ Allmendinger,3774
+5577,Watkins Glen International,10,19,Chase Briscoe,Chase Briscoe,4228
+5577,Watkins Glen International,11,1,Ross Chastain,Ross Chastain,4001
+5577,Watkins Glen International,12,48,Alex Bowman,Alex Bowman,4045
+5577,Watkins Glen International,13,12,Ryan Blaney,Ryan Blaney,4023
+5577,Watkins Glen International,14,71,Michael McDowell,Michael McDowell,3832
+5577,Watkins Glen International,15,8,Kyle Busch,Kyle Busch,454
+5577,Watkins Glen International,16,77,Carson Hocevar,Carson Hocevar,4326
+5577,Watkins Glen International,17,11,Denny Hamlin,Denny Hamlin,1361
+5577,Watkins Glen International,18,22,Joey Logano,Joey Logano,3859
+5577,Watkins Glen International,19,2,Austin Cindric,Austin Cindric,4180
+5577,Watkins Glen International,20,6,Brad Keselowski,Brad Keselowski,1816
+5577,Watkins Glen International,21,23,Bubba Wallace,Bubba Wallace,4025
+5577,Watkins Glen International,22,99,Daniel Suárez,Daniel Suárez,4113
+5577,Watkins Glen International,23,60,Ryan Preece,Ryan Preece,4070
+5577,Watkins Glen International,24,38,Zane Smith,Zane Smith,4272
+5577,Watkins Glen International,25,34,Todd Gilliland,Todd Gilliland,4231
+5577,Watkins Glen International,26,7,Justin Haley,Justin Haley,4172
+5577,Watkins Glen International,27,4,Noah Gragson,Noah Gragson,4224
+5577,Watkins Glen International,28,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5577,Watkins Glen International,29,42,John Hunter Nemechek,John H. Nemechek,4092
+5577,Watkins Glen International,30,41,Cole Custer,Cole Custer,4104
+5577,Watkins Glen International,31,21,Josh Berry,Josh Berry,4123
+5577,Watkins Glen International,32,3,Austin Dillon,Austin Dillon,3873
+5577,Watkins Glen International,33,43,Erik Jones,Erik Jones,4059
+5577,Watkins Glen International,34,35,Riley Herbst,Riley Herbst,4269
+5577,Watkins Glen International,35,10,Ty Dillon,Ty Dillon,4013
+5577,Watkins Glen International,36,51,Cody Ware,Cody Ware,4125
+5577,Watkins Glen International,37,66,Josh Bilicki,Josh Bilicki,4213
+5577,Watkins Glen International,38,78,Katherine Legge,Katherine Legge,4284
+5577,Watkins Glen International,39,44,JJ Yeley,JJ Yeley,3669
+5577,Watkins Glen International,40,87,Connor Zilisch,Connor Zilisch,4481
+5578,Bristol Motor Speedway,1,11,Denny Hamlin,Denny Hamlin,1361
+5578,Bristol Motor Speedway,2,5,Kyle Larson,Kyle Larson,4030
+5578,Bristol Motor Speedway,3,20,Christopher Bell,Christopher Bell,4153
+5578,Bristol Motor Speedway,4,12,Ryan Blaney,Ryan Blaney,4023
+5578,Bristol Motor Speedway,5,9,Chase Elliott,Chase Elliott,4062
+5578,Bristol Motor Speedway,6,54,Ty Gibbs,Ty Gibbs,4368
+5578,Bristol Motor Speedway,7,24,William Byron,William Byron,4184
+5578,Bristol Motor Speedway,8,19,Chase Briscoe,Chase Briscoe,4228
+5578,Bristol Motor Speedway,9,23,Bubba Wallace,Bubba Wallace,4025
+5578,Bristol Motor Speedway,10,17,Chris Buescher,Chris Buescher,3989
+5578,Bristol Motor Speedway,11,48,Alex Bowman,Alex Bowman,4045
+5578,Bristol Motor Speedway,12,1,Ross Chastain,Ross Chastain,4001
+5578,Bristol Motor Speedway,13,45,Tyler Reddick,Tyler Reddick,4065
+5578,Bristol Motor Speedway,14,6,Brad Keselowski,Brad Keselowski,1816
+5578,Bristol Motor Speedway,15,60,Ryan Preece,Ryan Preece,4070
+5578,Bristol Motor Speedway,16,77,Carson Hocevar,Carson Hocevar,4326
+5578,Bristol Motor Speedway,17,16,AJ Allmendinger,AJ Allmendinger,3774
+5578,Bristol Motor Speedway,18,2,Austin Cindric,Austin Cindric,4180
+5578,Bristol Motor Speedway,19,71,Michael McDowell,Michael McDowell,3832
+5578,Bristol Motor Speedway,20,22,Joey Logano,Joey Logano,3859
+5578,Bristol Motor Speedway,21,8,Kyle Busch,Kyle Busch,454
+5578,Bristol Motor Speedway,22,21,Josh Berry,Josh Berry,4123
+5578,Bristol Motor Speedway,23,7,Justin Haley,Justin Haley,4172
+5578,Bristol Motor Speedway,24,42,John H Nemechek,John H. Nemechek,4092
+5578,Bristol Motor Speedway,25,3,Austin Dillon,Austin Dillon,3873
+5578,Bristol Motor Speedway,26,43,Erik Jones,Erik Jones,4059
+5578,Bristol Motor Speedway,27,4,Noah Gragson,Noah Gragson,4224
+5578,Bristol Motor Speedway,28,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5578,Bristol Motor Speedway,29,99,Daniel Suárez,Daniel Suárez,4113
+5578,Bristol Motor Speedway,30,41,Cole Custer,Cole Custer,4104
+5578,Bristol Motor Speedway,31,38,Zane Smith,Zane Smith,4272
+5578,Bristol Motor Speedway,32,35,Riley Herbst,Riley Herbst,4269
+5578,Bristol Motor Speedway,33,34,Todd Gilliland,Todd Gilliland,4231
+5578,Bristol Motor Speedway,34,10,Ty Dillon,Ty Dillon,4013
+5578,Bristol Motor Speedway,35,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5578,Bristol Motor Speedway,36,67,Corey Heim,Corey Heim,4387
+5578,Bristol Motor Speedway,37,51,Cody Ware,Cody Ware,4125
+5578,Bristol Motor Speedway,38,33,Austin Hill,Austin Hill,4133
+5578,Bristol Motor Speedway,39,66,Chad Finchum,Chad Finchum,4232
+5567,New Hampshire Motor Speedway,1,12,Ryan Blaney,Ryan Blaney,4023
+5567,New Hampshire Motor Speedway,2,20,Christopher Bell,Christopher Bell,4153
+5567,New Hampshire Motor Speedway,3,22,Joey Logano,Joey Logano,3859
+5567,New Hampshire Motor Speedway,4,11,Denny Hamlin,Denny Hamlin,1361
+5567,New Hampshire Motor Speedway,5,24,William Byron,William Byron,4184
+5567,New Hampshire Motor Speedway,6,5,Kyle Larson,Kyle Larson,4030
+5567,New Hampshire Motor Speedway,7,9,Chase Elliott,Chase Elliott,4062
+5567,New Hampshire Motor Speedway,8,6,Brad Keselowski,Brad Keselowski,1816
+5567,New Hampshire Motor Speedway,9,21,Josh Berry,Josh Berry,4123
+5567,New Hampshire Motor Speedway,10,45,Tyler Reddick,Tyler Reddick,4065
+5567,New Hampshire Motor Speedway,11,19,Chase Briscoe,Chase Briscoe,4228
+5567,New Hampshire Motor Speedway,12,77,Carson Hocevar,Carson Hocevar,4326
+5567,New Hampshire Motor Speedway,13,23,Bubba Wallace,Bubba Wallace,4025
+5567,New Hampshire Motor Speedway,14,48,Alex Bowman,Alex Bowman,4045
+5567,New Hampshire Motor Speedway,15,17,Chris Buescher,Chris Buescher,3989
+5567,New Hampshire Motor Speedway,16,54,Ty Gibbs,Ty Gibbs,4368
+5567,New Hampshire Motor Speedway,17,1,Ross Chastain,Ross Chastain,4001
+5567,New Hampshire Motor Speedway,18,2,Austin Cindric,Austin Cindric,4180
+5567,New Hampshire Motor Speedway,19,16,AJ Allmendinger,AJ Allmendinger,3774
+5567,New Hampshire Motor Speedway,20,71,Michael McDowell,Michael McDowell,3832
+5567,New Hampshire Motor Speedway,21,60,Ryan Preece,Ryan Preece,4070
+5567,New Hampshire Motor Speedway,22,3,Austin Dillon,Austin Dillon,3873
+5567,New Hampshire Motor Speedway,23,99,Daniel Suárez,Daniel Suárez,4113
+5567,New Hampshire Motor Speedway,24,7,Justin Haley,Justin Haley,4172
+5567,New Hampshire Motor Speedway,25,43,Erik Jones,Erik Jones,4059
+5567,New Hampshire Motor Speedway,26,42,John Hunter Nemechek,John H. Nemechek,4092
+5567,New Hampshire Motor Speedway,27,8,Kyle Busch,Kyle Busch,454
+5567,New Hampshire Motor Speedway,28,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5567,New Hampshire Motor Speedway,29,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5567,New Hampshire Motor Speedway,30,4,Noah Gragson,Noah Gragson,4224
+5567,New Hampshire Motor Speedway,31,38,Zane Smith,Zane Smith,4272
+5567,New Hampshire Motor Speedway,32,34,Todd Gilliland,Todd Gilliland,4231
+5567,New Hampshire Motor Speedway,33,41,Cole Custer,Cole Custer,4104
+5567,New Hampshire Motor Speedway,34,10,Ty Dillon,Ty Dillon,4013
+5567,New Hampshire Motor Speedway,35,35,Riley Herbst,Riley Herbst,4269
+5567,New Hampshire Motor Speedway,36,51,Cody Ware,Cody Ware,4125
+5579,Kansas Speedway,1,5,Kyle Larson,Kyle Larson,4030
+5579,Kansas Speedway,2,20,Christopher Bell,Christopher Bell,4153
+5579,Kansas Speedway,3,11,Denny Hamlin,Denny Hamlin,1361
+5579,Kansas Speedway,4,24,William Byron,William Byron,4184
+5579,Kansas Speedway,5,9,Chase Elliott,Chase Elliott,4062
+5579,Kansas Speedway,6,48,Alex Bowman,Alex Bowman,4045
+5579,Kansas Speedway,7,12,Ryan Blaney,Ryan Blaney,4023
+5579,Kansas Speedway,8,17,Chris Buescher,Chris Buescher,3989
+5579,Kansas Speedway,9,19,Chase Briscoe,Chase Briscoe,4228
+5579,Kansas Speedway,10,45,Tyler Reddick,Tyler Reddick,4065
+5579,Kansas Speedway,11,1,Ross Chastain,Ross Chastain,4001
+5579,Kansas Speedway,12,23,Bubba Wallace,Bubba Wallace,4025
+5579,Kansas Speedway,13,22,Joey Logano,Joey Logano,3859
+5579,Kansas Speedway,14,60,Ryan Preece,Ryan Preece,4070
+5579,Kansas Speedway,15,77,Carson Hocevar,Carson Hocevar,4326
+5579,Kansas Speedway,16,54,Ty Gibbs,Ty Gibbs,4368
+5579,Kansas Speedway,17,6,Brad Keselowski,Brad Keselowski,1816
+5579,Kansas Speedway,18,4,Noah Gragson,Noah Gragson,4224
+5579,Kansas Speedway,19,43,Erik Jones,Erik Jones,4059
+5579,Kansas Speedway,20,16,AJ Allmendinger,AJ Allmendinger,3774
+5579,Kansas Speedway,21,21,Josh Berry,Josh Berry,4123
+5579,Kansas Speedway,22,71,Michael McDowell,Michael McDowell,3832
+5579,Kansas Speedway,23,2,Austin Cindric,Austin Cindric,4180
+5579,Kansas Speedway,24,42,John Hunter Nemechek,John H. Nemechek,4092
+5579,Kansas Speedway,25,8,Kyle Busch,Kyle Busch,454
+5579,Kansas Speedway,26,3,Austin Dillon,Austin Dillon,3873
+5579,Kansas Speedway,27,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5579,Kansas Speedway,28,38,Zane Smith,Zane Smith,4272
+5579,Kansas Speedway,29,99,Daniel Suárez,Daniel Suárez,4113
+5579,Kansas Speedway,30,7,Justin Haley,Justin Haley,4172
+5579,Kansas Speedway,31,34,Todd Gilliland,Todd Gilliland,4231
+5579,Kansas Speedway,32,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5579,Kansas Speedway,33,41,Cole Custer,Cole Custer,4104
+5579,Kansas Speedway,34,10,Ty Dillon,Ty Dillon,4013
+5579,Kansas Speedway,35,35,Riley Herbst,Riley Herbst,4269
+5579,Kansas Speedway,36,51,Cody Ware,Cody Ware,4125
+5579,Kansas Speedway,37,44,J.J. Yeley,JJ Yeley,3669
+5581,Charlotte Motor Speedway Road Course,1,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5581,Charlotte Motor Speedway Road Course,2,20,Christopher Bell,Christopher Bell,4153
+5581,Charlotte Motor Speedway Road Course,3,24,William Byron,William Byron,4184
+5581,Charlotte Motor Speedway Road Course,4,45,Tyler Reddick,Tyler Reddick,4065
+5581,Charlotte Motor Speedway Road Course,5,5,Kyle Larson,Kyle Larson,4030
+5581,Charlotte Motor Speedway Road Course,6,17,Chris Buescher,Chris Buescher,3989
+5581,Charlotte Motor Speedway Road Course,7,12,Ryan Blaney,Ryan Blaney,4023
+5581,Charlotte Motor Speedway Road Course,8,16,AJ Allmendinger,AJ Allmendinger,3774
+5581,Charlotte Motor Speedway Road Course,9,9,Chase Elliott,Chase Elliott,4062
+5581,Charlotte Motor Speedway Road Course,10,54,Ty Gibbs,Ty Gibbs,4368
+5581,Charlotte Motor Speedway Road Course,11,19,Chase Briscoe,Chase Briscoe,4228
+5581,Charlotte Motor Speedway Road Course,12,1,Ross Chastain,Ross Chastain,4001
+5581,Charlotte Motor Speedway Road Course,13,8,Kyle Busch,Kyle Busch,454
+5581,Charlotte Motor Speedway Road Course,14,22,Joey Logano,Joey Logano,3859
+5581,Charlotte Motor Speedway Road Course,15,71,Michael McDowell,Michael McDowell,3832
+5581,Charlotte Motor Speedway Road Course,16,48,Alex Bowman,Alex Bowman,4045
+5581,Charlotte Motor Speedway Road Course,17,23,Bubba Wallace,Bubba Wallace,4025
+5581,Charlotte Motor Speedway Road Course,18,77,Carson Hocevar,Carson Hocevar,4326
+5581,Charlotte Motor Speedway Road Course,19,11,Denny Hamlin,Denny Hamlin,1361
+5581,Charlotte Motor Speedway Road Course,20,6,Brad Keselowski,Brad Keselowski,1816
+5581,Charlotte Motor Speedway Road Course,21,2,Austin Cindric,Austin Cindric,4180
+5581,Charlotte Motor Speedway Road Course,22,60,Ryan Preece,Ryan Preece,4070
+5581,Charlotte Motor Speedway Road Course,23,99,Daniel Suárez,Daniel Suárez,4113
+5581,Charlotte Motor Speedway Road Course,24,38,Zane Smith,Zane Smith,4272
+5581,Charlotte Motor Speedway Road Course,25,34,Todd Gilliland,Todd Gilliland,4231
+5581,Charlotte Motor Speedway Road Course,26,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5581,Charlotte Motor Speedway Road Course,27,41,Cole Custer,Cole Custer,4104
+5581,Charlotte Motor Speedway Road Course,28,7,Justin Haley,Justin Haley,4172
+5581,Charlotte Motor Speedway Road Course,29,3,Austin Dillon,Austin Dillon,3873
+5581,Charlotte Motor Speedway Road Course,30,4,Noah Gragson,Noah Gragson,4224
+5581,Charlotte Motor Speedway Road Course,31,43,Erik Jones,Erik Jones,4059
+5581,Charlotte Motor Speedway Road Course,32,35,Riley Herbst,Riley Herbst,4269
+5581,Charlotte Motor Speedway Road Course,33,10,Ty Dillon,Ty Dillon,4013
+5581,Charlotte Motor Speedway Road Course,34,42,John Hunter Nemechek,John H. Nemechek,4092
+5581,Charlotte Motor Speedway Road Course,35,21,Josh Berry,Josh Berry,4123
+5581,Charlotte Motor Speedway Road Course,36,51,Cody Ware,Cody Ware,4125
+5581,Charlotte Motor Speedway Road Course,37,66,Josh Bilicki,Josh Bilicki,4213
+5582,Las Vegas Motor Speedway,1,24,William Byron,William Byron,4184
+5582,Las Vegas Motor Speedway,2,20,Christopher Bell,Christopher Bell,4153
+5582,Las Vegas Motor Speedway,3,5,Kyle Larson,Kyle Larson,4030
+5582,Las Vegas Motor Speedway,4,11,Denny Hamlin,Denny Hamlin,1361
+5582,Las Vegas Motor Speedway,5,45,Tyler Reddick,Tyler Reddick,4065
+5582,Las Vegas Motor Speedway,6,1,Ross Chastain,Ross Chastain,4001
+5582,Las Vegas Motor Speedway,7,19,Chase Briscoe,Chase Briscoe,4228
+5582,Las Vegas Motor Speedway,8,9,Chase Elliott,Chase Elliott,4062
+5582,Las Vegas Motor Speedway,9,17,Chris Buescher,Chris Buescher,3989
+5582,Las Vegas Motor Speedway,10,48,Alex Bowman,Alex Bowman,4045
+5582,Las Vegas Motor Speedway,11,22,Joey Logano,Joey Logano,3859
+5582,Las Vegas Motor Speedway,12,12,Ryan Blaney,Ryan Blaney,4023
+5582,Las Vegas Motor Speedway,13,23,Bubba Wallace,Bubba Wallace,4025
+5582,Las Vegas Motor Speedway,14,99,Daniel Suárez,Daniel Suárez,4113
+5582,Las Vegas Motor Speedway,15,77,Carson Hocevar,Carson Hocevar,4326
+5582,Las Vegas Motor Speedway,16,16,AJ Allmendinger,AJ Allmendinger,3774
+5582,Las Vegas Motor Speedway,17,54,Ty Gibbs,Ty Gibbs,4368
+5582,Las Vegas Motor Speedway,18,60,Ryan Preece,Ryan Preece,4070
+5582,Las Vegas Motor Speedway,19,6,Brad Keselowski,Brad Keselowski,1816
+5582,Las Vegas Motor Speedway,20,2,Austin Cindric,Austin Cindric,4180
+5582,Las Vegas Motor Speedway,21,71,Michael McDowell,Michael McDowell,3832
+5582,Las Vegas Motor Speedway,22,42,John H Nemechek,John H. Nemechek,4092
+5582,Las Vegas Motor Speedway,23,8,Kyle Busch,Kyle Busch,454
+5582,Las Vegas Motor Speedway,24,21,Josh Berry,Josh Berry,4123
+5582,Las Vegas Motor Speedway,25,7,Justin Haley,Justin Haley,4172
+5582,Las Vegas Motor Speedway,26,4,Noah Gragson,Noah Gragson,4224
+5582,Las Vegas Motor Speedway,27,43,Erik Jones,Erik Jones,4059
+5582,Las Vegas Motor Speedway,28,38,Zane Smith,Zane Smith,4272
+5582,Las Vegas Motor Speedway,29,3,Austin Dillon,Austin Dillon,3873
+5582,Las Vegas Motor Speedway,30,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5582,Las Vegas Motor Speedway,31,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5582,Las Vegas Motor Speedway,32,35,Riley Herbst,Riley Herbst,4269
+5582,Las Vegas Motor Speedway,33,41,Cole Custer,Cole Custer,4104
+5582,Las Vegas Motor Speedway,34,34,Todd Gilliland,Todd Gilliland,4231
+5582,Las Vegas Motor Speedway,35,10,Ty Dillon,Ty Dillon,4013
+5582,Las Vegas Motor Speedway,36,51,Cody Ware,Cody Ware,4125
+5582,Las Vegas Motor Speedway,37,44,J.J. Yeley,JJ Yeley,3669
+5582,Las Vegas Motor Speedway,38,78,Katherine Legge,Katherine Legge,4284
+5580,Talladega Superspeedway,1,24,William Byron,William Byron,4184
+5580,Talladega Superspeedway,2,5,Kyle Larson,Kyle Larson,4030
+5580,Talladega Superspeedway,3,9,Chase Elliott,Chase Elliott,4062
+5580,Talladega Superspeedway,4,45,Tyler Reddick,Tyler Reddick,4065
+5580,Talladega Superspeedway,5,12,Ryan Blaney,Ryan Blaney,4023
+5580,Talladega Superspeedway,6,19,Chase Briscoe,Chase Briscoe,4228
+5580,Talladega Superspeedway,7,48,Alex Bowman,Alex Bowman,4045
+5580,Talladega Superspeedway,8,17,Chris Buescher,Chris Buescher,3989
+5580,Talladega Superspeedway,9,20,Christopher Bell,Christopher Bell,4153
+5580,Talladega Superspeedway,10,2,Austin Cindric,Austin Cindric,4180
+5580,Talladega Superspeedway,11,23,Bubba Wallace,Bubba Wallace,4025
+5580,Talladega Superspeedway,12,6,Brad Keselowski,Brad Keselowski,1816
+5580,Talladega Superspeedway,13,22,Joey Logano,Joey Logano,3859
+5580,Talladega Superspeedway,14,47,Ricky Stenhouse Jr.,Ricky Stenhouse Jr,3888
+5580,Talladega Superspeedway,15,77,Carson Hocevar,Carson Hocevar,4326
+5580,Talladega Superspeedway,16,11,Denny Hamlin,Denny Hamlin,1361
+5580,Talladega Superspeedway,17,54,Ty Gibbs,Ty Gibbs,4368
+5580,Talladega Superspeedway,18,43,Erik Jones,Erik Jones,4059
+5580,Talladega Superspeedway,19,99,Daniel Suárez,Daniel Suárez,4113
+5580,Talladega Superspeedway,20,8,Kyle Busch,Kyle Busch,454
+5580,Talladega Superspeedway,21,34,Todd Gilliland,Todd Gilliland,4231
+5580,Talladega Superspeedway,22,1,Ross Chastain,Ross Chastain,4001
+5580,Talladega Superspeedway,23,60,Ryan Preece,Ryan Preece,4070
+5580,Talladega Superspeedway,24,4,Noah Gragson,Noah Gragson,4224
+5580,Talladega Superspeedway,25,41,Cole Custer,Cole Custer,4104
+5580,Talladega Superspeedway,26,71,Michael McDowell,Michael McDowell,3832
+5580,Talladega Superspeedway,27,3,Austin Dillon,Austin Dillon,3873
+5580,Talladega Superspeedway,28,7,Justin Haley,Justin Haley,4172
+5580,Talladega Superspeedway,29,16,AJ Allmendinger,AJ Allmendinger,3774
+5580,Talladega Superspeedway,30,21,Josh Berry,Josh Berry,4123
+5580,Talladega Superspeedway,31,35,Riley Herbst,Riley Herbst,4269
+5580,Talladega Superspeedway,32,10,Ty Dillon,Ty Dillon,4013
+5580,Talladega Superspeedway,33,88,Shane van Gisbergen,Shane van Gisbergen,4469
+5580,Talladega Superspeedway,34,38,Zane Smith,Zane Smith,4272
+5580,Talladega Superspeedway,35,42,John H Nemechek,John H. Nemechek,4092
+5580,Talladega Superspeedway,36,51,Cody Ware,Cody Ware,4125
+5580,Talladega Superspeedway,37,33,Austin Hill,Austin Hill,4133
+5580,Talladega Superspeedway,38,62,Anthony Alfredo,Anthony Alfredo,4301
+5580,Talladega Superspeedway,39,78,BJ McLeod,BJ McLeod,3973
+5580,Talladega Superspeedway,40,66,Casey Mears,Casey Mears,2215
