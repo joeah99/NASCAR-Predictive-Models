@@ -4819,3 +4819,141 @@ race_id,stage_number,position,vehicle_number,driver_id,full_name,stage_points
 5504,2,34,13,4423,Jake Garcia,0
 5504,2,35,1,4373,Bret Holmes,0
 5504,2,36,9,3978,Grant Enfinger (P),0
+5506,1,1,11,4387,Corey Heim (P),10
+5506,1,2,98,4235,Ty Majeski (P),9
+5506,1,3,9,3978,Grant Enfinger (P),8
+5506,1,4,18,4296,Tyler Ankrum (P),7
+5506,1,5,15,4342,Tanner Gray,6
+5506,1,6,34,4446,Layne Riggs (P),5
+5506,1,7,52,4427,Kaden Honeycutt (P),4
+5506,1,8,17,4503,Giovanni Ruggiero #,3
+5506,1,9,71,4422,Rajah Caruth (P),2
+5506,1,10,1,4504,Brent Crews,1
+5506,1,11,7,4487,Brenden Queen(i),0
+5506,1,12,45,4257,Bayley Currey,0
+5506,1,13,77,4096,Corey LaJoie,0
+5506,1,14,91,4391,Jack Wood,0
+5506,1,15,26,4488,Dawson Sutton #,0
+5506,1,16,84,4227,Patrick Staropoli(i),0
+5506,1,17,5,4452,Toni Breidinger #,0
+5506,1,18,41,4461,Conner Jones,0
+5506,1,19,38,4312,Chandler Smith,0
+5506,1,20,90,4372,Justin Carroll,0
+5506,1,21,88,694,Matt Crafton,0
+5506,1,22,81,4433,Connor Mosack #,0
+5506,1,23,69,2215,Casey Mears,0
+5506,1,24,99,4107,Ben Rhodes,0
+5506,1,25,76,4192,Spencer Boyd,0
+5506,1,26,33,4478,Frankie Muniz #,0
+5506,1,27,56,3984,Timmy Hill,0
+5506,1,28,13,4423,Jake Garcia,0
+5506,1,29,22,4508,Alan Waller,0
+5506,1,30,19,4093,Daniel Hemric (P),0
+5506,1,31,02,4394,Logan Bearden(i),0
+5506,1,32,6,214,Norm Benning,0
+5506,1,33,42,4209,Matt Mills,0
+5506,1,34,44,4490,Andres Perez De Lara #,0
+5506,1,35,2,4486,Clayton Green,0
+5506,2,1,11,4387,Corey Heim (P),10
+5506,2,2,98,4235,Ty Majeski (P),9
+5506,2,3,34,4446,Layne Riggs (P),8
+5506,2,4,9,3978,Grant Enfinger (P),7
+5506,2,5,15,4342,Tanner Gray,6
+5506,2,6,18,4296,Tyler Ankrum (P),5
+5506,2,7,1,4504,Brent Crews,4
+5506,2,8,52,4427,Kaden Honeycutt (P),3
+5506,2,9,41,4461,Conner Jones,2
+5506,2,10,99,4107,Ben Rhodes,1
+5506,2,11,88,694,Matt Crafton,0
+5506,2,12,17,4503,Giovanni Ruggiero #,0
+5506,2,13,91,4391,Jack Wood,0
+5506,2,14,7,4487,Brenden Queen(i),0
+5506,2,15,38,4312,Chandler Smith,0
+5506,2,16,26,4488,Dawson Sutton #,0
+5506,2,17,45,4257,Bayley Currey,0
+5506,2,18,77,4096,Corey LaJoie,0
+5506,2,19,13,4423,Jake Garcia,0
+5506,2,20,19,4093,Daniel Hemric (P),0
+5506,2,21,81,4433,Connor Mosack #,0
+5506,2,22,76,4192,Spencer Boyd,0
+5506,2,23,84,4227,Patrick Staropoli(i),0
+5506,2,24,5,4452,Toni Breidinger #,0
+5506,2,25,56,3984,Timmy Hill,0
+5506,2,26,90,4372,Justin Carroll,0
+5506,2,27,33,4478,Frankie Muniz #,0
+5506,2,28,22,4508,Alan Waller,0
+5506,2,29,69,2215,Casey Mears,0
+5506,2,30,02,4394,Logan Bearden(i),0
+5506,2,31,42,4209,Matt Mills,0
+5506,2,32,6,214,Norm Benning,0
+5506,2,33,44,4490,Andres Perez De Lara #,0
+5506,2,34,71,4422,Rajah Caruth (P),0
+5506,2,35,2,4486,Clayton Green,0
+5507,1,1,11,4387,Corey Heim (P),0
+5507,1,2,1,4504,Brent Crews,9
+5507,1,3,98,4235,Ty Majeski (P),0
+5507,1,4,71,4422,Rajah Caruth,7
+5507,1,5,15,4342,Tanner Gray,6
+5507,1,6,77,4096,Corey LaJoie,5
+5507,1,7,52,4427,Kaden Honeycutt (P),0
+5507,1,8,7,4285,Stefan Parsons,3
+5507,1,9,13,4423,Jake Garcia,2
+5507,1,10,17,4503,Giovanni Ruggiero #,1
+5507,1,11,44,4490,Andres Perez De Lara #,0
+5507,1,12,81,4433,Connor Mosack #,0
+5507,1,13,45,4257,Bayley Currey,0
+5507,1,14,18,4296,Tyler Ankrum (P),0
+5507,1,15,88,694,Matt Crafton,0
+5507,1,16,99,4107,Ben Rhodes,0
+5507,1,17,34,4446,Layne Riggs (P),0
+5507,1,18,91,4391,Jack Wood,0
+5507,1,19,41,4528,Tyler Reif,0
+5507,1,20,9,3978,Grant Enfinger,0
+5507,1,21,62,4523,Cole Butcher,0
+5507,1,22,42,4209,Matt Mills,0
+5507,1,23,66,4506,Luke Baldwin,0
+5507,1,24,38,4312,Chandler Smith,0
+5507,1,25,02,4491,Nathan Byrd,0
+5507,1,26,76,4192,Spencer Boyd,0
+5507,1,27,33,4478,Frankie Muniz #,0
+5507,1,28,2,4486,Clayton Green,0
+5507,1,29,35,4465,Greg Van Alst,0
+5507,1,30,5,4452,Toni Breidinger #,0
+5507,1,31,22,4432,Mason Maggio,0
+5507,1,32,74,4470,Caleb Costner,0
+5507,1,33,19,4093,Daniel Hemric,0
+5507,1,34,26,4488,Dawson Sutton #,0
+5507,2,1,11,4387,Corey Heim (P),0
+5507,2,2,98,4235,Ty Majeski (P),0
+5507,2,3,1,4504,Brent Crews,8
+5507,2,4,52,4427,Kaden Honeycutt (P),0
+5507,2,5,71,4422,Rajah Caruth,6
+5507,2,6,15,4342,Tanner Gray,5
+5507,2,7,34,4446,Layne Riggs (P),4
+5507,2,8,13,4423,Jake Garcia,3
+5507,2,9,7,4285,Stefan Parsons,2
+5507,2,10,17,4503,Giovanni Ruggiero #,1
+5507,2,11,44,4490,Andres Perez De Lara #,0
+5507,2,12,77,4096,Corey LaJoie,0
+5507,2,13,45,4257,Bayley Currey,0
+5507,2,14,99,4107,Ben Rhodes,0
+5507,2,15,81,4433,Connor Mosack #,0
+5507,2,16,9,3978,Grant Enfinger,0
+5507,2,17,18,4296,Tyler Ankrum (P),0
+5507,2,18,41,4528,Tyler Reif,0
+5507,2,19,88,694,Matt Crafton,0
+5507,2,20,62,4523,Cole Butcher,0
+5507,2,21,91,4391,Jack Wood,0
+5507,2,22,42,4209,Matt Mills,0
+5507,2,23,38,4312,Chandler Smith,0
+5507,2,24,66,4506,Luke Baldwin,0
+5507,2,25,02,4491,Nathan Byrd,0
+5507,2,26,2,4486,Clayton Green,0
+5507,2,27,33,4478,Frankie Muniz #,0
+5507,2,28,76,4192,Spencer Boyd,0
+5507,2,29,35,4465,Greg Van Alst,0
+5507,2,30,5,4452,Toni Breidinger #,0
+5507,2,31,22,4432,Mason Maggio,0
+5507,2,32,74,4470,Caleb Costner,0
+5507,2,33,19,4093,Daniel Hemric,0
+5507,2,34,26,4488,Dawson Sutton #,0

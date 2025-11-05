@@ -7327,3 +7327,155 @@ race_id,stage_number,position,vehicle_number,driver_id,full_name,stage_points
 5537,2,36,11,4487,Brenden Queen,0
 5537,2,37,39,3884,Ryan Sieg,0
 5537,2,38,51,595,Jeremy Clements,0
+5541,1,1,7,34,Justin Allgaier (P),10
+5541,1,2,19,40,Aric Almirola (P),9
+5541,1,3,11,4487,Brenden Queen,8
+5541,1,4,20,4085,Brandon Jones (P),7
+5541,1,5,41,4327,Sam Mayer (P),6
+5541,1,6,88,4481,Connor Zilisch # (P),5
+5541,1,7,25,4217,Harrison Burton,4
+5541,1,8,16,4268,Christian Eckes #,3
+5541,1,9,00,4204,Sheldon Creed (P),2
+5541,1,10,17,4502,Corey Day,1
+5541,1,11,1,4467,Carson Kvapil # (P),0
+5541,1,12,42,4301,Anthony Alfredo,0
+5541,1,13,27,4018,Jeb Burton,0
+5541,1,14,54,4406,Taylor Gray #,0
+5541,1,15,8,4441,Sammy Smith (P),0
+5541,1,16,39,3884,Ryan Sieg,0
+5541,1,17,10,4451,Daniel Dye #,0
+5541,1,18,21,4133,Austin Hill (P),0
+5541,1,19,24,4227,Patrick Staropoli,0
+5541,1,20,18,4495,Justin Bonsignore,0
+5541,1,21,44,4144,Brennan Poole,0
+5541,1,22,26,4414,Dean Thompson,0
+5541,1,23,4,4419,Parker Retzlaff,0
+5541,1,24,31,4376,Blaine Perkins,0
+5541,1,25,2,4463,Jesse Love (P),0
+5541,1,26,51,595,Jeremy Clements,0
+5541,1,27,07,4421,Brad Perez,0
+5541,1,28,70,4493,Thomas Annunziata,0
+5541,1,29,48,4416,Nick Sanchez #,0
+5541,1,30,14,4142,Garrett Smithley,0
+5541,1,31,71,4029,Ryan Ellis,0
+5541,1,32,28,4388,Kyle Sieg,0
+5541,1,33,91,4223,Myatt Snider,0
+5541,1,34,53,4432,Mason Maggio,0
+5541,1,35,45,4106,Josh Williams,0
+5541,1,36,32,4479,Austin Green,0
+5541,1,37,99,4433,Connor Mosack(i),0
+5541,1,38,35,4521,Takuma Koga,0
+5541,2,1,1,4467,Carson Kvapil # (P),10
+5541,2,2,11,4487,Brenden Queen,9
+5541,2,3,16,4268,Christian Eckes #,8
+5541,2,4,41,4327,Sam Mayer (P),7
+5541,2,5,54,4406,Taylor Gray #,6
+5541,2,6,7,34,Justin Allgaier (P),5
+5541,2,7,20,4085,Brandon Jones (P),4
+5541,2,8,19,40,Aric Almirola (P),3
+5541,2,9,00,4204,Sheldon Creed (P),2
+5541,2,10,42,4301,Anthony Alfredo,1
+5541,2,11,25,4217,Harrison Burton,0
+5541,2,12,8,4441,Sammy Smith (P),0
+5541,2,13,17,4502,Corey Day,0
+5541,2,14,39,3884,Ryan Sieg,0
+5541,2,15,24,4227,Patrick Staropoli,0
+5541,2,16,48,4416,Nick Sanchez #,0
+5541,2,17,88,4481,Connor Zilisch # (P),0
+5541,2,18,18,4495,Justin Bonsignore,0
+5541,2,19,44,4144,Brennan Poole,0
+5541,2,20,4,4419,Parker Retzlaff,0
+5541,2,21,32,4479,Austin Green,0
+5541,2,22,21,4133,Austin Hill (P),0
+5541,2,23,71,4029,Ryan Ellis,0
+5541,2,24,31,4376,Blaine Perkins,0
+5541,2,25,91,4223,Myatt Snider,0
+5541,2,26,26,4414,Dean Thompson,0
+5541,2,27,27,4018,Jeb Burton,0
+5541,2,28,51,595,Jeremy Clements,0
+5541,2,29,10,4451,Daniel Dye #,0
+5541,2,30,2,4463,Jesse Love (P),0
+5541,2,31,99,4433,Connor Mosack(i),0
+5541,2,32,07,4421,Brad Perez,0
+5541,2,33,14,4142,Garrett Smithley,0
+5541,2,34,28,4388,Kyle Sieg,0
+5541,2,35,70,4493,Thomas Annunziata,0
+5541,2,36,53,4432,Mason Maggio,0
+5541,2,37,45,4106,Josh Williams,0
+5541,2,38,35,4521,Takuma Koga,0
+5542,1,1,54,4406,Taylor Gray #,10
+5542,1,2,00,4204,Sheldon Creed,9
+5542,1,3,7,34,Justin Allgaier (P),0
+5542,1,4,88,4481,Connor Zilisch # (P),0
+5542,1,5,48,4416,Nick Sanchez #,6
+5542,1,6,1,4467,Carson Kvapil # (P),0
+5542,1,7,39,4388,Kyle Sieg,4
+5542,1,8,19,40,Aric Almirola (P),3
+5542,1,9,8,4441,Sammy Smith,2
+5542,1,10,20,4085,Brandon Jones,1
+5542,1,11,41,3884,Ryan Sieg,0
+5542,1,12,2,4463,Jesse Love (P),0
+5542,1,13,16,4268,Christian Eckes #,0
+5542,1,14,26,4414,Dean Thompson #,0
+5542,1,15,18,4495,Justin Bonsignore,0
+5542,1,16,28,4442,Nick Leitz,0
+5542,1,17,25,4217,Harrison Burton,0
+5542,1,18,4,4419,Parker Retzlaff,0
+5542,1,19,42,4301,Anthony Alfredo,0
+5542,1,20,70,4449,Leland Honeyman,0
+5542,1,21,21,4133,Austin Hill (P),0
+5542,1,22,99,4433,Connor Mosack(i),0
+5542,1,23,17,4502,Corey Day,0
+5542,1,24,44,4144,Brennan Poole,0
+5542,1,25,71,4029,Ryan Ellis,0
+5542,1,26,31,4376,Blaine Perkins,0
+5542,1,27,11,4487,Brenden Queen,0
+5542,1,28,10,4451,Daniel Dye #,0
+5542,1,29,91,4213,Josh Bilicki,0
+5542,1,30,53,4004,Joey Gase,0
+5542,1,31,35,4285,Stefan Parsons(i),0
+5542,1,32,14,4142,Garrett Smithley,0
+5542,1,33,45,4106,Josh Williams,0
+5542,1,34,07,4254,Patrick Emerling(i),0
+5542,1,35,51,595,Jeremy Clements,0
+5542,1,36,5,4494,Glen Reen,0
+5542,1,37,74,4256,Dawson Cram,0
+5542,1,38,27,4018,Jeb Burton,0
+5542,2,1,7,34,Justin Allgaier (P),0
+5542,2,2,88,4481,Connor Zilisch # (P),0
+5542,2,3,19,40,Aric Almirola (P),8
+5542,2,4,00,4204,Sheldon Creed,7
+5542,2,5,2,4463,Jesse Love (P),0
+5542,2,6,54,4406,Taylor Gray #,5
+5542,2,7,48,4416,Nick Sanchez #,4
+5542,2,8,20,4085,Brandon Jones,3
+5542,2,9,1,4467,Carson Kvapil # (P),0
+5542,2,10,41,3884,Ryan Sieg,1
+5542,2,11,18,4495,Justin Bonsignore,0
+5542,2,12,21,4133,Austin Hill (P),0
+5542,2,13,8,4441,Sammy Smith,0
+5542,2,14,26,4414,Dean Thompson #,0
+5542,2,15,39,4388,Kyle Sieg,0
+5542,2,16,17,4502,Corey Day,0
+5542,2,17,25,4217,Harrison Burton,0
+5542,2,18,16,4268,Christian Eckes #,0
+5542,2,19,42,4301,Anthony Alfredo,0
+5542,2,20,4,4419,Parker Retzlaff,0
+5542,2,21,11,4487,Brenden Queen,0
+5542,2,22,28,4442,Nick Leitz,0
+5542,2,23,44,4144,Brennan Poole,0
+5542,2,24,70,4449,Leland Honeyman,0
+5542,2,25,99,4433,Connor Mosack(i),0
+5542,2,26,71,4029,Ryan Ellis,0
+5542,2,27,31,4376,Blaine Perkins,0
+5542,2,28,10,4451,Daniel Dye #,0
+5542,2,29,45,4106,Josh Williams,0
+5542,2,30,35,4285,Stefan Parsons(i),0
+5542,2,31,91,4213,Josh Bilicki,0
+5542,2,32,14,4142,Garrett Smithley,0
+5542,2,33,5,4494,Glen Reen,0
+5542,2,34,51,595,Jeremy Clements,0
+5542,2,35,74,4256,Dawson Cram,0
+5542,2,36,53,4004,Joey Gase,0
+5542,2,37,07,4254,Patrick Emerling(i),0
+5542,2,38,27,4018,Jeb Burton,0

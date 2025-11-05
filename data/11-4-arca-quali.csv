@@ -1,0 +1,1272 @@
+race_id,driver_id,BestLapRank,Number,FullName,Sponsor,BestLapTime,BestLapSpeed,InLap,Laps,Diff
+1,127,1,3,Willie Mullins,Corvetteparts.net/Crow Wing Recycling Ford,48.982,183.741,1,2,0
+1,104,2,27,Tim Richmond,Richmond Racing Toyota,49.003,183.662,1,3,0.021
+1,110,3,20,Jake Finch*,Phoenix Construction Toyota,49.024,183.584,1,3,0.042
+1,136,4,25,Toni Breidinger,Celsius Toyota,49.044,183.509,1,3,0.062
+1,115,5,36,Ryan Huff,Southeastern Services Ford,49.06,183.449,1,3,0.078
+1,131,6,30,Justin Bonsignore*,Hard Rock Bet,49.108,183.27,1,3,0.126
+1,106,7,68,Gil Linster*,HOOSH.com Ford,49.703,181.076,3,3,0.721
+1,143,8,75,Bryan Dauzat,Brother-in-Law Racing Chevrolet,49.708,181.057,2,3,0.726
+1,117,9,34,Isaac Johnson*,Endress+Hauser Ford,49.734,180.963,2,3,0.752
+1,105,10,97,Jason Kitzmiller,A.L.L Construction Chevrolet,49.735,180.959,1,3,0.753
+1,137,11,15,Kris Wright,F.N.B Corporation Toyota,49.738,180.948,2,3,0.756
+1,125,12,11,Bryce Haugeberg*,Karcher/Brenco Toyota,49.741,180.937,1,3,0.759
+1,111,13,2,Andres Perez,Max Siegal Inc Chevrolet,49.743,180.93,1,3,0.761
+1,135,14,7,Jeff Scofield*,JXT Transport Chevrolet,49.787,180.77,2,3,0.805
+1,123,15,18,Tanner Gray,PlaceOfHope.com Toyota,49.795,180.741,2,3,0.813
+1,132,16,4,Dale Quarterley,Van Dyk Recycling Services/Motul Arai Chevrolet,49.797,180.734,2,3,0.815
+1,140,17,7,Eric Caudell,RYDIN/Coble Enterprises/Red Tine Canopies Toyota,49.805,180.705,2,3,0.823
+1,134,18,93,Caleb Costner*,Lickety Lew’s/Heritage Water Systems Chevrolet,49.806,180.701,2,3,0.824
+1,101,19,44,Thomas Annunziata*,Nerd Focus Chevrolet,49.822,180.643,3,3,0.84
+1,103,20,32,Christian Rose,West Virgina Tourism Ford,49.825,180.632,2,3,0.843
+1,129,21,8,Sean Corr,Empire Racing Chevrolet,49.841,180.574,2,3,0.859
+1,102,22,35,Greg Van Alst,Zaki Ali Injury & Criminal Attorney ZakiAli.com,49.845,180.56,2,3,0.863
+1,113,23,62,Steve Lewis Jr.*,Telco Construction/Jeffery Machine Chevrolet,49.86,180.505,2,3,0.878
+1,116,24,8,Patrick Emerling,Southern Tier Security Ford,49.951,180.177,2,3,0.969
+1,100,25,55,Gus Dean,Dean Custom Air Toyota,49.975,180.09,2,3,0.993
+1,124,26,17,Marco Andretti*,Group 1001 Chevrolet,49.987,180.047,2,3,1.005
+1,112,27,13,Armani Williams,Blue Sprig Toyota,50.029,179.896,2,3,1.047
+1,108,28,22,Amber Balcaen,ICON Direct Toyota,50.31,178.891,3,3,1.328
+1,138,29,63,John Aramendia*,1st Call Plumbing Heating & Air Chevrolet,50.311,178.887,2,3,1.329
+1,126,30,69,Scott Melton,Melton McFadden Insuracne/Donna’s Donuts Ford,50.313,178.88,3,3,1.331
+1,133,31,74,Mandy Chick*,Dynamic Drivelines/FK Rod Ends/Fragola Perf Chevrolet,50.398,178.579,3,3,1.416
+1,114,32,6,Lavar Scott*,Max Siegel Inc Chevrolet,50.41,178.536,3,3,1.428
+1,130,33,2,Leland Honeyman Jr.*,Young’s Motorsports Chevrolet,50.422,178.494,3,3,1.44
+1,109,34,73,Andy Jankowiak,V1 Fiber Ford,50.534,178.098,3,3,1.552
+1,128,35,28,Shane Van Gisbergen*,Pinnacle Motorsports Chevrolet,50.927,176.724,1,3,1.945
+1,120,36,99,Michael Maples*,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,51.299,175.442,2,3,2.317
+1,122,37,12,Ryan Roulette*,VFW Ford,51.309,175.408,2,3,2.327
+1,141,38,95,Brayton Laster*,MAN Motorsports Toyota,51.374,175.186,1,3,2.392
+1,139,39,10,Ed Pompa,HYTORC of New York,51.661,174.213,1,3,2.679
+1,142,40,87,Charles Buchanan,Spring Drug Ford,52.042,172.937,1,3,3.06
+1,119,41,57,Hunter Deshautelle*,Brother-In-Law Motorsports Chevrolet,52.331,171.982,1,3,3.349
+1,144,42,1,Takuma Koga*,Macnica/CKB Fast Track High Performace Toyota,52.333,171.976,3,3,3.351
+1,107,43,3,Alex Clubb,Race Parts Liquidators Ford,52.615,171.054,1,2,3.633
+1,145,44,88,A.J. Moyer,Rivers’s Edge Cottages & RV Park/Ampere EV Chevrolet,52.656,170.921,1,3,3.674
+1,118,45,6,Tommy O’Leary IV,Peterson Motorsports Ford,53.719,167.538,3,3,4.737
+1,146,46,47,Becca Monopoli*,Mixon Motorsports Toyota,54.116,166.309,1,2,5.134
+1,147,47,31,Mitch Gibson*,backthelane.com Chevrolet,54.892,163.958,1,3,5.91
+1,148,48,98,Dale Shearer,Shear Speed Toyota,55.408,162.431,1,3,6.426
+1,121,49,48,Brad Smith,Brad Smith Motorports Ford,56.317,159.81,1,3,7.335
+1,149,50,86,Cody Dennison*,Toolganizer Ford,58.535,153.754,1,2,9.553
+2,150,1,18,William Sawalich*,Starkey/Sound Gear Toyota,27.316,131.791,2,2,0
+2,154,2,61,Sean Hingorani*,Fidelity Capital Toyota,27.401,131.382,1,1,0.085
+2,151,3,20,Gio Ruggiero*,JBL Toyota,27.509,130.866,1,2,0.193
+2,111,4,2,Andres Perez,Max Siegel Inc Chevrolet,27.591,130.477,1,2,0.275
+2,152,5,23,Grant Enfinger,GMS Fabrication/SPS/Allegiant Airlines Chevrolet,27.593,130.468,1,2,0.277
+2,155,6,55,Isabella Robusto*,Mobil1 Toyota,27.706,129.936,1,2,0.39
+2,157,7,13,Tyler Reif,Central Coast Cabinets Toyota,27.862,129.208,1,2,0.546
+2,156,8,16,Jack Wood,NAPA Auto Care Chevrolet,27.912,128.977,1,2,0.596
+2,137,9,15,Kris Wright,FNB Corporation Toyota,27.918,128.949,2,2,0.602
+2,114,10,6,Lavar Scott*,Max Siegel Inc Chevrolet,28.044,128.37,2,3,0.728
+2,136,11,25,Toni Breidinger,Raising Cane’s Toyota,28.066,128.269,2,2,0.75
+2,103,12,32,Christian Rose,West Virgina Department of Tourism Ford,28.146,127.904,2,2,0.83
+2,165,13,88,Jake Bollman*,Pacific Coast Propane Ford,28.258,127.398,1,3,0.942
+2,109,14,73,Andy Jankowiak,Galactic Acres Toyota,28.323,127.105,2,3,1.007
+2,162,15,19,"Eric Johnson, Jr.*",Pacific Office Automation Chevrolet,28.37,126.895,2,2,1.054
+2,108,16,22,Amber Balcaen,ICON Direct Toyota,28.371,126.89,1,3,1.055
+2,124,17,17,Marco Andretti*,Group 100/MMI Sunwest Coast Chevrolet,28.404,126.743,1,4,1.088
+2,102,18,35,Greg Van Alst,Prescott Tire Pros Ford,28.421,126.667,3,3,1.105
+2,153,19,28,Connor Mosack*,Chevrolet Performance Chevrolet,28.458,126.502,1,3,1.142
+2,164,20,71,Nick Joanides,Jan’s Towing Ford,28.509,126.276,1,3,1.193
+2,159,21,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,28.578,125.971,2,3,1.262
+2,144,22,7,Takuma Koga*,Yamada Toyota,28.586,125.936,2,2,1.27
+2,160,23,70,Kyle Keller,Setting The Stage/Battle Born/Argus Construction Ford,28.631,125.738,1,3,1.315
+2,161,24,3,Todd Souza,Central Coast Cabinets Toyota,28.683,125.51,1,3,1.367
+2,167,25,41,"Johnny Borneman, III",Tilly’s/Stoney’s Ford,28.705,125.414,1,3,1.389
+2,158,26,42,Tanner Reif,Vegas Fastner MAFG/MMI Sunwest Coast Chevrolet,28.751,125.213,3,3,1.435
+2,117,27,34,Isaac Johnson*,IAC/Endress+Hauser Ford,28.877,124.667,2,3,1.561
+2,168,28,24,Joe Farre*,SPS/Fisher Industries/American Eagle Ready Mix Chevrolet,28.991,124.176,2,5,1.675
+2,163,29,1,Robbie Kennealy*,Setting The Stage/American Swin/Wiley X Ford,29.138,123.55,1,3,1.822
+2,134,30,93,Caleb Costner*,Strapino Chevrolet,29.241,123.115,2,14,1.925
+2,138,31,63,John Aramendia*,First Call Plumbing Heating & Air Chevrolet,29.492,122.067,1,1,2.176
+2,170,32,11,Brad Perez,Sebetka Bail Bonds Ford,29.589,121.667,1,2,2.273
+2,172,33,7,Danica Dart*,Evers Farms/Pioneer Performance/Ebco Construction Chevrolet,29.594,121.646,2,2,2.278
+2,173,34,31,Garrett Zacharias*,Hottle Livestock/Master K’s BBQ Chevrolet,29.81,120.765,2,9,2.494
+2,149,35,6,Cody Dennison*,Karrus Toyota,30.069,119.725,5,5,2.753
+2,171,36,77,Cody Kiemele*,King Taco/Toyota of Redlands Burgesons Htg & Air Toyota,30.148,119.411,1,4,2.832
+2,107,37,3,Alex Clubb,Yabapai Bottle Gas/Race Parts Liquidators Ford,30.186,119.261,3,3,2.87
+2,141,38,10,Brayton Laster*,CarAggio Motorsports Ford,30.397,118.433,2,2,3.081
+2,122,39,12,Ryan Roulette*,VFW-Bellator Recruiting Academy Ford,30.466,118.165,2,5,3.15
+2,120,40,99,Michael Maples*,Don Ray Petroleum LLC Chevrolet,30.781,116.955,3,5,3.465
+2,169,41,27,"Bobby Hillis, Jr.",Camping World/First Impression Press Chevrolet,32.53,110.667,5,7,5.214
+4,150,1,18,William Sawalich*,Starkey/Sound Gear Toyota,22.248,161.812,1,2,0
+4,182,2,55,Brent Crews*,Mobil 1 Toyota,22.445,160.392,1,2,0.197
+4,151,3,20,Gio Ruggiero*,JBL Toyota,22.516,159.886,1,2,0.268
+4,179,4,82,Carson Kvapil*,Chevrolet Performance Chevrolet,22.599,159.299,2,2,0.351
+4,114,5,6,Lavar Scott*,Max Siegel Inc Chevrolet,22.62,159.151,2,2,0.372
+4,178,6,28,Connor Zilisch*,Chevrolet/Silve Hare Development Chevrolet,22.674,158.772,1,2,0.426
+4,111,7,2,Andres Perez,Max Siegel Inc Chevrolet,22.757,158.193,2,2,0.509
+4,137,8,15,Kris Wright,FNB Corportation Toyota,22.841,157.611,1,3,0.593
+4,136,9,25,Toni Breidinger,VMS Toyota,23.109,155.783,2,2,0.861
+4,124,10,17,Marco Andretti*,Group 1001/MMI Chevrolet,23.203,155.152,2,2,0.955
+4,109,11,73,Andy Jankowiak,Galactic Acres Toyota,23.329,154.314,2,3,1.081
+4,103,12,32,Christian Rose,West Virginia Department of Tourism Ford,23.341,154.235,1,2,1.093
+4,108,13,22,Amber Balcaen,Icon Technologies Toyota,23.402,153.833,2,2,1.154
+4,158,14,42,Tanner Reif,Vegas Fastener Manufacturing/MMI Chevrolet,23.592,152.594,2,2,1.344
+4,102,15,35,Greg Van Alst,Holzerman General Contracting Window/Door Ford,24.125,149.223,2,3,1.877
+4,181,16,39,D.L. Wilson,Heart O’ Texas Speedway/ETR Toyota,24.596,146.365,4,5,2.348
+4,149,17,6,Cody Dennison*,ALL CAPS Comincs Toyota,24.635,146.134,2,2,2.387
+4,134,18,93,Caleb Costner*,Strapinno Chevrolet,25.022,143.873,4,5,2.774
+4,139,19,10,Ed Pompa,Infinity Aggregates LLC/Double H Ranch Ford,25.17,143.027,2,2,2.922
+4,180,20,11,Zachary Tinkle,Racing for Rescues/Fast Track Toyota,25.351,142.006,2,2,3.103
+4,120,21,99,Michael Maples*,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,26.072,138.079,2,2,3.824
+4,107,22,3,Alex Clubb,Race Parts Liquidators Ford,27.12,132.743,3,4,4.872
+4,184,23,12,Mike Basham,NASCAR Technical Institute Toyota,27.691,130.006,2,2,5.443
+6,111,1,2,Andres Perez,Max Siegel Inc Chevrolet,30.34,177.983,1,2,0
+6,100,2,55,Gus Dean,DRIVEN Trackside Toyota,30.342,177.971,1,1,0.002
+6,123,3,18,Tanner Gray,JGR Toyota,30.398,177.643,1,2,0.058
+6,137,4,15,Kris Wright,FNB Corporation Toyota,30.674,176.045,2,2,0.334
+6,179,5,82,Carson Kvapil*,Chevrolet Performace Chevrolet,30.704,175.873,1,1,0.364
+6,153,6,28,Connor Mosack*,Chevrolet/Silver Hare Development Chevrolet,30.788,175.393,1,2,0.448
+6,114,7,6,Lavar Scott*,Max Siegel Inc Chevrolet,30.804,175.302,1,2,0.464
+6,108,8,22,Amber Balcaen,ICON Toyota,30.867,174.944,1,2,0.527
+6,109,9,73,Andy Jankowiak,Acacia Energy Toyota,31.033,174.008,1,2,0.693
+6,188,10,69,Will Kimmel,Weddington Custom Homes-Accel Hydraulics Ford,31.143,173.394,2,2,0.803
+6,185,11,20,Dean Thompson,Thompson Pipe Group Toyota,31.232,172.9,2,2,0.892
+6,136,12,25,Toni Breidinger,Celsius Toyota,31.398,171.985,2,2,1.058
+6,102,13,35,Greg Van Alst,CB Fabricating Ford,31.471,171.587,2,2,1.131
+6,103,14,32,Christian Rose,Blue Wolf Cleaners & Degreasers Ford,31.56,171.103,2,2,1.22
+6,105,15,97,Jason Kitzmiller,A.L.L Construction Chevrolet,31.638,170.681,2,3,1.298
+6,149,16,10,Cody Dennison*,Timcast.com Toyota,32.296,167.203,1,2,1.956
+6,104,17,27,Tim Richmond,Immigration Law Center Toyota,32.338,166.986,3,6,1.998
+6,189,18,9,Sebastian Arias,Brady IFS Chevrolet,32.539,165.955,1,1,2.199
+6,134,19,93,Caleb Costner*,C4 Foundation/Heritage Water Systems Chevrolet,33.623,160.604,1,2,3.283
+6,191,20,11,Jayson Alexander*,Constant Contact Ford,33.665,160.404,1,1,3.325
+6,122,21,12,Ryan Roulette*,Bellator Recruiting Academy/VFW Ford,34.582,156.151,3,3,4.242
+6,145,22,88,A.J. Moyer,Rivers’s Edge Cottages & RV Park/Ampere EV Chevrolet,34.713,155.561,2,5,4.373
+6,120,23,99,Michael Maples*,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,34.749,155.4,4,4,4.409
+6,190,24,57,Austin McDaniel*,Brother In Law Motorsports Chevrolet,35.205,153.387,3,5,4.865
+6,107,25,3,Alex Clubb,Race Parts Liquidators Ford,35.334,152.827,2,2,4.994
+6,119,26,75,Hunter Deshautelle*,Brother-In-Law Motorsports Chevrolet,35.444,152.353,5,5,5.104
+6,121,27,48,Brad Smith,Copraya.com Ford,37.834,142.729,2,2,7.494
+7,151,1,20,Gio Ruggiero,JBL Toyota,23.232,135.589,1,2,0
+7,178,2,28,Connor Zilisch,Chevrolet Performance Chevrolet,23.301,135.187,1,2,0.069
+7,100,3,55,Gus Dean,VMS Toyota,23.437,134.403,3,3,0.205
+7,150,4,18,William Sawalich,Starkey/Sound Gear Toyota,23.472,134.202,3,3,0.24
+7,137,5,15,Kris Wright,FNB Corporation Toyota,23.537,133.832,3,3,0.305
+7,192,6,23,Mason Mitchell,Karl Chevrolet/B-Bop’s/SPS Chevrolet,23.542,133.803,2,3,0.31
+7,111,7,2,Andres Perez,Max Siegel Inc Chevrolet,23.733,132.727,2,3,0.501
+7,136,8,25,Toni Breidinger,Ruedubusch Toyota,23.765,132.548,1,2,0.533
+7,109,9,73,Andy Jankowiak,Acacia Energy Toyota,23.809,132.303,3,4,0.577
+7,114,10,6,Lavar Scott,Max Siegel Inc Chevrolet,23.842,132.12,3,3,0.61
+7,102,11,35,Greg Van Alst,CB Fabricating/Top Choice Fence Ford,23.959,131.475,3,4,0.727
+7,108,12,22,Amber Balcaen,Icon Toyota,24.132,130.532,2,3,0.9
+7,103,13,32,Christian Rose,West Virginia Department of Tourism Ford,24.358,129.321,2,2,1.126
+7,124,14,17,Marco Andretti,Group 1001 Chevrolet,24.559,128.263,3,3,1.327
+7,180,15,11,Zachary Tinkle,Racing for Rescues/Fast Track Toyota,24.793,127.052,3,3,1.561
+7,149,16,93,Cody Dennison,Timcast.com Chevrolet,25.318,124.417,3,3,2.086
+7,122,17,12,Ryan Roulette,Bellator Recruiting Academy/VFW Ford,25.646,122.826,3,3,2.414
+7,181,18,39,D.L. Wilson,ETR/Heart O’ Texas Speedway Toyota,25.663,122.745,4,4,2.431
+7,193,19,10,Christopher Tate,T-Top Manufacturing Toyota,25.706,122.539,2,2,2.474
+7,120,20,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,26.544,118.671,2,2,3.312
+7,107,21,3,Alex Clubb,Race Parts Liquidators/Drop the Hammer Auctions Ford,26.553,118.631,2,2,3.321
+7,187,22,6,Kevin Hinckle,KH Automotive Toyota,27.607,114.101,3,3,4.375
+7,148,23,98,Dale Shearer,Shearer Speed Toyota,27.731,113.591,2,3,4.499
+7,121,24,48,Brad Smith,Copraya.com Ford,28.106,112.076,2,2,4.874
+9,150,1,18,William Sawalich*,Starkey/Sound Gear Toyota,16.762,93.963,1,2,0
+9,200,2,55,Gavan Boschele*,JBL Toyota,16.826,93.605,1,2,0.064
+9,111,3,2,Andres Perez,Max Siegel Inc Chevrolet,16.836,93.55,1,2,0.074
+9,114,4,6,Lavar Scott*,Max Siegel Inc Chevrolet,16.861,93.411,1,2,0.099
+9,154,5,20,Sean Hingorani*,VMS Toyota,16.866,93.383,1,2,0.104
+9,137,6,15,Kris Wright,FNB Corporation Toyota,16.873,93.344,1,2,0.111
+9,136,7,25,Toni Breidinger,VMS Toyota,17.057,92.337,1,2,0.295
+9,103,8,32,Christian Rose,West Virginia Department of Tourism Ford,17.135,91.917,1,2,0.373
+9,102,9,35,Greg Van Alst,CB Fabricating/Top Choice Fence Ford,17.156,91.805,2,2,0.394
+9,108,10,22,Amber Balcaen,ICON Toyota,17.208,91.527,1,2,0.446
+9,202,11,10,Matt Kemp*,ELH Detailing/PSS&C Toyota,17.586,89.56,2,2,0.824
+9,149,12,11,Cody Dennison*,Timcast.com Toyota,17.747,88.747,2,2,0.985
+9,120,13,99,Michael Maples*,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,18.408,85.561,2,2,1.646
+9,201,14,31,Tim Goulet*,Max Buchanan Fndthn/MF Fire Nor Cal Btry Chevrolet,18.444,85.394,2,2,1.682
+9,107,15,3,Alex Clubb,Race Parts Liquidators Ford,18.653,84.437,1,2,1.891
+9,122,16,12,Ryan Roulette*,Bellator Recruiting Academy/VFW Ford,18.775,83.888,2,2,2.013
+9,196,17,6,Nate Moeller*,Peterson Motorsports Toyota,19.084,82.53,2,2,2.322
+9,121,18,48,Brad Smith,Copraya.com Ford,19.166,82.177,1,2,2.404
+9,148,19,98,Dale Shearer,Shearer Speed Toyota,21.473,73.348,2,2,4.711
+9,198,20,86,Chris Golden,Race Parts Liquidators Ford,21.534,73.14,2,2,4.772
+10,150,1,18,William Sawalich,Starkey/Sound Gear Toyota,22.306,110.715,1,2,0
+10,114,2,6,Lavar Scott,Max Siegel Inc Chevrolet,22.467,109.921,1,2,0.161
+10,111,3,2,Andres Perez,Max Siegel Inc Chevrolet,22.493,109.794,2,3,0.187
+10,178,4,28,Connor Zilisch,Chevrolet Performance Chevrolet,22.502,109.75,1,2,0.196
+10,151,5,20,Gio Ruggiero,JBL Toyota,22.564,109.449,1,2,0.258
+10,186,6,33,Lawless Alan,AutoParkIt Ford,22.574,109.4,1,2,0.268
+10,136,7,25,Toni Breidinger,Raising Cane’s Toyota,22.798,108.325,1,2,0.492
+10,137,8,15,Kris Wright,FNB Corportation Toyota,22.851,108.074,3,3,0.545
+10,185,9,55,Dean Thompson,Thompson Pipe Group Toyota,22.927,107.716,2,3,0.621
+10,103,10,32,Christian Rose,West Virginia Department of Tourism Ford,22.957,107.575,1,2,0.651
+10,102,11,35,Greg Van Alst,Zaki Ali Personal Injury Attorney Ford,22.979,107.472,2,4,0.673
+10,124,12,17,Marco Andretti,Group 1001 Chevrolet,23.067,107.062,2,2,0.761
+10,197,13,95,Andrew Patterson,Carrier/Habegger/Winsupply Toyota,23.169,106.591,3,4,0.863
+10,117,14,34,Isaac Johnson,George E Booth Co/Endress+Hauser Ford,23.223,106.343,3,3,0.917
+10,108,15,22,Amber Balcaen,Icon Toyota,23.25,106.219,2,3,0.944
+10,180,16,11,Zachary Tinkle,Racing for Rescues/Fast Track Racing Toyota,23.616,104.573,1,3,1.31
+10,194,17,12,Presley Sorah,HDFive/Tatanka Sauce/PreselySorah.com Toyota,23.757,103.953,3,3,1.451
+10,181,18,39,D.L. Wilson,Heart O’ Texas Speedway/ETR Toyota,23.796,103.782,3,5,1.49
+10,146,19,85,Becca Monopoli,Orlando Health Ford,23.841,103.586,5,10,1.535
+10,203,20,93,Tyler Tomassi,Tomassi Law Ford,24.15,102.261,2,2,1.844
+10,149,21,1,Cody Dennison,Timcast.com Toyota,24.17,102.176,4,5,1.864
+10,120,22,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,24.247,101.852,2,2,1.941
+10,191,23,10,Jayson Alexander,Constant Contact Ford,24.508,100.767,1,3,2.202
+10,141,24,6,Brayton Laster,Peterson Motorsports Toyota,24.533,100.664,2,4,2.227
+10,183,25,31,Rita Goulet,NationalPolice.org Chevrolet,24.799,99.585,1,2,2.493
+10,107,26,3,Alex Clubb,Race Parts Liquidators Ford,25.205,97.981,2,2,2.899
+10,121,27,48,Brad Smith,Copraya.com Ford,25.968,95.102,1,2,3.662
+10,175,28,86,Casey Carden,Race Parts Liquidators Ford,26.041,94.835,3,3,3.735
+10,148,29,98,Dale Shearer,Shearer Speed Toyota,26.59,92.877,2,4,4.284
+10,196,30,0,Nate Moeller,Peterson Motorsports Toyota,26.884,91.861,2,4,4.578
+11,150,1,18,William Sawalich,Starkey/Sound Gear Toyota,17.101,116.835,1,1,0
+11,114,2,6,Lavar Scott,Max Siegel Inc Chevrolet,17.348,115.172,2,2,0.247
+11,110,3,20,Jake Finch,Phoenix Toyota,17.357,115.112,1,2,0.256
+11,136,4,25,Toni Breidinger,Venturini Motorsports Toyota,17.435,114.597,2,2,0.334
+11,206,5,28,Corey Day,Chevrolet Performance Chevrolet,17.436,114.591,2,2,0.335
+11,137,6,15,Kris Wright,FNB Corportation Toyota,17.446,114.525,2,2,0.345
+11,111,7,2,Andres Perez,Max Siegel Inc Chevrolet,17.476,114.328,1,2,0.375
+11,100,8,55,Gus Dean,Palmetto Grain Brokerage Toyota,17.568,113.73,2,2,0.467
+11,108,9,22,Amber Balcaen,Icon Toyota,17.595,113.555,1,2,0.494
+11,188,10,69,Will Kimmel,Weddington Custom Homes/Jax Wax Ford,17.604,113.497,1,2,0.503
+11,103,11,32,Christian Rose,West Virginia Department of Tourism Ford,17.699,112.888,2,2,0.598
+11,102,12,35,Greg Van Alst,Zaki Ali Personal Injury Attorney Ford,17.73,112.69,2,2,0.629
+11,197,13,95,Andrew Patterson,Winsupply/SCS Gearbox Toyota,17.921,111.489,2,2,0.82
+11,117,14,34,Isaac Johnson,Endress+Hauser Ford,18.117,110.283,2,2,1.016
+11,149,15,11,Cody Dennison,Timcast.com Toyota,18.844,106.028,2,2,1.743
+11,184,16,68,Mike Basham,Clarksville Schwinn Ford,18.977,105.285,2,2,1.876
+11,141,17,6,Brayton Laster,Peterson Motorsports Toyota,19.18,104.171,2,2,2.079
+11,122,18,12,Ryan Roulette,Bellator Recruiting Academy/VFW Ford,19.235,103.873,2,2,2.134
+11,120,19,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,19.42,102.884,2,2,2.319
+11,139,20,10,Ed Pompa,HYTORC of New York/Double H Ranch Ford,19.712,101.36,2,2,2.611
+11,107,21,3,Alex Clubb,Race Parts Liquidators Ford,19.83,100.756,2,2,2.729
+11,121,22,48,Brad Smith,Copraya.com Ford,20.052,99.641,2,2,2.951
+11,183,23,31,Rita Goulet,NationalPolice.org Chevrolet,20.106,99.373,2,2,3.005
+11,148,24,98,Dale Shearer,Shearer Speed Ford,20.438,97.759,2,2,3.337
+11,198,25,86,Chris Golden,Race Parts Liquidator Ford,21.431,93.229,2,2,4.33
+12,150,1,18,William Sawalich,Starkey/Soundgear Toyota,14.393,93.796,2,2,0
+12,137,2,15,Kris Wright,FNB Corporation Toyota,14.438,93.503,2,2,0.045
+12,155,3,55,Isabella Robusto,Mobil 1 Toyota,14.459,93.367,2,2,0.066
+12,114,4,6,Lavar Scott,Max Siegel Inc. Chevrolet,14.48,93.232,2,2,0.087
+12,111,5,2,Andres Perez,Max Siegel Inc. Chevrolet,14.576,92.618,1,2,0.183
+12,154,6,20,Sean Hingorani,Fidelity Capital Toyota,14.641,92.207,2,2,0.248
+12,102,7,35,Greg Van Alst,CB Fabricating/Top Choice Fence Ford,14.661,92.081,2,2,0.268
+12,103,8,32,Christian Rose,West Virginia Department of Tourism Ford,14.679,91.968,1,2,0.286
+12,136,9,25,Toni Breidinger,Sunoco Toyota,14.797,91.235,2,2,0.404
+12,207,10,45,E.J. Tamayo,AMICI Engineering Contractors Ford,14.804,91.192,2,2,0.411
+12,108,11,22,Amber Balcaen,Icon Toyota,14.812,91.142,2,2,0.419
+12,209,12,31,Rick Redig-Tackman,Max Buchanan Foundation Chevrolet,14.98,90.12,2,2,0.587
+12,149,13,11,Cody Dennison,Timcast.com Toyota,15.112,89.333,2,2,0.719
+12,107,14,3,Alex Clubb,Race Parts Liquidators Ford,15.186,88.898,1,2,0.793
+12,122,15,12,Ryan Roulette,Bellator Recruiting Academy/VFW Ford,15.254,88.501,2,2,0.861
+12,120,16,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,15.374,87.811,1,2,0.981
+12,125,17,10,Bryce Haugeberg,Brenco/Haugeberg Farms/UTI Ford,15.48,87.209,1,2,1.087
+12,196,18,6,Nate Moeller,Peterson Motorsports Toyota,16.127,83.711,1,2,1.734
+12,121,19,48,Brad Smith,Copraya.com Ford,16.342,82.609,1,2,1.949
+12,208,20,86,Brian Clubb,Race Parts Liquidators Ford,16.727,80.708,2,2,2.334
+14,150,1,18,William Sawalich,Starkey/Sound Gear Toyota,34.009,105.854,1,1,0
+14,212,2,16,Kelly Kovski,Brandt/Schluckebier Farms Chevrolet,34.842,103.324,1,1,0.833
+14,211,3,55,Taylor Reimer,BuzzBallz Toyota,35.197,102.281,1,1,1.188
+14,111,4,2,Andres Perez,Max Siegel Inc Chevrolet,35.254,102.116,1,1,1.245
+14,137,5,15,Kris Wright,FNB Corportation Toyota,35.318,101.931,1,1,1.309
+14,114,6,6,Lavar Scott,Max Siegel Inc Chevrolet,35.377,101.761,1,1,1.368
+14,103,7,32,Christian Rose,West Virginia Department of Tourism Ford,35.459,101.526,1,1,1.45
+14,129,8,8,Sean Corr,Nesco Bus Sales Chevrolet,35.86,100.39,1,1,1.851
+14,108,9,22,Amber Balcaen,Icon Toyota,35.987,100.036,1,1,1.978
+14,107,10,3,Alex Clubb,Race Parts Liquidators Ford,36.118,99.673,1,1,2.109
+14,149,11,11,Cody Dennison,Timcast.com Toyota,36.213,99.412,1,1,2.204
+14,125,12,10,Bryce Haugeberg,Brenco/Haugeberg Farms/UTI Ford,36.604,98.35,1,1,2.595
+14,120,13,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,36.605,98.347,1,1,2.596
+14,213,14,12,Tim Monroe,Illinois Trucking Ass’n/Riverside Chevy Chevrolet,37.145,96.917,1,1,3.136
+14,121,15,48,Brad Smith,Copraya.com Ford,37.357,96.367,1,1,3.348
+14,196,16,6,Nate Moeller,Peterson Motorsports Toyota,41.58,86.58,1,1,7.571
+14,208,17,86,Brian Clubb,Race Parts Liquidators Ford,44.089,81.653,1,1,10.08
+15,150,1,18,William Sawalich,Starkey/Sound Gear Toyota,29.002,125.991,1,1,0
+15,178,2,28,Connor Zilisch,Chevrolet Performance/Silver Hare Development Chevrolet,29.366,124.43,1,2,0.364
+15,186,3,33,Lawless Alan,AutoParkIt Ford,29.594,123.471,1,2,0.592
+15,111,4,2,Andres Perez,Max Siegel Inc Chevrolet,29.697,123.043,1,2,0.695
+15,151,5,20,Gio Ruggiero,JBL Toyota,29.747,122.836,1,1,0.745
+15,185,6,55,Dean Thompson,Thompson Pipe Group Toyota,29.906,122.183,1,2,0.904
+15,137,7,15,Kris Wright,FNB Corporation Toyota,29.98,121.881,1,2,0.978
+15,114,8,6,Lavar Scott,Max Siegel Inc Chevrolet,30.001,121.796,1,1,0.999
+15,108,9,22,Amber Balcaen,Icon Toyota,30.015,121.739,1,3,1.013
+15,103,10,32,Christian Rose,West Virginia Department of Tourism Ford,30.061,121.553,2,3,1.059
+15,124,11,17,Marco Andretti,Group 1001 Chevrolet,30.305,120.574,1,2,1.303
+15,149,12,10,Cody Dennison,Timcast.com Toyota,31.018,117.803,2,2,2.016
+15,120,13,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,31.285,116.797,2,2,2.283
+15,197,14,95,Andrew Patterson,SCS Gearbox/Winsupply Toyota,31.304,116.726,1,1,2.302
+15,180,15,11,Zachary Tinkle,Racing for Rescues/Fast Track Racing Toyota,31.333,116.618,1,2,2.331
+15,181,16,39,D.L. Wilson,Heart O’ Texas Speedway Toyota,31.55,115.816,2,3,2.548
+15,203,17,93,Tyler Tomassi,Tomassi Law Ford,31.704,115.254,1,3,2.702
+15,122,18,12,Ryan Roulette,Bellator Recruiting Academy/VFW Ford,31.817,114.844,1,2,2.815
+15,107,19,3,Alex Clubb,Race Parts Liquidators Ford,32.274,113.218,2,2,3.272
+15,121,20,48,Brad Smith,Copraya.com Ford,34.184,106.892,2,3,5.182
+15,196,21,6,Nate Moeller,Peterson Motorsports Ford,35.957,101.621,1,2,6.955
+16,150,1,18,William Sawalich,Starkey/Sound Gear Toyota,35.432,101.603,1,1,0
+16,182,2,20,Brent Crews,JBL Toyota,35.481,101.463,1,1,0.049
+16,212,3,16,Kelly Kovski,Brandt/Schluckebier Farms Chevrolet,35.51,101.38,1,1,0.078
+16,111,4,2,Andres Perez,Max Siegel Inc Chevrolet,35.657,100.962,1,1,0.225
+16,137,5,15,Kris Wright,FNB Corportation Toyota,35.772,100.637,1,1,0.34
+16,114,6,6,Lavar Scott,Max Siegel Inc Chevrolet,35.986,100.039,1,1,0.554
+16,188,7,69,Will Kimmel,Kimmel Racing Ford,36.062,99.828,1,1,0.63
+16,211,8,55,Taylor Reimer,Buzzballz Toyota,36.686,98.13,1,1,1.254
+16,108,9,22,Amber Balcaen,Icon Toyota,36.792,97.847,1,1,1.36
+16,129,10,8,Sean Corr,Necso Bus Sales Chevrolet,36.925,97.495,1,1,1.493
+16,132,11,4,Dale Quarterley,Van Dyk Recycling/Motul Chevrolet,37.117,96.991,1,1,1.685
+16,103,12,32,Christian Rose,West Virginia Department of Tourism Ford,37.38,96.308,1,1,1.948
+16,213,13,12,Tim Monroe,Riverside Chevy/Illinios Trucking Assoc. Chevrolet,37.584,95.785,1,1,2.152
+16,149,14,11,Cody Dennison,Timcast.com Toyota,37.715,95.453,1,1,2.283
+16,136,15,25,Toni Breidinger,SunocoToyota,37.958,94.842,1,1,2.526
+16,120,16,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,38.927,92.481,1,1,3.495
+16,141,17,31,Brayton Laster,AC/Cages.com/Goat Locker Racing Chevrolet,39.13,92.001,1,1,3.698
+16,214,18,6,Austin Vaughn,Peterson Motorsports Toyota,39.659,90.774,1,1,4.227
+16,121,19,48,Brad Smith,Copraya.com Ford,40.357,89.204,1,1,4.925
+16,215,20,10,Daylan Hairston,Memory of Ron Hutcherson Ford,41.645,86.445,1,1,6.213
+16,196,21,0,Nate Moeller,Peterson Motorsports Ford,48.168,74.738,1,1,12.736
+16,208,22,86,Brian Clubb,Race Parts Liquidators Ford,50.012,71.983,1,1,14.58
+17,178,1,28,Connor Zilisch,Chevrolet Performance/Silver Hare Development Chevrolet,73.8,119.548,1,1,0
+17,150,2,18,William Sawalich,Starkey/Sound Gear Toyota,74.5,118.456,1,1,0.68
+17,101,3,44,Thomas Annunziata,Bayshore Mortgage Funding Ford,75,117.528,3,3,1.268
+17,111,4,2,Andres Perez,Max Siegel Inc Chevrolet,75.2,117.27,1,1,1.433
+17,151,5,20,Gio Ruggiero,First Auto Group Toyota,75.4,117.041,2,2,1.58
+17,216,6,42,Brandon Jones,Lyons Bathtubs & Showers/Menards Chevrolet,75.4,116.9,1,1,1.671
+17,137,7,15,Kris Wright,FNB Corportation Toyota,75.7,116.58,2,2,1.878
+17,153,8,23,Connor Mosack,Sigma Performance Chevrolet,75.8,116.31,4,5,2.054
+17,114,9,6,Lavar Scott,Max Siegel Inc Chevrolet,75.9,116.207,1,2,2.121
+17,217,10,29,Ryan Gemmell,Diamond Brite/TC3 Turf Toyota,76.4,115.459,5,5,2.613
+17,124,11,17,Marco Andretti,Group 1001 Chevrolet,76.9,114.65,1,2,3.152
+17,218,12,30,Dylan Lupton,Lupton Excavation Ford,77,114.584,3,3,3.196
+17,132,13,4,Dale Quarterley,Van Dyk Recycling/ACI/Fire Rover Chevrolet,77,114.486,3,4,3.262
+17,110,14,55,Jake Finch,Phoenix Toyota,77.1,114.381,3,3,3.333
+17,109,15,73,Andy Jankowiak,Whelen Engineering Company Chevrolet,77.2,114.218,1,3,3.443
+17,136,16,25,Toni Breidinger,Boozy Jerky Toyota,77.5,113.859,1,2,3.686
+17,219,17,3,Alex Quarterley,Van Dyk Recycling Solutions Chevrolet,77.6,113.616,4,5,3.852
+17,103,18,32,Christian Rose,West Virginia Department of Tourism Ford,78.3,112.629,3,4,4.532
+17,220,19,71,Chris Werth,Werth Racing Chevrolet,79.6,110.798,6,7,5.826
+17,104,20,27,Tim Richmond,Immigration Law Center Toyota,79.6,110.758,2,3,5.855
+17,149,21,11,Cody Dennison,Timcast.com Toyota,80.5,109.626,4,4,6.677
+17,139,22,10,Ed Pompa,HyTorc of NY/Double H Ranch Toyota,81.8,107.873,2,2,7.985
+17,120,23,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,87.1,101.271,3,3,13.315
+17,141,24,12,Brayton Laster,AC/Cages.com/UTI Ford,90,97.984,1,2,16.237
+17,196,25,6,Nate Moeller,Peterson Motorsports Toyota,97.9,90.12,3,4,24.091
+17,107,26,3,Alex Clubb,Wallis Farms/Misfit Productions Ford,99.6,88.556,3,3,25.82
+17,121,27,48,Brad Smith,Copraya.com Ford,103.7,85.053,1,2,29.922
+18,178,1,28,Connor Zilisch,Chevrolet Performance/Silver Hare Development Chevrolet,15.503,123.77,2,2,0
+18,150,2,18,William Sawalich,Starkey/Sound Gear Toyota,15.546,123.427,1,2,0.043
+18,111,3,2,Andres Perez,Max Siegel Inc Chevrolet,15.56,123.316,1,2,0.057
+18,221,4,97,Landen Lewis,Grant County Mulch Chevrolet,15.653,122.584,1,3,0.15
+18,157,5,23,Tyler Reif,Vegas Fastener Machine/SPS/Spencer Clark Foundtn Chevrolet,15.671,122.443,3,3,0.168
+18,151,6,20,Gio Ruggiero,JBL Toyota,15.709,122.147,2,3,0.206
+18,223,7,71,Dawson Sutton,Chevrolet/Wheeler Trucking/Victory Custom Trailers Chevrolet,15.729,121.991,3,3,0.226
+18,206,8,82,Corey Day,Hendrickcars.com Chevrolet,15.754,121.798,3,3,0.251
+18,110,9,1,Jake Finch,Phoenix Construction Toyota,15.777,121.62,3,4,0.274
+18,185,10,55,Dean Thompson,Thompson Pipe Group Toyota,15.779,121.605,6,6,0.276
+18,186,11,33,Lawless Alan,AUTOParkit Ford,15.866,120.938,2,2,0.363
+18,103,12,32,Christian Rose,West Virginia Department of Tourism Ford,15.881,120.824,5,5,0.378
+18,222,13,9,Logan Misuraca,Clean Harbors Chevrolet,15.911,120.596,3,4,0.408
+18,137,14,15,Kris Wright,FNB Corportation Toyota,15.956,120.256,4,4,0.453
+18,197,15,95,Andrew Patterson,Winsupply/SCS Gearbox Toyota,15.961,120.218,4,4,0.458
+18,109,16,73,Andy Jankowiak,Acacia Energy Toyota,15.992,119.985,2,5,0.489
+18,124,17,17,Marco Andretti,Group 1001 Chevrolet,16.041,119.618,5,5,0.538
+18,102,18,35,Greg Van Alst,Phil’s Heating and Air Ford,16.146,118.841,3,4,0.643
+18,108,19,22,Amber Balcaen,Icon Toyota,16.164,118.708,1,2,0.661
+18,180,20,11,Zachary Tinkle,Racing for Rescues/Fast Track Racing Toyota,16.269,117.942,3,3,0.766
+18,136,21,25,Toni Breidinger,Sunoco Toyota,16.301,117.711,2,3,0.798
+18,104,22,27,Tim Richmond,Immigration Law Center Toyota,16.443,116.694,5,7,0.94
+18,181,23,39,D.L. Wilson,Heart O’Texas Speedway/ETR Toyota,16.806,114.174,3,3,1.303
+18,147,24,6,Mitch Gibson,Peterson Motorsports Toyota,16.96,113.137,2,2,1.457
+18,140,25,12,Eric Caudell,Wet Pets by Steve/Coble Enterprise/Doug Design Chevrolet,17.037,112.625,1,1,1.534
+18,114,26,6,Lavar Scott,Max Siegel Inc Chevrolet,17.097,112.23,1,1,1.594
+18,120,27,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,17.133,111.994,2,3,1.63
+18,107,28,3,Alex Clubb,Race Parts Liquidators/Misfit Productions Ford,17.278,111.055,3,3,1.775
+18,148,29,98,Dale Shearer,Shearer Speed Toyota,17.456,109.922,5,6,1.953
+18,201,30,31,Tim Goulet,Max Buchanan Foundation Chevrolet,17.752,108.089,5,5,2.249
+18,196,31,0,Nate Moeller,Peterson Motorsports Ford,21.399,89.668,1,1,5.896
+18,208,32,93,Brian Clubb,Race Parts Liquidators/Misfit Productions Ford,21.711,88.379,1,1,6.208
+19,155,1,55,Isabella Robusto,Mobil 1,30.896,174.78,2,2,0
+19,151,2,20,Gio Ruggiero,First Auto Group,30.956,174.441,2,2,0.06
+19,137,3,15,Kris Wright,Warranty Solutions,30.985,174.278,2,2,0.089
+19,178,4,28,Connor Zilisch,Chevrolet Perf/Silver Hare Dev,30.986,174.272,1,1,0.09
+19,123,5,18,Tanner Gray,Joe Gibbs Racing,31.075,173.773,1,1,0.179
+19,109,6,73,Andy Jankowiak,Acacia Energy,31.193,173.116,2,2,0.297
+19,111,7,2,Andres Perez,Max Siegel Inc.,31.196,173.099,1,2,0.3
+19,114,8,6,Lavar Scott,Max Siegel Inc.,31.227,172.927,2,2,0.331
+19,206,9,82,Corey Day,HendrickCars.com,31.292,172.568,2,2,0.396
+19,108,10,22,Amber Balcaen,ICON,31.384,172.062,1,2,0.488
+19,186,11,33,Lawless Alan,AutoParkIt,31.391,172.024,1,2,0.495
+19,136,12,25,Toni Breidinger,Boozy Jerky,31.396,171.996,1,2,0.5
+19,117,13,34,Isaac Johnson,Vector CAG/Endress+Hauser,31.622,170.767,2,2,0.726
+19,102,14,35,Greg Van Alst,CB Fabricating,31.622,170.767,2,2,0.726
+19,103,15,32,Christian Rose,West Virgina Department of Tourism,31.684,170.433,2,2,0.788
+19,105,16,97,Jason Kitzmiller,A.L.L. Construction,32.088,168.287,2,3,1.192
+19,193,17,10,Christopher Tate,T-Top Manufacturing/Cash Customs,32.249,167.447,1,2,1.353
+19,124,18,17,Marco Andretti,Group 1001,32.288,167.245,1,1,1.392
+19,133,19,74,Mandy Chick,Dynamic Drivelines/FK Rod Ends/Fragola Perf,32.614,165.573,2,2,1.718
+19,189,20,9,Sebastian Arias,Max Siegel Inc,33.064,163.32,1,2,2.168
+19,144,21,12,Takuma Koga,IKEDO – archetype,33.703,160.223,1,3,2.807
+19,149,22,11,Cody Dennison,Timcast.com,33.785,159.834,1,1,2.889
+19,140,23,7,Eric Caudell,Coble Enterprises/Doug Design,34.457,156.717,3,3,3.561
+19,120,24,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports,34.792,155.208,5,5,3.896
+19,183,25,31,Rita Goulet,NationalPolice.org,35.42,152.456,3,3,4.524
+19,187,26,6,Kevin Hinckle,KH Automotive,35.842,150.661,2,3,4.946
+19,121,27,48,Brad Smith,Copraya.com,36.39,148.392,1,2,5.494
+19,107,28,3,Alex Clubb,Race Parts Liquidators,38.629,139.791,1,1,7.733
+20,150,1,18,William Sawalich,Starkey/Soundgear Toyota,16,112.5,2,2,0
+20,151,2,20,Gio Ruggiero,First Auto Group Toyota,16.098,111.815,2,3,0.098
+20,137,3,15,Kris Wright,FNB Toyota,16.204,111.084,2,3,0.204
+20,111,4,2,Andres Perez,Max Siegel Youth Foundation Chevrolet,16.214,111.015,2,3,0.214
+20,182,5,55,Brent Crews,JBL Toyota,16.348,110.105,2,3,0.348
+20,114,6,6,Lavar Scott,Special Smiles/Max Siegel Inc. Chevrolet,16.377,109.91,2,3,0.377
+20,103,7,32,Christian Rose,West Virgina Department of Tourism Ford,16.39,109.823,2,3,0.39
+20,108,8,22,Amber Balcaen,ICON Toyota,16.407,109.709,2,3,0.407
+20,136,9,25,Toni Breidinger,Sunoco Toyota,16.408,109.703,2,3,0.408
+20,127,10,10,Willie Mullins,Crow Wing Recycling Toyota,16.654,108.082,2,3,0.654
+20,120,11,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,17.064,105.485,2,3,1.064
+20,213,12,12,Tim Monroe,PVW 20th Anniversary Ford,17.069,105.454,2,3,1.069
+20,149,13,11,Cody Dennison,Timcast.com,17.092,105.312,2,3,1.092
+20,107,14,3,Alex Clubb,Race Parts Liquidators Ford,17.549,102.57,2,3,1.549
+20,146,15,85,Becca Monopoli,Orlando Health Ford,17.572,102.436,2,4,1.572
+20,202,16,1,Matt Kemp,ELHDetailing.com/Fast Track Racing Ford,17.938,100.346,2,3,1.938
+20,194,17,31,Presley Sorah,HDFive/Tatanka Souce/PreselySorah.com Chevrolet,18.233,98.722,2,3,2.233
+20,196,18,6,Nate Moeller,Peterson Motorsports Toyota,18.72,96.154,2,3,2.72
+20,148,19,98,Dale Shearer,Shearer Speed Toyota,19.081,94.335,2,3,3.081
+20,176,20,0,Con Nicolopoulos,Peterson Motorsports Ford,19.22,93.652,2,3,3.22
+20,121,21,48,Brad Smith,Copraya.com Ford,20.349,88.456,2,3,4.349
+21,150,1,18,William Sawalich,Starkey/Sound Gear Toyota,17.126,105.103,1,1,0
+21,110,2,55,Jake Finch,Phoenix Toyota,17.229,104.475,2,2,0.103
+21,228,3,28,Luke Fenhaus,Chevrolet/Silver Hare Development Chevrolet,17.285,104.137,2,2,0.159
+21,151,4,20,Gio Ruggiero,JBL Toyota,17.319,103.932,2,2,0.193
+21,224,5,1,Bubba Pollard,Phoenix Racing Chevrolet,17.449,103.158,2,2,0.323
+21,225,6,95,Hunter Wright,Wilson County Visitors Bureau Toyota,17.879,100.677,2,2,0.753
+21,227,7,7,Tyler Scofield,JXT Transportation Chevrolet,17.892,100.604,2,2,0.766
+21,180,8,11,Zachary Tinkle,Fast Track Racing Toyota,18.173,99.048,2,2,1.047
+21,181,9,39,D.L. Wilson,ETR/Wilson Traditional Metals Toyota,18.526,97.161,2,2,1.4
+21,184,10,10,Mike Basham,Diesel Boys LLC/Double H Ranch Ford,18.599,96.779,2,2,1.473
+21,226,11,93,Colton Collins,Cooper Marketing Unlimited Chevrolet,18.687,96.324,2,2,1.561
+21,149,12,6,Cody Dennison,Peterson Motorsports Toyota,18.757,95.964,2,2,1.631
+21,120,13,99,Michael Maples,Don Ray Petroleum/Maples Motorsports Chevrolet,19.034,94.568,2,2,1.908
+21,183,14,31,Rita Goulet,nationalpolice.org/backthelane.com Chevrolet,19.557,92.039,2,2,2.431
+21,194,15,12,Presley Sorah,OEM Pensacola/Tatanka Sauce Toyota,19.712,91.315,2,2,2.586
+22,151,1,20,Gio Ruggiero,JBL Toyota,19.42,110.484,2,2,0
+22,150,2,18,William Sawalich,Starkey/Sound Gear Toyota,19.47,110.2,1,2,0.05
+22,155,3,55,Isabella Robusto,Yahoo Toyota,19.556,109.716,2,2,0.136
+22,178,4,28,Connor Zilisch,Chevrolet/Silver Hare Development Chevrolet,19.764,108.561,1,2,0.344
+22,180,5,11,Zachary Tinkle,Racing for Rescues/Fast Track Toyota,19.913,107.749,2,2,0.493
+22,197,6,96,Andrew Patterson,Winsupply/SCS Gearbox Toyota,19.925,107.684,2,2,0.505
+22,227,7,7,Tyler Scofield,JXT Transportation Chevrolet,19.952,107.538,2,2,0.532
+22,225,8,95,Hunter Wright,Cedar River RV Toyota,20.078,106.863,1,2,0.658
+22,134,9,93,Caleb Costner,Thin Blue Wine Cellars Chevrolet,20.85,102.906,2,2,1.43
+22,181,10,39,D.L. Wilson,Heart O’ Texas Speedway/ETR Toyota,20.859,102.862,2,2,1.439
+22,120,11,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,20.972,102.308,2,2,1.552
+22,191,12,10,Jayson Alexander,Selwyn Pub/Constant Contact Toyota,21.527,99.67,2,2,2.107
+22,149,13,6,Cody Dennison,Peterson Motorsports Toyota,21.625,99.218,2,2,2.205
+22,194,14,12,Presley Sorah,Tatanka Sauce/Layin Coin Podcast Toyota,21.942,97.785,2,2,2.522
+22,183,15,31,Rita Goulet,NationalPolice.org Chevrolet,22.355,95.979,2,2,2.935
+22,121,16,48,Brad Smith,Copraya.com Ford,22.966,93.425,2,2,3.546
+22,196,17,0,Nate Moeller,Peterson Motorsports Ford,23.2,92.483,1,2,3.78
+23,178,1,28,Connor Zilisch,Chevrolet/Silver Hare Development Chevrolet,12.724,70.732,1,2,0
+23,151,2,20,Gio Ruggiero,JBL Toyota,12.764,70.511,1,2,0.04
+23,150,3,18,William Sawalich,Starkey/Sound Gear Toyota,12.796,70.334,2,2,0.072
+23,180,4,11,Zachary Tinkle,Racing for Rescues/Fast Track Toyota,13.044,68.997,2,2,0.32
+23,136,5,55,Toni Breidinger,VMS Toyota,13.062,68.902,1,2,0.338
+23,202,6,12,Matt Kemp,Work for Green Shield Deck Builders Toyota,13.202,68.171,1,2,0.478
+23,229,7,1,Blaine Donahue,PALM Charter School Toyota,13.356,67.385,1,2,0.632
+23,210,8,65,Jeffery MacZink,Syncon Perf Floor/Parkway Svcs/Innovative Fluids Toyota,13.365,67.34,2,2,0.641
+23,226,9,93,Colton Collins,Thin Blue Wine Cellars Chevrolet,13.502,66.657,1,2,0.778
+23,191,10,10,Jayson Alexander,Selwyn Pub/Constant Contact Toyota,13.553,66.406,2,2,0.829
+23,181,11,39,D.L. Wilson,Heart O’ Texas Speedway/ETR Toyota,13.655,65.91,2,2,0.931
+23,120,12,99,Michael Maples,Don Ray Petroleum LLC/Maples Motorsports Chevrolet,13.681,65.785,2,2,0.957
+23,149,13,6,Cody Dennison,Timcast.com Toyota,13.833,65.062,1,2,1.109
+23,183,14,31,Rita Goulet,NationalPolice.org Chevrolet,14.149,63.609,2,2,1.425
+23,121,15,48,Brad Smith,Copraya.com Ford,14.416,62.431,1,2,1.692
+24,157,1,13,Tyler Reif,Central Coast Cabinets Toyota,18.464,97.487,2,2,0
+24,156,2,16,Jack Wood,NAPA Auto Care Chevrolet,18.646,96.535,2,3,0.182
+24,230,3,5,Kole Raz,Apache Rental Group Toyota,18.647,96.53,3,4,0.183
+24,159,4,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,18.737,96.067,2,3,0.273
+24,164,5,71,Nick Joanides,Jan’s Towing Ford,18.744,96.031,3,3,0.28
+24,154,6,24,Sean Hingorani,SPS/Fisher Industries Chevrolet,18.758,95.959,2,3,0.294
+24,231,7,4,"Eric Nascimento, Jr.",RJs Paintshop/Impact Transport/Davids Racing Chevrolet,18.818,95.653,2,4,0.354
+24,192,8,23,Mason Mitchell,SPS/GMS Fabrication Chevrolet,18.858,95.45,2,3,0.394
+24,232,9,33,PJ Pedroncelli,Pedroncelli Mobile Bottling Chevrolet,18.937,95.052,3,4,0.473
+24,160,10,12,Kyle Keller,Setting The Stage/Battle Born/Argus Construction Ford,18.981,94.832,3,4,0.517
+24,161,11,3,Todd Souza,Central Coast Cabinets Toyota,18.993,94.772,3,4,0.529
+24,144,12,7,Takuma Koga,GR Garage Toyota,19.016,94.657,2,4,0.552
+24,167,13,41,"Johnny Borneman, III",Tilly’s/Stoney’s Ford,19.023,94.622,3,4,0.559
+24,235,14,21,Henry Barton,Nascimento Motorsports/Turn One/Joiner Motorsports Toyota,19.094,94.27,3,4,0.63
+24,233,15,88,John Moore,JM Environmental Ford,19.146,94.014,3,5,0.682
+24,162,16,19,"Eric Johnson, Jr.",Pacific Office Automation Chevrolet,19.21,93.701,4,5,0.746
+24,234,17,52,Ryan Philpott,Hacienda Pools/Mattos Transport Chevrolet,19.445,92.569,2,4,0.981
+24,172,18,11,Danica Dart,Evers Farms/Pioneer Perf/EBCO Constr Ford,19.651,91.598,2,4,1.187
+24,171,19,77,Cody Kiemele,King Taco/Master K BBQ/Wallce Sign Toyota,19.676,91.482,2,3,1.212
+24,163,20,1,Robbie Kennealy,Setting The Stage/American Swin/Wiley X Ford,20.534,87.659,1,1,2.07
+24,169,21,27,"Bobby Hillis, Jr.",Camping World/First Impression Press Chevrolet,20.796,86.555,3,4,2.332
+24,166,22,5,David Smith,Shockwave Marine Suspension Seating Toyota,26.986,66.701,4,4,8.522
+25,216,1,42,Brandon Jones,Sprecher,76.4,92.853,2,2,0
+25,150,2,18,William Sawalich*,Starkey/Sound Gear,77.1,91.983,2,3,0.722
+25,124,3,17,Marco Andretti*,Group 1001,77.8,91.184,2,3,1.398
+25,156,4,16,Jack Wood,NAPA Auto Care,77.8,91.181,2,2,1.4
+25,157,5,13,Tyler Reif,Central Coast Cabinets,77.9,91.05,5,5,1.512
+25,154,6,5,Sean Hingorani,Fidelity Capital,78,90.962,2,2,1.588
+25,151,7,20,Gio Ruggiero,First Auto Group,78.1,90.812,1,1,1.716
+25,237,8,23,Jake Walker,GMS Fab/SPS/Spencer Clark Driven,78.1,90.771,8,11,1.752
+25,132,9,4,Dale Quarterley,Van Dyk Recycling/ACI/Fire Rover,78.2,90.73,2,3,1.787
+25,238,10,6,Caleb Shrader,Consonus Healthcare,78.2,90.708,2,2,1.806
+25,158,11,88,Tanner Reif,Vegas Fastner Manufacturing,78.3,90.543,5,5,1.948
+25,159,12,50,Trevor Huddleston,High Point Racing/Racecar Factory,78.4,90.492,2,3,1.993
+25,155,13,55,Isabella Robusto*,Mobil1,78.4,90.405,3,3,2.068
+25,162,14,19,"Eric Johnson, Jr.",Pacific Office Automation,78.9,89.896,1,3,2.512
+25,160,15,12,Kyle Keller,Setting The Stage/Battle Born/Argus Construction,78.9,89.84,2,2,2.561
+25,161,16,3,Todd Souza,Central Coast Cabinets,79.1,89.651,1,3,2.728
+25,110,17,15,Jake Finch,Phoenix,80.8,87.777,4,4,4.417
+25,144,18,7,Takuma Koga,Loop Connect,81.1,87.454,1,3,4.715
+25,239,19,77,Dave Smith,Global OFfice Inc/PP1M,81.6,86.888,1,4,5.243
+25,164,20,71,Nick Joanides,Jan’s Towing,81.8,86.716,2,3,5.405
+25,163,21,1,Robbie Kennealy,Setting The Stage/American Swin/Wiley X,81.8,86.677,3,4,5.442
+25,169,22,27,"Bobby Hillis, Jr.",Camping World/First Impression Press,84.1,84.293,4,7,7.756
+25,166,23,5,David Smith,Shockwave Marine Suspension Seating,87.7,80.908,9,10,11.276
+26,240,1,23,Sam Mayer,SPS/GMS Fabrication/Spencer Clark Chevrolet,77.1,92.873,1,1,0
+26,150,2,18,William Sawalich*,Starkey/Sound Gear Toyota,77.4,92.598,2,2,0.229
+26,216,3,42,Brandon Jones,Delta Brands Chevrolet,78,91.837,2,2,0.87
+26,182,4,15,Brent Crews,Mobil 1 Toyota,78.1,91.767,2,2,0.929
+26,151,5,20,Gio Ruggiero,First Auto Group Toyota,78.3,91.495,1,2,1.161
+26,244,6,30,Noah Gragson,Rette Jones Racing Ford,78.4,91.383,1,3,1.257
+26,159,7,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,79.3,90.375,2,2,2.132
+26,156,8,16,Jack Wood,NAPA Auto Care Chevrolet,79.3,90.339,2,2,2.163
+26,231,9,4,"Eric Nascimento, Jr.",Impact Transport/RJ’s Paintshop/Joiner Motorsports Toyota,79.4,90.246,3,3,2.245
+26,157,10,13,Tyler Reif,Central Coast Cabinets Ford,79.5,90.105,3,5,2.369
+26,160,11,12,Kyle Keller,Setting The Stage/Battle Born/Argus Const Chevrolet,79.5,90.071,3,3,2.399
+26,154,12,5,Sean Hingorani,Fidelity Capital Toyota,79.6,90.026,1,3,2.439
+26,124,13,17,Marco Andretti*,Group 1001 Chevrolet,79.6,89.954,1,3,2.503
+26,155,14,55,Isabella Robusto*,Yahoo! Toyota,79.7,89.832,2,3,2.611
+26,132,15,32,Dale Quarterley,Van Dyk Recycling/Motul Chevrolet,79.9,89.663,1,4,2.761
+26,238,16,6,Caleb Shrader,Consonus Healthcare Ford,80,89.566,3,3,2.848
+26,167,17,41,"Johnny Borneman, III",Travel Nevada/Stoney’s Ford,80.9,88.544,1,4,3.771
+26,161,18,3,Todd Souza,Central Coast Cabinets Toyota,81.4,88.031,3,4,4.242
+26,245,19,80,Brian Kamisky,SK Construction/Wards Concrete/Cox & Cox Constr Chevrolet,81.5,87.888,1,2,4.375
+26,234,20,52,Ryan Philpott,Mattos Equipment Rentals/Hacienda Pools Toyota,82.1,87.259,1,1,4.962
+26,164,21,71,Nick Joanides,Jan’s Towing Ford,83.7,85.555,2,3,6.598
+26,163,22,1,Robbie Kennealy,Setting The Stage/American Swim Academy/Wiley X Chevrolet,84.2,85.102,4,4,7.043
+26,243,23,68,Rodd Kneeland,Florian Industries/Rodd’s Renovations Chevrolet,85.8,83.478,4,6,8.681
+26,169,24,27,"Bobby Hillis, Jr.",Camping World/First Impression Press Chevrolet,86.8,82.489,1,2,9.71
+26,166,25,5,David Smith,Shockwave Marine Suspension Seating Toyota,89.3,80.224,2,3,12.162
+27,157,1,13,Tyler Reif,Central Coast Cabinets Toyota,18.372,97.975,2,3,0
+27,154,2,15,Sean Hingorani,Fidelity Capital Toyota,18.447,97.577,2,3,0.075
+27,159,3,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,18.456,97.529,2,3,0.084
+27,156,4,16,Jack Wood,NAPA Auto Care/BlueDEF Chevrolet,18.478,97.413,2,3,0.106
+27,160,5,12,Kyle Keller,Setting The Stage/Battle Born/Argus Const Ford,18.543,97.072,3,3,0.171
+27,230,6,5,Kole Raz,Apache Rental Group/Jerry Pitts Racing Toyota,18.615,96.696,2,3,0.243
+27,110,7,20,Jake Finch,Phoenix Toyota,18.645,96.541,2,3,0.273
+27,155,8,55,Isabella Robusto*,Yahoo! Toyota,18.711,96.2,2,2,0.339
+27,162,9,19,"Eric Johnson, Jr.",Pacific Office Automation Chevrolet,18.796,95.765,2,3,0.424
+27,164,10,71,Nick Joanides,Jan’s Towing Ford,18.833,95.577,3,3,0.461
+27,161,11,3,Todd Souza,Central Coast Cabinets Toyota,18.867,95.405,3,3,0.495
+27,144,12,7,Takuma Koga,Yamada Infra Technos/CKB/Pitts Toyota Racing Toyota,18.963,94.922,2,3,0.591
+27,246,13,23,Jaron Giannini,Versatile/SPS/GMS Fabrication Chevrolet,18.986,94.807,3,3,0.614
+27,173,14,77,Garrett Zacharias,King Taco/REX MD/Wallace Signs Toyota,19.205,93.726,3,4,0.833
+27,166,15,5,David Smith,Shockwave Marine Suspension Seating Toyota,19.689,91.422,3,3,1.317
+27,247,16,9,Michael Killen,Jan’s Towing Ford,20.563,87.536,3,3,2.191
+27,169,17,27,"Bobby Hillis, Jr.",First Impression Press/LT&T Lawn/RV Nerd/Camping World Chevrolet,20.922,86.034,1,2,2.55
+28,164,1,71,Nick Joanides,Jan’s Towing Ford,18.38,97.933,2,3,0
+28,157,2,13,Tyler Reif,Central Coast Cabinets Toyota,18.4,97.826,2,3,0.02
+28,155,3,55,Isabella Robusto*,Yahoo! Toyota,18.461,97.503,2,3,0.081
+28,154,4,15,Sean Hingorani,Fidelity Capital Toyota,18.47,97.455,2,3,0.09
+28,159,5,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,18.494,97.329,2,3,0.114
+28,110,6,20,Jake Finch,Phoenix Toyota,18.5,97.297,2,3,0.12
+28,230,7,5,Kole Raz,Apache Rental Group/Jerry Pitts Racing Toyota,18.518,97.203,2,3,0.138
+28,156,8,16,Jack Wood,BlueDEF/NAPA Night Vision Chevrolet,18.626,96.639,2,3,0.246
+28,246,9,23,Jaron Giannini,Versatile/SPS/GMS Fabrication Chevrolet,18.628,96.629,2,3,0.248
+28,161,10,3,Todd Souza,Central Coast Cabinets Toyota,18.708,96.216,3,3,0.328
+28,160,11,12,Kyle Keller,Setting The Stage/Battle Born/Argus Const Ford,18.744,96.031,3,3,0.364
+28,162,12,19,"Eric Johnson, Jr.",Pacific Office Automation Chevrolet,18.789,95.801,2,3,0.409
+28,173,13,77,Garrett Zacharias,King Taco/REX MD/Wallace Signs Toyota,19.179,93.853,2,3,0.799
+28,144,14,7,Takuma Koga,IKEDO archetype/CKB/Pitts Toyota Racing Toyota,19.268,93.419,2,3,0.888
+28,247,15,9,Michael Killen,Jan’s Towing Ford,19.481,92.398,3,3,1.101
+28,172,16,11,Danica Dart,Evers Farms/Pioneer Perf/EBCO Constr/Guardian Fence Chevrolet,19.549,92.076,2,3,1.169
+28,166,17,5,David Smith,Shockwave Marine Suspension Seating Toyota,20.079,89.646,2,2,1.699
+28,169,18,27,"Bobby Hillis, Jr.",First Impression Press/LT&T Lawn/RV Nerd/Camping World Chevrolet,20.935,85.98,2,3,2.555
+28,248,19,31,Rick Goodale,Nor-Cal Battery Company Chevrolet,21.087,85.361,3,3,2.707
+29,157,1,13,Tyler Reif,Central Coast Cabinets Toyota,16.033,84.201,1,2,0
+29,154,2,5,Sean Hingorani,Fidelity Capital Toyota,16.073,83.992,2,2,0.04
+29,156,3,16,Jack Wood,NAPA Auto Care Chevrolet,16.093,83.887,2,2,0.06
+29,159,4,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,16.222,83.22,2,2,0.189
+29,249,5,80,Derek Copeland,Wards Concrete/SK Constr/Cox & Cox Constr Toyota,16.253,83.062,2,2,0.22
+29,161,6,3,Todd Souza,Central Coast Cabinets Toyota,16.305,82.797,2,2,0.272
+29,160,7,12,Kyle Keller,Setting The Stage/Battle Born/Argus Const Ford,16.314,82.751,2,2,0.281
+29,246,8,23,Jaron Giannini,Versatile/SPS/GMS Fabrication Toyota,16.331,82.665,1,2,0.298
+29,164,9,71,Nick Joanides,Jan’s Towing Ford,16.417,82.232,2,2,0.384
+29,144,10,7,Takuma Koga,IKEDO archetype Toyota,16.571,81.468,1,2,0.538
+29,163,11,11,Robbie Kennealy,Setting The Stage/American Swim Academy/CoverEase Chevrolet,17.037,79.239,2,2,1.004
+29,166,12,5,David Smith,Shockwave Marine Suspension Seating Toyota,17.052,79.17,2,2,1.019
+30,154,1,5,Sean Hingorani,Fidelity Capital Toyota,18.675,96.386,1,1,0
+30,157,2,13,Tyler Reif,Central Coast Cabinets Toyota,18.795,95.77,2,2,0.12
+30,156,3,16,Jack Wood,NAPA Auto Care Chevrolet,18.998,94.747,2,2,0.323
+30,252,4,23,Greg Biffle,SPS/GMS/Greg Biffle Chevrolet,19.029,94.592,2,2,0.354
+30,160,5,12,Kyle Keller,Setting the Stage/Argus Construction/Battleborn Racing Ford,19.147,94.01,1,2,0.472
+30,251,6,6,Jess Havens,Western Rail Toyota,19.164,93.926,1,2,0.489
+30,144,7,7,Takuma Koga,Lobster-Koshi NoKangai CKB/Jerry Pitts Racing Toyota,19.208,93.711,1,2,0.533
+30,250,8,88,Kasey Kleyn,Farmer Bean & Seed/Thaemert Farms Ford,19.216,93.672,2,2,0.541
+30,162,9,19,"Eric Johnson, Jr.",Pacific Office Automation Chevrolet,19.253,93.492,2,2,0.578
+30,161,10,3,Todd Souza,Central Coast Cabinets Toyota,19.262,93.448,1,2,0.587
+30,159,11,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,19.32,93.168,2,2,0.645
+30,164,12,71,Nick Joanides,Jan’s Towing Ford,19.402,92.774,2,2,0.727
+30,172,13,11,Danica Dart,EBCO Construction/Evers Farms/Guardian Fence Chevrolet,19.49,92.355,1,2,0.815
+30,209,14,31,Rick Redig-Tackman,Max Buchanan Foundation Chevrolet,19.716,91.296,2,2,1.041
+30,166,15,5,David Smith,Shockwave Marine Suspension Seating Toyota,20.842,86.364,2,2,2.167
+31,246,1,23,Jaron Giannini,GMS Fabrication-Versatile and Stone-SPS Toyota,14.696,81.573,2,2,0
+31,159,2,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,14.701,81.545,2,2,0.005
+31,157,3,13,Tyler Reif,Central Coast Cabinets Toyota,14.747,81.291,2,2,0.051
+31,154,4,5,Sean Hingorani,Fidelity Capital Toyota,14.777,81.126,1,2,0.081
+31,156,5,16,Jack Wood,NAPA Auto Care Chevrolet,14.794,81.033,2,2,0.098
+31,231,6,4,"Eric Nascimento, Jr.",Impact Transport-Freddys Tree Svc-Joiner-Nascimento Chevrolet,14.811,80.94,2,2,0.115
+31,253,7,21,Ethan Nascimento,Impact Trans-Nascimento-Davids Racing Prod-Paul Cardoso Toyota,14.837,80.798,2,2,0.141
+31,160,8,12,Kyle Keller,Las Vegas Rentals-Arbus Construction-Battle Born Racing Ford,14.845,80.754,2,2,0.149
+31,235,9,6,Henry Barton,Turn One io Toyota,14.895,80.483,1,2,0.199
+31,254,10,71,Rip Michels,Jans Towing Ford,14.924,80.327,1,2,0.228
+31,161,11,3,Todd Souza,Central Coast Cabinets Toyota,15.167,79.04,2,2,0.471
+31,144,12,7,Takuma Koga,GR Garage Toyota,15.185,78.946,2,2,0.489
+31,247,13,9,Michael Killen,Jan’s Towing Ford,15.225,78.739,2,2,0.529
+31,163,14,11,Robbie Kennealy,American Swim-STS Coverease Chevrolet,15.608,76.807,2,2,0.912
+31,255,15,77,Kyle Whisner,King Taco-Victory Junction-REX MD-Park West,15.896,75.415,2,2,1.2
+31,166,16,5,David Smith,Shockwave Marine Suspension Seating Toyota,16.076,74.571,2,2,1.38
+32,159,1,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,13.761,87.116,2,2,0
+32,157,2,13,Tyler Reif,Central Coast Cabinets Toyota,13.81,86.807,2,2,0.049
+32,231,3,4,"Eric Nascimento, Jr.",Impact Transport-Freddys Tree Svc-Joiner-Nascimento Chevrolet,13.811,86.8,2,2,0.05
+32,235,4,6,Henry Barton,Turn One io Toyota,13.813,86.788,2,2,0.052
+32,156,5,16,Jack Wood,NAPA Auto Care Chevrolet,13.824,86.719,1,2,0.063
+32,246,6,23,Jaron Giannini,GMS Fabrication-Versatile and Stone-SPS Toyota,13.832,86.669,2,2,0.071
+32,154,7,5,Sean Hingorani,Fidelity Capital Toyota,13.896,86.269,2,2,0.135
+32,160,8,3,Kyle Keller,Central Coast Cabinets Toyota,13.9,86.245,2,2,0.139
+32,254,9,71,Rip Michels,Jans Towing Ford,13.961,85.868,2,2,0.2
+32,253,10,21,Ethan Nascimento,Impact Trans-Nascimento-Davids Racing Prod-Paul Cardoso Toyota,13.979,85.757,1,2,0.218
+32,256,11,12,Joey Kennealy,STS-American Swim Academy-Converease Chevrolet,14.023,85.488,1,2,0.262
+32,144,12,7,Takuma Koga,Yamada Toyota,14.056,85.287,2,2,0.295
+32,162,13,19,"Eric Johnson, Jr.",Pacific Office Automation Chevrolet,14.062,85.251,2,2,0.301
+32,247,14,9,Michael Killen,Jan’s Towing Ford,14.197,84.44,2,2,0.436
+32,166,15,5,David Smith,Shockwave Marine Suspension Seating Toyota,14.536,82.471,2,2,0.775
+33,154,1,15,Sean Hingorani,Fidelity Capital Toyta,18.218,98.803,,,0
+33,254,2,71,Rip Michels,Jan’s Towing Ford,18.298,98.371,,,0.08
+33,230,3,5,Kole Raz,Cyclum Renewable Truck Stops Toyota,18.371,97.981,,,0.153
+33,258,4,17,Buddy Shepherd,H&S Bodyworks & Towing Chevrolet,18.371,97.981,,,0.153
+33,157,5,13,Tyler Reif,Central Coast Cabinets Toyota,18.391,97.874,,,0.173
+33,156,6,16,Jack Wood,NAPA Auto Care Chevrolet,18.462,97.498,,,0.244
+33,246,7,23,Jaron Giannini,VersaTile and Stone/SPS/GMS Fabrication Toyota,18.464,97.487,,,0.246
+33,257,8,42,Spencer Davis,MMI-Sunwest Construction Chevrolet,18.514,97.224,,,0.296
+33,159,9,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,18.526,97.161,,,0.308
+33,182,10,20,Brent Crews,JBL Toyota,18.616,96.691,,,0.398
+33,160,11,9,Kyle Keller,Jans Towing-Las Vegas Rentals Ford,18.72,96.154,,,0.502
+33,235,12,6,Henry Barton,Turn One io Toyota,18.743,96.036,,,0.525
+33,161,13,3,Todd Souza,Central Coast Cabinets Toyota,18.745,96.026,,,0.527
+33,231,14,4,"Eric Nascimento, Jr.",Impact Trans/Nascimento-Joiner Mtrpsrts Chevrolet,18.754,95.98,,,0.536
+33,155,15,55,Isabella Robusto,Mobil 1 Toyota,18.773,95.882,,,0.555
+33,162,16,19,"Eric Johnson, Jr.",Pacific Office Automation Chevrolet,18.816,95.663,,,0.598
+33,253,17,21,Ethan Nascimento,Impact Trans/Phillips Bros Fab/Freddy’s Tree Svc Toyota,18.828,95.602,,,0.61
+33,144,18,7,Takuma Koga,Takt Diesien/CKB/Jerry Pitts Racing Toyota,19.115,94.167,,,0.897
+33,256,19,12,Joey Kennealy,STS/American Swim Academy/Converease Chevrolet,19.14,94.044,,,0.922
+33,166,20,5,David Smith,Shockwave Marine Suspension Seating Toyota,20.1,89.552,,,1.882
+34,150,1,18,William Sawalich,Starkey/Sound Gear Toyota,,,,,0
+34,178,2,28,Connor Zilisch,Pristine Auction Chevrolet,,,,,0.252
+34,156,3,16,Jack Wood,NAPA Auto Care Chevrolet,,,,,0.341
+34,157,4,13,Tyler Reif,Central Coast Cabinets Toyota,,,,,0.439
+34,154,5,15,Sean Hingorani,Fidelity Capital Toyota,,,,,0.469
+34,151,6,20,Gio Ruggiero,JBL Toyota,,,,,0.513
+34,182,7,22,Brent Crews,Mobil 1 Toyota,,,,,0.642
+34,259,8,23,Kaden Honeycutt,SPS/GMS Fabrication Chevrolet,,,,,0.65
+34,114,9,6,Lavar Scott,Chevrolet Perfomance/Max Siegel Inc Chevrolet,,,,,0.668
+34,230,10,76,Kole Raz,Cyclum Renewables Truck Stops Ford,,,,,0.676
+34,162,11,19,"Eric Johnson, Jr.",Pacific Office Automation Chevrolet,,,,,0.685
+34,110,12,55,Jake Finch,Phoenix Construction Toyota,,,,,0.698
+34,160,13,9,Kyle Keller,Jans Towing/Jans’ Racing/Argus Const Ford,,,,,0.91
+34,124,14,25,Marco Andretti,Rich Mar Florist Toyota,,,,,1.014
+34,189,15,2,Sebastian Arias,Brady Plus Chevrolet,,,,,1.14
+34,231,16,4,"Eric Nascimento, Jr.",Impact Trans/Nascimento-Joiner Mtrpsrts Chevrolet,,,,,1.181
+34,161,17,3,Todd Souza,Central Coast Cabinets Toyota,,,,,1.51
+34,144,18,7,Takuma Koga,MACNICA Toyota,,,,,1.513
+34,159,19,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,,,,,1.588
+34,166,20,5,David Smith,Shockwave Marine Suspension Seating Toyota,,,,,3.689
+34,260,21,21,Alex Malycke,Jokeland.com Toyota,,,,,4.621
+38,186,1,20,Lawless Alan,AUTOParkit Toyota,30.927,174.605,2,2,0
+38,269,2,46,Thad Moffitt,Nitro Motorsports Toyota,30.99,174.25,1,1,0.063
+38,150,3,18,William Sawalich,Starkey Toyota,30.996,174.216,1,2,0.069
+38,192,4,25,Mason Mitchell,Pro-Seed USA Toyota,31.016,174.104,1,2,0.089
+38,261,5,28,Brenden Queen,bestrepair Chevrolet,31.132,173.455,1,2,0.205
+38,155,6,55,Isabella Robusto,Mobil 1 Toyota,31.247,172.817,2,2,0.32
+38,114,7,6,Lavar Scott,Max Siegel Inc Chevrolet,31.25,172.8,1,2,0.323
+38,109,8,73,Andy Jankowiak,Klas Motorsports Toyota,31.294,172.557,2,2,0.367
+38,274,9,17,Patrick Staropoli,Syfovre/Versa Grips/MMI Toyota,31.359,172.199,1,2,0.432
+38,188,10,68,Will Kimmel,Kimmel Racing Ford,31.512,171.363,1,1,0.585
+38,105,11,97,Jason Kitzmiller,A.L.L. Construction Chevrolet,31.632,170.713,2,2,0.705
+38,282,12,2,Lanie Buice*,Max Siegel Inc Chevrolet,31.667,170.525,2,2,0.74
+38,279,13,67,Ryan Vargas,Maples Motorsports Chevrolet,31.702,170.336,1,2,0.775
+38,280,14,23,Spencer Gallagher,SPS Chevrolet,32.185,167.78,1,2,1.258
+38,283,15,69,Miguel Gomes*,Simthunder Ford,33.557,160.92,2,2,2.63
+38,120,16,99,Michael Maples,Don Ray Petroleum/Maples Motorsports Chevrolet,33.881,159.381,3,3,2.954
+38,141,17,6,Brayton Laster,Peterson Motorsports Chevrolet,34.565,156.227,4,4,3.638
+38,202,18,12,Matt Kemp*,ELHDetailing.com/Fathom Realty,34.643,155.876,2,2,3.716
+38,201,19,31,Tim Goulet*,Rick Havenridge Principal Financial Toyota,35.784,150.905,1,2,4.857
+38,194,20,9,Presley Sorah*,Health Market/Newtz Auto Services Ford,36.503,147.933,1,1,5.576
+38,187,21,0,Kevin Hinckle,Peterson Motorsports Chevrolet,36.863,146.488,2,3,5.936
+38,184,22,11,Mike Basham,Double H Ranch Ford,38.036,141.971,1,1,7.109
+38,107,23,3,Alex Clubb,Clubb Racing Inc./Race Parts Liquidators Ford,39.85,135.508,1,1,8.923
+38,121,24,48,Brad Smith,Gary’s Speed Shop Ford,41.325,130.672,1,2,10.398
+38,196,25,10,Nate Moeller,FastTrackRacing.com Toyota,41.331,130.653,2,2,10.404
+39,188,1,69,Will Kimmel,Kimmel Racing Ford,30.611,176.407,1,2,0
+39,150,2,18,William Sawalich,Starkey Toyota,30.647,176.2,2,2,0.036
+39,261,3,28,Brenden Queen,Folsom Fence Supply Chevrolet,30.737,175.684,1,2,0.126
+39,284,4,82,Austin Green,Overplay Games Chevrolet,30.764,175.53,2,2,0.153
+39,155,5,55,Isabella Robusto,Mobil 1 Toyota,31.129,173.472,1,2,0.518
+39,152,6,97,Grant Enfinger,A.L.L. Construction Chevrolet,31.281,172.629,1,1,0.67
+39,274,7,25,Patrick Staropoli,Syfovre Toyota,31.301,172.518,2,2,0.69
+39,109,8,73,Andy Jankowiak,Klas Motorsports Toyota,31.328,172.37,1,2,0.717
+39,114,9,6,Lavar Scott,Max Siegel Inc Chevrolet,31.356,172.216,1,2,0.745
+39,186,10,20,Lawless Alan,VMS Toyota,31.369,172.144,2,2,0.758
+39,267,11,30,Garrett Mitchell*,Kenetik Ford,31.425,171.838,2,2,0.814
+39,230,12,76,Kole Raz*,Cyclum Nextgen Travel Centers Ford,31.472,171.581,2,2,0.861
+39,282,13,2,Lanie Buice*,Max Siegel Inc Chevrolet,31.534,171.244,2,2,0.923
+39,269,14,46,Thad Moffitt,Leer Toyota,31.792,169.854,1,2,1.181
+39,197,15,40,Andrew Patterson*,WinSupply Chevrolet,31.822,169.694,2,2,1.211
+39,280,16,23,Spencer Gallagher,Allegiant/Sigma Performance Chevrolet,31.872,169.428,2,2,1.261
+39,278,17,10,Tony Cosentino,Freedom Pool Serice Toyota,32.198,167.712,2,2,1.587
+39,104,18,27,Tim Richmond,Latino Immigration & Legal Center Toyota,32.321,167.074,2,2,1.71
+39,135,19,7,Jeff Scofield*,Husqvarna/JXT Transportation Chevrolet,32.755,164.86,1,3,2.144
+39,143,20,57,Bryan Dauzat,OB Builders Inc Chevrolet,33.991,158.866,1,1,3.38
+39,141,21,6,Brayton Laster,PeerlessPump.com/GEARS Racing League Toyota,34.533,156.372,3,3,3.922
+39,202,22,12,Matt Kemp,ELHDetailing.com Ford,34.767,155.32,2,2,4.156
+39,248,23,31,Rick Goodale*,risemotorsports.com Toyota,34.965,154.44,2,2,4.354
+39,122,24,67,Ryan Roulette,VFW Ford,35.064,154.004,4,4,4.453
+39,184,25,11,Mike Basham,Double H Ranch/Fast Track Racing Ford,35.845,150.649,2,2,5.234
+39,107,26,3,Alex Clubb,Race Parts Liquidators Ford,36.66,147.3,2,2,6.049
+39,121,27,48,Brad Smith,Gary’s Speed Shop Ford,37.416,144.323,2,4,6.805
+39,115,28,36,Ryan Huff,Commonwealth Equipment Ford,38.679,139.611,2,2,8.068
+39,175,29,86,Casey Carden*,CRI Ford,39.738,135.89,2,2,9.127
+39,120,30,99,Michael Maples,Don Ray Petroleum/Maples Motorsports Chevrolet,41.049,131.55,1,1,10.438
+39,196,31,9,Nate Moeller,Fast Track Racing Toyota,43.199,125.003,1,1,12.588
+40,261,1,28,Brenden Queen*,BRC Chevrolet,38.841,185.371,2,2,0
+40,155,2,55,Isabella Robusto*,Yahoo Toyota,38.874,185.214,2,2,0.033
+40,285,3,25,Corey Heim,Phoenix Toyota,38.914,185.023,2,2,0.073
+40,269,4,46,Thad Moffitt,Induction Innovations Toyota,39.09,184.19,1,2,0.249
+40,151,5,18,Gio Ruggiero,First Auto Group Toyota,39.114,184.077,2,2,0.273
+40,230,6,76,Kole Raz*,Cyclum Nextgen Travel Centers Ford,39.219,183.584,1,1,0.378
+40,186,7,20,Lawless Alan,AUTOChargeIt Toyota,39.238,183.496,1,1,0.397
+40,109,8,73,Andy Jankowiak,KLAS Motorsports Toyota,39.276,183.318,3,3,0.435
+40,114,9,6,Lavar Scott,Max Siegel Inc Chevrolet,39.326,183.085,2,2,0.485
+40,105,10,97,Jason Kitzmiller,A.L.L. Construction/Carter Cat Chevrolet,39.717,181.283,2,2,0.876
+40,157,11,23,Tyler Reif,Vegas Fastener/Sigma Performance Chevrolet,39.776,181.014,1,2,0.935
+40,286,12,2,Eloy Falcon*,Max Siegel Inc Chevrolet,39.8,180.905,2,2,0.959
+40,288,13,68,Regina Sirvent*,Por Amor A Puebla Ford,39.993,180.032,2,2,1.152
+40,287,14,11,Morgen Baird,Founders Brewing Company/Rave Associates Ford,41.225,174.651,2,2,2.384
+40,278,15,10,Tony Cosentino,Freedom Pool Serice Toyota,41.453,173.691,2,2,2.612
+40,210,16,65,Jeffery MacZink,Syncon Perf Flooring/Parway Svcs/Innovative Fluids Toyota,41.57,173.202,3,3,2.729
+40,120,17,99,Michael Maples,Don Ray Petroleum/Maples Motorsports Chevrolet,41.857,172.014,3,3,3.016
+40,134,18,93,Caleb Costner,Fischer Insurance/Auto-Owners Insurance Chevrolet,42.104,171.005,3,3,3.263
+40,202,19,9,Matt Kemp,ELHDetailing.com Toyota,42.229,170.499,1,1,3.388
+40,122,20,67,Ryan Roulette,VFW Ford,42.734,168.484,2,2,3.893
+40,184,21,12,Mike Basham,Double H Ranch/Fast Track Racing Ford,46.108,156.155,1,1,7.267
+40,141,22,6,Brayton Laster,Peterson Motorsports Ford,46.141,156.043,1,1,7.3
+40,107,23,3,Alex Clubb,Race Parts Liquidators/Drop the Hammer Auctions Ford,47.434,151.79,3,3,8.593
+40,290,24,86,Jeff Maconi*,Maconi Setup Shop/Chasity Tucker Realty/4k mtrspt Ford,48.848,147.396,1,1,10.007
+40,121,25,48,Brad Smith,Gary’s Speed Shop Ford,50.206,143.409,1,1,11.365
+41,273,1,70,Treyten Lapcevich,Nitro Motorsports Toyota,16.835,93.662,1,2,0
+41,114,2,6,Lavar Scott,Max Siegel Inc Chevrolet,16.89,93.357,1,2,0.055
+41,261,3,28,Brenden Queen,BRC Chevrolet,16.929,93.142,1,2,0.094
+41,291,4,18,Max Reaves,Cook Out Toyota,16.944,93.059,1,2,0.109
+41,155,5,55,Isabella Robusto,Yahoo Toyota,17.062,92.416,2,2,0.227
+41,192,6,25,Mason Mitchell,Pro-Seed USA Toyotal,17.07,92.373,1,2,0.235
+41,186,7,20,Lawless Alan,AUTOChargeit Toyota,17.113,92.14,2,2,0.278
+41,105,8,97,Jason Kitzmiller,A.L.L. Construction Chevrolet,17.232,91.504,1,2,0.397
+41,278,9,11,Tony Cosentino,Universal Technical Institute Ford,17.26,91.356,1,2,0.425
+41,202,10,10,Matt Kemp,ELHDetailing.com/CIS Agency Ford,17.377,90.741,1,2,0.542
+41,127,11,3,Willie Mullins,DP Customer Truck & Chrome Toyota,17.625,89.464,2,2,0.79
+41,146,12,85,Becca Monopoli,Orlando Health Ford,18.01,87.551,2,2,1.175
+41,107,13,3,Alex Clubb,Racin’ with Mason Ford,18.341,85.971,2,2,1.506
+41,133,14,67,Mandy Chick,Maples Motorsports Chevrolet,18.459,85.422,1,2,1.624
+41,120,15,99,Michael Maples,Don Ray Petroleum/Maples Motorsports Chevrolet,19.004,82.972,1,2,2.169
+41,141,16,6,Brayton Laster,Peterson Motorsports Ford,19.138,82.391,2,2,2.303
+41,201,17,31,Tim Goulet,RochelleBradley.com Toyota,19.39,81.32,2,2,2.555
+41,198,18,86,Chris Golden,Clubb Racing Toyota,19.41,81.236,2,2,2.575
+41,293,19,5,Michael Clayton,City Garage Ford,19.713,79.988,2,2,2.878
+41,294,20,12,Trevor Ward,Double H Ranch Ford,20.275,77.771,2,2,3.44
+41,148,21,98,Dale Shearer,Shearer Speed Toyota,21.155,74.536,1,2,4.32
+41,292,22,9,Don Thompson,FastTrackRacing.com Toyota,21.352,73.848,2,2,4.517
+41,295,23,1,Jeff Smith,Gary’s Speed Shope Fprd,21.453,73.5,2,2,4.618
+41,121,24,48,Brad Smith,Gary’s Speed Shop Ford,22.715,69.417,2,2,5.88
+42,261,1,28,Brenden Queen,BRC Chevrolet,14.716,91.737,2,2,0
+42,291,2,18,Max Reaves,Cook Out Toyota,14.74,91.588,2,2,0.024
+42,186,3,20,Lawless Alan,AUTOParkit Toyota,14.779,91.346,2,2,0.063
+42,296,4,25,Ty Fredrickson,Venturini Motorsports Toyota,14.786,91.303,1,2,0.07
+42,155,5,55,Isabella Robusto,YAHOO! Toyota,14.802,91.204,1,2,0.086
+42,105,6,97,Jason Kitzmiller,A.L.L Construction/Carter Cat Chevrolet,14.824,91.069,2,2,0.108
+42,114,7,6,Lavar Scott,Max Siegel Inc. Chevrolet,14.835,91.001,1,2,0.119
+42,211,8,70,Taylor Reimer,BuzzBallz Toyota,14.921,90.477,2,2,0.205
+42,127,9,3,Willie Mullins,CW Metals/Crow Wing Recycling Toyota,15.111,89.339,2,2,0.395
+42,146,10,85,Becca Monopoli,Orlando Health Ford,15.254,88.501,2,2,0.538
+42,125,11,11,Bryce Haugeberg,NDSU/Brenco Ford,15.4,87.662,2,2,0.684
+42,298,12,10,Tony Musolino,AGNT Media/Eastern Atlantic States Carpenters Toyota,15.534,86.906,1,2,0.818
+42,107,13,3,Alex Clubb,Race Parts Liquidators/Drop the Hammer Auctions Ford,15.589,86.6,2,2,0.873
+42,141,14,6,Brayton Laster,Peterson Motorsports Ford,15.606,86.505,2,2,0.89
+42,202,15,9,Matt Kemp,ELHDetailing.com Ford,15.764,85.638,2,2,1.048
+42,294,16,12,Trevor Ward,FastTrackRacing.com Toyota,15.879,85.018,2,2,1.163
+42,120,17,99,Michael Maples,Don Ray Petroleaum LLC/ Maples Motorsports Chevrolet,15.987,84.444,1,2,1.271
+42,299,18,7,Kadence Davenport,Davenport Concrete Chevrolet,15.996,84.396,2,2,1.28
+42,300,19,67,Casey Budd,Maples Motorsports Chevrolet,16.523,81.704,1,2,1.807
+42,293,20,5,Michael Clayton,City Garage Ford,16.552,81.561,1,2,1.836
+42,148,21,98,Dale Shearer,Shearer Speed Toyota,16.639,81.135,1,2,1.923
+42,208,22,86,Brian Clubb,CRI Ford,16.675,80.96,2,2,1.959
+42,297,23,31,Quinn Davis,BullSnot! Toyota,17.138,78.772,1,1,2.422
+42,121,24,48,Brad Smith,Gary’s Speed Shop Ford,18.22,74.094,1,1,3.504
+43,101,1,70,Thomas Annunziata,Nitro Motorsports Toyota,54.193,98.182,2,3,0
+43,182,2,18,Brent Crews,Mobil 1 Toyota,54.32,97.953,1,4,0.127
+43,186,3,20,Lawless Alan,AUTOParkIt Toyota,54.423,97.767,2,2,0.23
+43,301,4,25,Alon Day,JSSI Toyota,54.555,97.531,1,2,0.362
+43,261,5,28,Brenden Queen*,BRC Chevrolet,55.063,96.631,1,3,0.87
+43,217,6,29,Ryan Gemmell*,TC3 Turf/Multibuilding Inc Toyota,55.106,96.556,4,6,0.913
+43,132,7,4,Dale Quarterley,Van Dyk Recycling Solutions Chevrolet,55.297,96.222,3,4,1.104
+43,155,8,55,Isabella Robusto*,Yahoo Toyota,55.372,96.092,2,2,1.179
+43,114,9,6,Lavar Scott,Max Siegel Inc Chevrolet,55.65,95.612,2,3,1.457
+43,304,10,73,Glen Reen*,New Wave Home Chevrolet,55.665,95.586,2,5,1.472
+43,302,11,3,Jeff Anton,Squid Decals/Deer Park Recycling Chevrolet,55.955,95.091,3,4,1.762
+43,105,12,97,Jason Kitzmiller,A.L.L. Construction/Carter Cat Chevrolet,56.396,94.347,4,5,2.203
+43,139,13,10,Ed Pompa,HYTORC of New York/Double H Ranch Toyota,61.6,86.354,3,3,7.423
+43,303,14,34,Corey Aiken*,Connors Brothers Industries LLC. Ford,62.1,85.738,3,5,7.866
+43,184,15,11,Mike Basham,Universal Technical Institute Toyota,62.3,85.434,1,1,8.087
+43,141,16,6,Brayton Laster*,Peterson Motorsports Chevrolet,63.2,84.185,1,2,9.011
+43,120,17,99,Michael Maples,Don Ray Petroleum/Maples Motorsports Chevrolet,63.4,83.939,3,3,9.196
+43,294,18,12,Trevor Ward*,FastTrackRacing.com Toyota,65.4,81.308,1,1,11.247
+43,201,19,31,Tim Goulet*,Risemotorsports.com Toyota,66.4,80.133,9,11,12.207
+43,107,20,3,Alex Clubb,Race Parts Liquidators/Drop the Hammer Auctions Ford,66.7,79.789,2,2,12.493
+43,214,21,67,Austin Vaughn*,Maples Motorsports Chevrolet,69.1,77.014,3,3,14.896
+43,290,22,86,Jeff Maconi*,Race Part Liquidators/Drop the Hammer Auctions Ford,69.5,76.51,1,3,15.351
+43,196,23,9,Nate Moeller,FastTrackRacing.com Ford,72.3,73.573,1,1,18.127
+43,121,24,48,Brad Smith,Gary’s Speed Shop Ford,75.2,70.722,1,2,21.042
+44,261,1,28,Brenden Queen*,BRC,22.77,158.103,1,2,0
+44,182,2,18,Brent Crews*,JBL,22.805,157.86,1,2,0.035
+44,186,3,20,Lawless Alan,AUTOParkIt,22.826,157.715,1,2,0.056
+44,110,4,25,Jake Finch,Phoenix,23.019,156.393,1,2,0.249
+44,114,5,6,Lavar Scott,Max Siegel Inc,23.194,155.213,1,2,0.424
+44,305,6,70,Camden Murphy*,Dreamer,23.202,155.159,2,2,0.432
+44,155,7,55,Isabella Robusto*,Mobil 1,23.316,154.4,2,2,0.546
+44,306,8,79,Isaac Kitzmiller*,A.L.L Construction/Carter Cat,23.531,152.99,2,4,0.761
+44,205,9,56,Timmy Hill,Hill Motorsports,23.635,152.316,2,2,0.865
+44,197,10,40,Andrew Patterson*,Win Supply/SCS Gear Box,23.796,151.286,2,2,1.026
+44,105,11,97,Jason Kitzmiller,A.L.L. Construction/Carter Cat,23.938,150.389,3,3,1.168
+44,122,12,67,Ryan Roulette,VFW,24.492,146.987,3,3,1.722
+44,180,13,11,Zachary Tinkle,Racing for Rescues/Fast Track Racing,24.554,146.616,4,4,1.784
+44,229,14,9,Blaine Donahue*,Vatland Automotive/Universal Tech Institute,25.022,143.873,2,2,2.252
+44,278,15,10,Tony Cosentino,Double H Ranch,25.183,142.954,2,2,2.413
+44,120,16,99,Michael Maples,Don Ray Petroleum/Maples Motorsports,25.345,142.04,3,3,2.575
+44,214,17,34,Austin Vaughn*,Safford Trading Company,25.484,141.265,3,5,2.714
+44,202,18,1,Matt Kemp*,ECHDetailing.com,25.747,139.822,1,1,2.977
+44,144,19,12,Takuma Koga,Macnica Yit Ikedo/CKB/Fast Track Racing,26.115,137.852,2,3,3.345
+44,141,20,6,Brayton Laster*,PeerlessPump.com,26.121,137.82,3,3,3.351
+44,107,21,3,Alex Clubb,Race Parts Liquidators,28.506,126.289,3,3,5.736
+44,121,22,48,Brad Smith,Gary’s Speed Shop,28.509,126.276,1,4,5.739
+44,303,23,86,Corey Aiken*,Clubb Racing,29.237,123.132,2,3,6.467
+46,182,1,18,Brent Crews*,JBL Toyota,22.901,137.549,1,2,0
+46,261,2,28,Brenden Queen*,Pinnacle Racing Group Chevrolet,23.016,136.861,2,3,0.115
+46,186,3,20,Lawless Alan,AUTOParkIt Toyota,23.305,135.164,1,3,0.404
+46,114,4,6,Lavar Scott,Max Siegel Inc Chevrolet,23.51,133.986,1,2,0.609
+46,307,5,70,Sam Corry*,Nitro Motorsports Toyota,23.584,133.565,1,2,0.683
+46,155,6,55,Isabella Robusto*,Mobil 1 Toyota,23.608,133.429,1,2,0.707
+46,137,7,15,Kris Wright,Warranty Solutions Toyota,23.612,133.407,2,3,0.711
+46,192,8,25,Mason Mitchell,Pro-Seed Toyota,23.615,133.39,3,3,0.714
+46,286,9,2,Eloy Falcon*,Max Siegel Inc Chevrolet,23.884,131.887,1,2,0.983
+46,157,10,23,Tyler Reif,Vegas Fastener/Sigma Performance Services Chevrolet,24.062,130.912,1,3,1.161
+46,306,11,79,Isaac Kitzmiller*,A.L.L. Construction/Carter Cat Chevrolet,24.094,130.738,3,4,1.193
+46,105,12,97,Jason Kitzmiller,A.L.L. Construction/Carter Cat Chevrolet,24.215,130.085,2,5,1.314
+46,180,13,11,Zachary Tinkle,Racing For Rescues/Fast Track Racing Toyota,24.387,129.167,3,3,1.486
+46,104,14,27,Tim Richmond,Immigration Law Toyota,24.478,128.687,3,3,1.577
+46,278,15,10,Tony Cosentino,Diebold Pool Service Ford,24.668,127.696,3,3,1.767
+46,288,16,68,Regina Sirvent*,Por Amor a Puebla/Cano/RX Ford,25.092,125.538,2,2,2.191
+46,144,17,12,Takuma Koga,Macnica Yit Ikedo/CKB/Fast Track Racing Toyota,25.326,124.378,3,3,2.425
+46,120,18,99,Michael Maples,DonRay Petroleum/Maples Motorsports Chevrolet,25.425,123.894,3,3,2.524
+46,299,19,7,Kadence Davenport*,Davenport Concrete Chevrolet,25.455,123.748,1,6,2.554
+46,214,20,67,Austin Vaughn*,Maples Motorsports Chevrolet,25.622,122.941,2,3,2.721
+46,297,21,31,Quinn Davis*,BullSnot! Toyota,25.667,122.726,4,4,2.766
+46,141,22,6,Brayton Laster*,@Cyber_Fox_on X Ford,26.629,118.292,2,2,3.728
+46,107,23,3,Alex Clubb,Race Parts Liquidators/Drop The Hammer Auctions Ford,26.674,118.093,3,3,3.773
+46,121,24,48,Brad Smith,Gary’s Speed Shop Ford,27.454,114.737,1,2,4.553
+46,184,25,9,Mike Basham,In Memory Of Ron Hutcherson Toyota,27.583,114.201,1,1,4.682
+46,294,26,1,Trevor Ward*,Universal Technical Institute Toyota,27.659,113.887,1,1,4.758
+46,310,27,86,Colby Evans*,Race Parts Liquidators/Drop The Hammer Auctions Ford,29.794,105.726,3,3,6.893
+47,182,1,18,Brent Crews*,JBL Toyota,73.1,120.648,2,2,0
+47,301,2,25,Alon Day*,JSSI Toyota,73.6,119.778,1,2,0.531
+47,186,3,20,Lawless Alan,AUTOParkIt Toyota,74,119.217,2,2,0.878
+47,311,4,77,Tristan McKee*,Gainbridge Chevrolet,74.1,119.08,3,3,0.963
+47,157,5,23,Tyler Reif,Vegas Fastener/Sigma Performance Services Chevrolet,74.3,118.716,1,3,1.19
+47,155,6,55,Isabella Robusto*,Mobil 1 Toyota,74.4,118.617,2,2,1.252
+47,261,7,28,Brenden Queen*,Pinnacle Racing Group Chevrolet,74.6,118.294,2,3,1.455
+47,114,8,6,Lavar Scott,Max Siegel Inc Chevrolet,74.8,117.866,1,2,1.726
+47,137,9,15,Kris Wright,VMS Toyota,74.8,117.84,1,2,1.742
+47,269,10,70,Thad Moffitt,LEER Toyota,75.2,117.286,1,1,2.096
+47,109,11,73,Andy Jankowiak,KLAS Motorsports Chevrolet,75.3,117.145,1,2,2.186
+47,217,12,29,Ryan Gemmell*,Multibuilding Inc/TC3 Turf Toyota,75.4,117.041,3,4,2.253
+47,132,13,4,Dale Quarterley,Van Dyk Recycling Solutions Chevrolet,75.5,116.891,2,3,2.35
+47,304,14,71,Glen Reen*,New Wave Home Chevrolet,75.9,116.242,1,1,2.771
+47,313,15,11,Matt Wilson*,Jasons Pro Detail/K1Speed Rogers Toyota,78.8,111.888,1,2,5.724
+47,312,16,12,Trent Curtis*,Midas of Geneva Chevrolet,79,111.64,2,2,5.899
+47,220,17,72,Chris Werth*,Kim’s Quliting Corner Chevrolet,80.1,110.121,2,2,6.989
+47,139,18,10,Ed Pompa,HY-TORC of NY/Double H Ranch Toyota,82,107.515,2,2,8.93
+47,175,19,86,Casey Carden,Clubb Racing Ford,83.8,105.239,3,3,10.704
+47,294,20,9,Trevor Ward*,FastTrackRacing.com Toyota,87.7,100.607,1,1,14.563
+47,120,21,99,Michael Maples,DonRay Petroleum/Maples Motorsports Chevrolet,88.2,100.031,2,3,15.068
+47,141,22,6,Brayton Laster*,OC-Cages.com Chevrolet,89.1,98.935,2,2,16.044
+47,314,23,67,Shane Backes*,International Brotherhood of Boilermakers Chevrolet,89.2,98.865,1,1,16.108
+47,107,24,3,Alex Clubb,Race Parts Liquidators Ford,90.4,97.581,2,2,17.281
+47,121,25,48,Brad Smith,Gary’s Speed Shop Ford,101.3,87.111,1,1,28.145
+49,291,1,18,Max Reaves*,Cook Out Toyota,18.453,97.545,2,2,0
+49,261,2,28,Brenden Queen*,BRC Chevrolet,18.624,96.649,2,2,0.171
+49,155,3,55,Isabella Robusto*,Mobil 1 Toyota,18.715,96.18,2,2,0.262
+49,311,4,82,Tristan McKee*,Gainbridge Chevrolet,18.72,96.154,2,2,0.267
+49,114,5,6,Lavar Scott,Max Siegel Inc Chevrolet,18.725,96.128,2,2,0.272
+49,186,6,20,Lawless Alan,AUTOParkIt Toyota,18.751,95.995,2,2,0.298
+49,192,7,25,Mason Mitchell,Detour Sunglasses Toyota,18.84,95.541,2,2,0.387
+49,316,8,70,Julian DaCosta*,Nitro Motorsports Toyta,18.847,95.506,2,2,0.394
+49,105,9,97,Jason Kitzmiller,A.L.L. Construction/Carter Cat Chevrolet,18.979,94.842,2,2,0.526
+49,278,10,10,Tony Cosentino,Diebold Pool Service Ford,19.118,94.152,2,2,0.665
+49,317,11,17,Kaylee Bryson*,LSI/MMI Chevrolet,19.17,93.897,2,2,0.717
+49,127,12,3,Willie Mullins,CW Companies Ford,19.459,92.502,1,2,1.006
+49,202,13,12,Matt Kemp*,Double H Ranch Ford,20,90,2,2,1.547
+49,120,14,99,Michael Maples,DonRay Petroleum/Maples Motorsports Chevrolet,20.059,89.735,2,2,1.606
+49,297,15,31,Quinn Davis*,RiseMotorsports.com Toyota,20.275,88.779,2,2,1.822
+49,107,16,3,Alex Clubb,Race Parts Liquidators Ford,20.339,88.5,2,2,1.886
+49,294,17,9,Trevor Ward*,FastTrackRacing.com Toyota,20.471,87.929,2,2,2.018
+49,141,18,6,Brayton Laster*,Big Fish Septic Plumbing & Excavating Chevrolet,20.829,86.418,2,2,2.376
+49,318,19,11,Dustin Hillenburg*,Fast Track Racing Ford,20.839,86.377,2,2,2.386
+49,121,20,48,Brad Smith,Gary’s Speed Shop Ford,21.014,85.657,1,2,2.561
+49,314,21,67,Shane Backes*,International Brotherhood of Boilermakers Chevrolet,22.107,81.422,1,1,3.654
+49,290,22,86,Jeff Maconi*,Maconi Setup Shop Ford,22.547,79.833,2,2,4.094
+50,186,1,20,Lawless Alan,AUTODockIt Toyota,34.072,105.659,1,1,0
+50,182,2,70,Brent Crews*,Nitro Kart Toyota,34.176,105.337,1,1,0.104
+50,291,3,18,Max Reaves*,Cook Out Toyota,34.267,105.057,1,1,0.195
+50,114,4,6,Lavar Scott,Max Siegel Inc Chevrolet,34.432,104.554,1,1,0.36
+50,261,5,28,Brenden Queen*,BRC Chevrolet,34.479,104.411,1,1,0.407
+50,212,6,16,Kelly Kovski,Brandt/Schluckebeier Farms/Allgaier Performance Chevrolet,34.626,103.968,1,1,0.554
+50,320,7,25,Jade Avedisian*,Yahoo Toyota,34.77,103.538,1,1,0.698
+50,155,8,55,Isabella Robusto*,Mobil 1 Toyota,35.006,102.84,1,1,0.934
+50,279,9,67,Ryan Vargas,Maples Motorsports Chevrolet,35.073,102.643,1,1,1.001
+50,278,10,12,Tony Cosentino,FastTrackRacing.com Toyota,35.497,101.417,1,1,1.425
+50,319,11,31,Chase Howard*,2 Fellas Moving Company Toyota,35.987,100.036,1,1,1.915
+50,213,12,11,Tim Monroe,Mark Rumbold Farms Chevrolet,36.236,99.349,1,1,2.164
+50,105,13,97,Jason Kitzmiller,A.L.L. Construction/Carter Cat Chevrolet,36.336,99.075,1,1,2.264
+50,120,14,99,Michael Maples,DonRay Petroleum/Maples Motorsports Chevrolet,36.547,98.503,1,1,2.475
+50,121,15,48,Brad Smith,Gary’s Speed Shop Ford,37.165,96.865,1,1,3.093
+50,141,16,6,Brayton Laster*,Fixed Just Right BBQ/Rubber Down Rewind Ford,37.187,96.808,1,1,3.115
+50,294,17,9,Trevor Ward*,Fast Track Racing Toyota,37.352,96.38,1,1,3.28
+50,107,18,3,Alex Clubb,Wallis Farms Ford,37.712,95.46,1,1,3.64
+50,139,19,10,Ed Pompa,HY-TORC of NY/Double H Ranch Ford,38.515,93.47,1,1,4.443
+50,321,20,86,Josh White,Marine Corps League/Healing the Hero Ford,42.861,83.992,1,1,8.789
+51,182,1,18,Brent Crews*,Mobil 1 Toyota,15.076,127.275,2,3,0
+51,261,2,28,Brenden Queen*,Folsom Fence/BRC Chevrolet,15.169,126.495,2,3,0.093
+51,282,3,2,Lanie Buice*,Max Siegel Inc Chevrolet,15.242,125.889,2,2,0.166
+51,157,4,23,Tyler Reif,Vegas Fastener/Sigma Performance Services Chevrolet,15.253,125.798,4,4,0.177
+51,114,5,6,Lavar Scott,Max Siegel Inc Chevrolet,15.332,125.15,2,2,0.256
+51,311,6,82,Tristan McKee*,Gainbridge/Chevrolet Chevrolet,15.339,125.093,2,4,0.263
+51,110,7,15,Jake Finch,Phoenix Toyota,15.341,125.077,3,3,0.265
+51,130,8,20,"Leland Honeyman, Jr.",DPR Construction Toyota,15.352,124.987,2,3,0.276
+51,306,9,79,Isaac Kitzmiller*,A.L.L. Construction/Carter Cat Chevrolet,15.375,124.8,3,3,0.299
+51,274,10,25,Patrick Staropoli*,SYFOVRE Toyota,15.406,124.549,3,3,0.33
+51,101,11,70,Thomas Annunziata,Bayshore Mortgage Toyota,15.42,124.436,3,4,0.344
+51,105,12,97,Jason Kitzmiller,A.L.L. Construction/Carter Cat Chevrolet,15.573,123.213,1,3,0.497
+51,205,13,56,Timmy Hill,Hill Motorsports Toyota,15.619,122.85,4,4,0.543
+51,322,14,51,Carson Ware,Rick Ware Racing Chevrolet,15.633,122.74,2,3,0.557
+51,222,15,9,Logan Misuraca*,Clean Harbors Chevrolet,15.802,121.428,2,3,0.726
+51,109,16,73,Andy Jankowiak,KLAS Motorsports Toyota,15.905,120.641,4,5,0.829
+51,104,17,27,Tim Richmond,Immigration Law Center Toyota,15.914,120.573,3,3,0.838
+51,197,18,40,Andrew Patterson*,Freedom Whiskey Company/WinSupply Chevrolet,15.997,119.947,1,2,0.921
+51,204,19,95,Jackson McLerran*,JSJ Construction/ARYLCO LLC/Sapphire Social Toyota,16.075,119.365,3,4,0.999
+51,267,20,30,Garrett Mitchell*,Kenetik Ford,16.083,119.306,4,5,1.007
+51,278,21,10,Tony Cosentino,Universal Technical Institute Ford,16.139,118.892,2,2,1.063
+51,120,22,99,Michael Maples,International Brotherhood of Boilermakers/MMS Chevrolet,16.391,117.064,3,4,1.315
+51,180,23,11,Zachary Tinkle,Racing For Rescues/Fast Track Racing Toyota,16.395,117.036,4,5,1.319
+51,323,24,31,Bobby Dale Earnhardt*,Main Street Cycle Toyota,16.597,115.611,2,3,1.521
+51,144,25,12,Takuma Koga,Macnica Yit Ikedo/CKB/Fast Track Racing Toyota,16.729,114.699,2,2,1.653
+51,214,26,67,Austin Vaughn*,Main Street Cycle Ford,17.501,109.639,4,4,2.425
+51,121,27,48,Brad Smith,Gary’s Speed Shop Ford,17.649,108.72,2,2,2.573
+51,107,28,86,Alex Clubb,Race Parts Liquidators/Drop The Hammer/Wallis Farms Ford,17.671,108.585,3,3,2.595
+51,176,29,0,Con Nicolopoulos,Ocean Pipe Works Toyota,17.776,107.943,5,9,2.7
+51,303,30,34,Corey Aiken*,Vaughn Wilcox & Vaughn Toyota,18.089,106.076,5,5,3.013
+51,141,31,6,Brayton Laster*,Tranquility 72 Hour Film Festival Toyota,18.517,103.624,2,2,3.441
+51,184,32,1,Mike Basham,Fast Track Racing.com Toyota,18.588,103.228,1,1,3.512
+51,321,33,3,Josh White,Hives For Heros Ford,20.737,92.53,1,1,5.661
+52,291,1,18,Max Reaves*,Cook Out Toyota,17.301,115.485,1,2,0
+52,114,2,6,Lavar Scott,Max Siegel Inc Chevrolet,17.357,115.112,1,2,0.056
+52,261,3,28,Brenden Queen*,BRC Chevrolet,17.427,114.65,2,2,0.126
+52,197,4,70,Andrew Patterson*,SCS Gearbox/WinSupply Toyota,17.43,114.63,1,2,0.129
+52,130,5,20,"Leland Honeyman, Jr.",DPR Construction Toyota,17.503,114.152,2,2,0.202
+52,155,6,55,Isabella Robusto*,Mobil 1 Toyota,17.564,113.755,2,2,0.263
+52,324,7,95,Conner Popplewell*,Red Ball Recycling/Green Tree Real Estate Toyota,17.573,113.697,1,2,0.272
+52,188,8,69,Will Kimmel,Abtech Electrical/Weddington Custom Homes Ford,17.576,113.678,1,2,0.275
+52,192,9,25,Mason Mitchell,Pro-Seed Toyota,17.678,113.022,2,2,0.377
+52,105,10,97,Jason Kitzmiller,A.L.L. Construction/Carter Cat Chevrolet,17.699,112.888,2,2,0.398
+52,278,11,11,Tony Cosentino,Harkey Heating & Air Conditioning Ford,18.215,109.69,2,2,0.914
+52,279,12,67,Ryan Vargas,Maples Motorsports Chevrolet,18.34,108.942,2,2,1.039
+52,139,13,10,Ed Pompa,HYTORC Of NY/Double H Ranch Ford,18.974,105.302,2,2,1.673
+52,202,14,9,Matt Kemp*,FastTrackRacing.com Toyota,19.014,105.08,2,2,1.713
+52,184,15,12,Mike Basham,S&R Towing/Diesel Boys LLC/MVP Plumbing Toyota,19.157,104.296,2,2,1.856
+52,319,16,31,Chase Howard*,ShopAngryDuck.com/TLC Logistics Toyota,19.278,103.641,2,2,1.977
+52,141,17,6,Brayton Laster*,PeerlessPump.com Toyota,19.783,100.996,2,2,2.482
+52,107,18,86,Alex Clubb,Race Parts Liquidators/Drop The Hammer Auctions Ford,19.805,100.884,2,2,2.504
+52,120,19,99,Michael Maples,DonRay Petroleum/Maples Motorsports Chevrolet,20.223,98.798,2,2,2.922
+53,261,1,28,Brenden Queen*,BRC/Folsom Fence Chevrolet,31.059,173.863,1,1,0
+53,151,2,18,Gio Ruggiero,First Auto Group Toyota,31.186,173.155,1,2,0.127
+53,130,3,20,"Leland Honeyman, Jr.",Venturini Motorsports Toyota,31.232,172.9,1,2,0.173
+53,206,4,77,Corey Day,Hendrickcars.com Chevrolet,31.412,171.909,1,2,0.353
+53,269,5,46,Thad Moffitt,Safety Kleen Toyota,31.425,171.838,2,2,0.366
+53,155,6,55,Isabella Robusto*,Mobil 1 Toyota,31.483,171.521,2,2,0.424
+53,192,7,25,Mason Mitchell,Pro-Seed Toyota,31.578,171.005,1,2,0.519
+53,114,8,6,Lavar Scott,Max Siegel Inc. Chevrolet,31.584,170.973,1,2,0.525
+53,137,9,15,Kris Wright,Warranty Solutions Toyota,31.624,170.756,1,1,0.565
+53,105,10,97,Jason Kitzmiller,A.L.L. Construction/Carter Cat Chevrolet,31.736,170.154,1,2,0.677
+53,109,11,73,Andy Jankowiak,KLAS Motorsports Toyota,31.773,169.956,1,2,0.714
+53,197,12,40,Andrew Patterson*,WinSupply/SCS Gear Box Chevrolet,31.823,169.689,1,2,0.764
+53,211,13,70,Taylor Reimer*,BUZZBALLZ Toyota,31.895,169.306,2,2,0.836
+53,274,14,17,Patrick Staropoli*,Syfovre Toyota,31.924,169.152,1,2,0.865
+53,157,15,23,Tyler Reif,Vegas Fastener/Sigma Performance Services Chevrolet,32.459,166.364,1,2,1.4
+53,286,16,2,Eloy Falcon*,Max Siegel Inc Chevrolet,32.528,166.011,1,1,1.469
+53,323,17,31,Bobby Dale Earnhardt*,Copeland Insurance Agency Toyota,33.354,161.9,2,3,2.295
+53,144,18,12,Takuma Koga,Rible/Mac Systems/Ikedo Toyota,33.684,160.314,1,2,2.625
+53,120,19,99,Michael Maples,The International Brotherhood of Boilermakers Chevrolet,34.283,157.512,3,3,3.224
+53,278,20,11,Tony Cosentino,FastTrackRacing.com Ford,34.503,156.508,3,3,3.444
+53,290,21,3,Jeff Maconi*,Maconi Setup Shop/Castity Tucker Realty Ford,34.851,154.945,2,2,3.792
+53,202,22,9,Matt Kemp*,Edgewater Automation Toyota,34.999,154.29,2,2,3.94
+53,187,23,0,Kevin Hinckle,KH Automotive Chevrolet,36.051,149.788,2,2,4.992
+53,121,24,48,Brad Smith,Gary’s Speed Shop Ford,36.424,148.254,3,4,5.365
+53,140,25,7,Eric Caudell,Coble Ent./Broken Arrow Powder Coating/Evans Auto Toyota,36.65,147.34,5,5,5.591
+53,141,26,6,Brayton Laster*,K.C. Arborist Tree Care Ford,36.837,146.592,2,3,5.778
+53,107,27,86,Alex Clubb,Race Parts Liquidators Ford,37.688,143.282,3,3,6.629
+53,139,28,10,Ed Pompa,HYTORC of NY/Double H Ranch Ford,39.546,136.55,2,2,8.487
+54,291,1,18,Max Reaves*,Cook Out Toyota,16.174,111.29,1,2,0
+54,261,2,28,Brenden Queen*,BRC Chevrolet,16.235,110.872,1,2,0.061
+54,311,3,82,Tristan McKee*,Gainbridge/Chevrolet Performance Chevrolet,16.254,110.742,2,2,0.08
+54,114,4,6,Lavar Scott,Max Siegel Inc Chevrolet,16.37,109.957,1,2,0.196
+54,316,5,20,Julian DaCosta*,Venturini Motorsports Toyota,16.391,109.816,1,2,0.217
+54,155,6,55,Isabella Robusto*,Mobil 1 Toyota,16.457,109.376,2,2,0.283
+54,211,7,25,Taylor Reimer*,BuzzBallz Toyota,16.543,108.807,1,2,0.369
+54,127,8,3,Willie Mullins,CW Metals/Bugsy’s Fleet Repair Ford,16.549,108.768,1,2,0.375
+54,105,9,97,Jason Kitzmiller,A.L.L. Construction/Carter Cat Chevrolet,16.61,108.368,1,2,0.436
+54,157,10,23,Tyler Reif,Vegas Fastener/Sigma Performance Services Chevrolet,16.718,107.668,2,2,0.544
+54,144,11,12,Takuma Koga,MAC Systems/Fast Track Racing/Toyota Racing Toyota,16.857,106.781,2,2,0.683
+54,204,12,95,Jackson McLerran*,JSJ Construction/ARYLCO LLC Toyota,16.863,106.743,2,2,0.689
+54,325,13,70,Justin Rothberg*,Nitro Motorsports Toyota,16.931,106.314,2,2,0.757
+54,146,14,85,Becca Monopoli*,Orlando Health Ford,17.308,103.998,2,2,1.134
+54,278,15,11,Tony Cosentino,FastTrackRacing.com Ford,17.438,103.223,2,2,1.264
+54,202,16,9,Matt Kemp*,FastTrackRacing.com Toyota,17.592,102.319,2,2,1.418
+54,120,17,99,Michael Maples,DonRay Petroleum/Maples Motorsports Chevrolet,17.623,102.139,2,2,1.449
+54,184,18,10,Mike Basham,HYTORC of NY/Double H Ranch Ford,17.774,101.272,2,2,1.6
+54,107,19,86,Alex Clubb,Race Parts Liquidators/Area 51 Podcast Ford,17.949,100.284,2,2,1.775
+54,196,20,0,Nate Moeller,Peterson Motorsports Toyota,17.967,100.184,1,2,1.793
+54,314,21,67,Shane Backes*,The International Brotherhood of Boilermakers Chevrolet,18.066,99.635,2,2,1.892
+54,141,22,6,Brayton Laster*,PeerlessPump.com Toyota,18.186,98.977,2,2,2.012
+54,290,23,3,Jeff Maconi*,Maconi Setup Shop/Chastity Tucker Realtor Ford,18.367,98.002,2,2,2.193
+54,121,24,48,Brad Smith,Gary’s Speed Shop Ford,18.523,97.176,2,2,2.349
+54,194,25,31,Presley Sorah*,Racing Toward A Dream Toyota,19.11,94.192,1,2,2.936
+55,291,1,18,Max Reaves,Cook Out Toyota,17.266,104.251,1,2,0
+55,153,2,28,Connor Mosack,Pinnacle Motorsports Chevrolet,17.415,103.359,2,2,0.149
+55,230,3,76,Kole Raz,Cyclum Nextgen Travel Centers Ford,17.446,103.176,2,2,0.18
+55,306,4,79,Isaac Kitzmiller,A.L.L. Condtruction/Carter Cat Chevrolet,17.525,102.71,2,2,0.259
+55,157,5,23,Tyler Reif,Sigma Perfomance Service Chevrolet,17.53,102.681,2,2,0.264
+55,327,6,4,Carson Brown,PayCafe/EBB Logistics/GBS Brand Connect Chevrolet,17.546,102.587,2,2,0.28
+55,225,7,95,Hunter Wright,Sunset Park RV/Cedar City RV Toyota,17.858,100.795,2,2,0.592
+55,326,8,93,London McKenzie,McKenzie Real Estate Ford,17.923,100.43,2,2,0.657
+55,205,9,56,Timmy Hill,Hill Motorsports Toyota,18.02,99.889,2,2,0.754
+55,144,10,12,Takuma Koga,Macnica Yit Ikedo/CKB/Fast Track Racing Toyota,18.202,98.89,2,2,0.936
+55,207,11,1,E.J. Tamayo,Tamayo Sports Florida/Amici Engineering Ford,18.332,98.189,2,2,1.066
+55,146,12,85,Becca Monopoli,Orlando Health Ford,18.546,97.056,2,2,1.28
+55,181,13,39,D.L. Wilson,Performance Cleaners Toyota,18.561,96.978,2,2,1.295
+55,149,14,9,Cody Dennison,Flux/Timcast Toyota,18.631,96.613,2,2,1.365
+55,180,15,11,Zachary Tinkle,Racing for Rescues/Fast Track Racing Toyota,18.668,96.422,2,2,1.402
+55,214,16,34,Austin Vaughn,Safford Trading Company Ford,18.954,94.967,2,2,1.688
+55,184,17,10,Mike Basham,Double H Ranch/Fast Track Racing Ford,19.191,93.794,2,2,1.925
+55,121,18,48,Brad Smith,Gary’s Speed Shop Ford,19.832,90.762,2,2,2.566
+55,196,19,6,Nate Moeller,Peterson Motorsports Toyota,19.994,90.027,2,2,2.728
+55,183,20,31,Rita Goulet,NationalPolice.org Toyota,20.133,89.405,2,2,2.867
+55,303,21,0,Corey Aiken,Vaughn Wilcox & Vaughn Toyota,22.877,78.682,2,2,5.611
+56,182,1,81,Brent Crews,Mobil 1 Toyota,22.256,152.049,2,,0
+56,150,2,18,William Sawalich,Starkey Toyota,22.392,151.125,2,,0.136
+56,157,3,23,Tyler Reif,SPS/Vegas Fastener Manufacturing Chevrolet,22.611,149.662,2,,0.355
+56,284,4,28,Austin Green,Overplay Games Chevrolet,22.636,149.496,3,,0.38
+56,282,5,2,Lanie Buice,Max Siegel Inc. Chevrolet,22.722,148.931,2,,0.466
+56,110,6,20,Jake Finch,Phoenix Toyota,22.753,148.728,2,,0.497
+56,274,7,25,Patrick Staropoli,Syfovre Toyota,22.789,148.493,3,,0.533
+56,114,8,6,Lavar Scott,Max Siegel Inc. Chevrolet,22.791,148.48,2,,0.535
+56,230,9,76,Kole Raz,Cyclum Nextgen Travel Centers Ford,22.874,147.941,2,,0.618
+56,286,10,10,Eloy Falcon,Max Siegel Inc. Chevrolet,22.932,147.567,2,,0.676
+56,306,11,79,Isaac Kitzmiller,A.L.L. Construction/Carter Cat Chevrolet,22.972,147.31,3,,0.716
+56,109,12,73,Andy Jankowiak,KLAS Motorsports Toyota,22.975,147.291,4,,0.719
+56,280,13,24,Spencer Gallagher,Allegiant/Sigma Performance Svcs Chevrolet,23.075,146.652,2,,0.819
+56,205,14,56,Timmy Hill,Hill Motorsports Toyota,23.266,145.448,2,,1.01
+56,197,15,40,Andrew Patterson,Winsupply Chevrolet,23.615,143.299,3,,1.359
+56,180,16,11,Zachary Tinkle,Scouting America/Fast Track Racing Toyota,24.196,139.858,3,,1.94
+56,229,17,9,Blaine Donahue,Putting Dragon/Lazarus Ent/Dyer Marina Toyota,24.491,138.173,6,,2.235
+56,144,18,12,Takuma Koga,Macnica Yit Ikedo/CKB/Fast Track Racing,24.867,136.084,2,,2.611
+56,214,19,34,Austin Vaughn,Safford Trading Company Ford,25.212,134.222,8,,2.956
+56,213,20,1,Tim Monroe,Creed & Garner Roofing/Pearsons Truck Svc Ford,25.444,132.998,3,,3.188
+56,201,21,31,Tim Goulet,Rise Motorsports Toyota,25.569,132.348,5,,3.313
+56,145,22,86,A.J. Moyer,River’s Edge Cottages & RV Park/Ampere EV Ford,27.461,123.229,2,,5.205
+56,121,23,48,Brad Smith,Gary’s Speed Shop Ford,27.823,121.626,3,,5.567
+56,303,24,0,Corey Aiken,Vaugh Wilcox & Vaughn Racing Toyota,27.846,121.526,4,,5.59
+56,196,25,6,Nate Moeller,Peterson Motorsports Toyota,31.261,108.25,5,,9.005
+58,291,1,18,Max Reaves,Cookout Toyota,12.669,71.04,2,2,0
+58,202,2,10,Matt Kemp,ELHDetailing.com Ford,12.757,70.55,2,2,0.088
+58,157,3,23,Tyler Reif,Vegas Fastener/Sigma Performance Services Chevrolet,12.927,69.622,2,2,0.258
+58,306,4,79,Isaac Kitzmiller,A.L.L Construction/Carter Cat Chevrolet,13.016,69.146,2,2,0.347
+58,144,5,12,Takuma Koga,Macnica Yit Ikedo/CKB/Fast Track Racing Toyota,13.104,68.681,2,2,0.435
+58,210,6,65,Jeffery MacZink,Parkway Service/Syncon/Innovative Fluids LLC Toyota,13.153,68.425,2,2,0.484
+58,294,7,9,Trevor Ward,Fast Track Racing Toyota,13.175,68.311,2,2,0.506
+58,180,8,11,Zachary Tinkle,Racing for Rescues/Fast Track Racing Toyota,13.251,67.919,2,2,0.582
+58,214,9,34,Austin Vaughn,Safford Trading Company Ford,13.601,66.172,2,2,0.932
+58,260,10,86,Alex Malycke,The Giza Power Plant Ford,13.687,65.756,2,2,1.018
+58,183,11,31,Rita Goulet,risemotorsports.com Toyota,13.689,65.746,2,2,1.02
+58,196,12,6,Nate Moeller,Peterson Motorsports Toyota,13.84,65.029,2,2,1.171
+58,121,13,48,Brad Smith,Gary’s Speed Shop Ford,13.854,64.963,1,2,1.185
+58,295,14,1,Jeff Smith,Brad Smith Motorsports/Fast Track Racing Ford,15.727,57.226,2,2,3.058
+58,204,15,95,Jackson McLerran,JSJ Construction/ARYLCO LLC/ Bubba’s Bout Broke Toyota,15.801,56.958,2,2,3.132
+59,329,1,19,Daniel Hemric,NAPA Auto Care Chevrolet,18.164,99.097,4,4,0
+59,158,2,13,Tanner Reif,Central Coast Cabinets Toyota,18.233,98.722,4,5,0.069
+59,160,3,71,Kyle Keller,Jan’s Racing/Jan’s Towing /Battle Born Ford,18.273,98.506,4,4,0.109
+59,159,4,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,18.333,98.184,3,4,0.169
+59,162,5,5,"Eric Johnson, Jr.",Sherwin-Williams Toyota,18.344,98.125,3,4,0.18
+59,163,6,9,Robbie Kennealy,Jan’s Racing/Jan’s Towing Ford,18.355,98.066,3,5,0.191
+59,276,7,3,Adrian Ferrer,Central Coast Cabinets Toyota,18.357,98.055,6,6,0.193
+59,257,8,42,Spencer Davis,MMI/Sunwest Construction Chevrolet,18.466,97.476,3,4,0.302
+59,328,9,7,Gavin Ray,Jerry Pitts Racing Toyota,18.844,95.521,4,4,0.68
+59,275,10,51,Blake Lothian,The Texas Lawbook Chevrolet,18.9,95.238,3,6,0.736
+59,149,11,72,Cody Dennison,Timcast Chevrolet,19.164,93.926,6,6,1
+59,166,12,5,David Smith,Shockwave Marine Suspension Seating Toyota,19.784,90.983,7,11,1.62
+60,165,1,19,Jake Bollman,NAPA Auto Care Chevrolet,15.977,84.496,1,1,0
+60,159,2,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,16.084,83.934,1,2,0.107
+60,158,3,13,Tanner Reif,Central Coast Cabinets Toyota,16.101,83.846,1,2,0.124
+60,163,4,1,Robbie Kennealy,Jan’s Towing Ford,16.13,83.695,2,2,0.153
+60,160,5,71,Kyle Keller,Jan’s Towing/Jan’s Racing Ford,16.186,83.405,1,2,0.209
+60,161,6,3,Todd Souza,Central Coast Cabinets Toyota,16.28,82.924,2,2,0.303
+60,162,7,5,"Eric Johnson, Jr.",Sherwin-Williams Toyota,16.357,82.533,2,2,0.38
+60,275,8,51,Blake Lothian,Texas Lawbook Chevrolet,16.392,82.357,2,2,0.415
+60,238,9,6,Caleb Shrader,Consonus Healthcare Toyota,16.421,82.212,2,2,0.444
+60,149,10,72,Cody Dennison,Timcast Chevrolet,16.485,81.893,2,2,0.508
+60,166,11,5,David Smith,Shockwave Marine Suspension Seating Toyota,16.864,80.052,2,2,0.887
+60,330,12,77,Mariah Boudrieau,REX MD/All Phase Const/Wallace Sign Toyota,17.509,77.103,2,2,1.532
+60,201,13,31,Tim Goulet,Tri-City Raceway/Max Buchanan Foundation Toyota,18.088,74.635,1,2,2.111
+61,165,1,19,Jake Bollman,NAPA Auto Care Chevrolet,16.608,81.286,2,2,0
+61,160,2,71,Kyle Keller,Jan’s Towing/Jan’s Racing Ford,16.734,80.674,2,2,0.126
+61,161,3,3,Todd Souza,Central Coast Cabinets Toyota,16.875,80,2,2,0.267
+61,159,4,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,16.904,79.863,2,2,0.296
+61,163,5,1,Robbie Kennealy,Jan’s Towing/Jan’s Racing Ford,16.904,79.863,2,2,0.296
+61,158,6,13,Tanner Reif,Central Coast Cabinets Toyota,16.935,79.717,2,2,0.327
+61,162,7,5,"Eric Johnson, Jr.",Sherwin-Williams Toyota,16.945,79.67,2,2,0.337
+61,275,8,51,Blake Lothian,Texas Lawbook Chevrolet,17.184,78.561,2,2,0.576
+61,331,9,23,Eric Rhead,CRG Motorsports/Speedwagan/Phils Fabrication Toyota,17.371,77.716,2,2,0.763
+61,332,10,72,Holly Clark,Subway Chevrolet,17.406,77.559,1,2,0.798
+61,330,11,77,Mariah Boudrieau,REX MD/All Phase Const/Wallace Sign Toyota,17.819,75.762,2,2,1.211
+61,166,12,5,David Smith,Shockwave Marine Suspension Seating Toyota,18.199,74.18,2,2,1.591
+62,160,1,71,Kyle Keller,Jan’s Towing/Jan’s Racing Ford,18.591,96.821,1,2,0
+62,165,2,19,Jake Bollman,NAPA Auto Care Chevrolet,18.785,95.821,2,3,0.194
+62,158,3,13,Tanner Reif,Central Coast Cabinets Toyota,18.833,95.577,4,4,0.242
+62,163,4,1,Robbie Kennealy,Jan’s Towing/Jan’s Racing Ford,18.84,95.541,3,4,0.249
+62,258,5,6,Buddy Shepherd,Hall Ambulance Toyota,18.872,95.379,1,3,0.281
+62,232,6,68,PJ Pedroncelli,Pedroncelli Mobile Bottling/Rodd Renovations Chevrolet,18.894,95.268,1,3,0.303
+62,246,7,23,Jaron Giannini,crg motorsports/3rd gen/Versatile & Stone Toyota,19.012,94.677,1,2,0.421
+62,256,8,9,Joey Kennealy,Jan’s Towing/Jan’s Racing Toyota,19.071,94.384,1,2,0.48
+62,162,9,5,"Eric Johnson, Jr.",Sherwin-Williams Toyota,19.129,94.098,2,3,0.538
+62,161,10,3,Todd Souza,Central Coast Cabinets Toyota,19.183,93.833,1,3,0.592
+62,275,11,51,Blake Lothian,Texas Lawbook Chevrolet,19.267,93.424,2,3,0.676
+62,333,12,55,Andrew Chapman,Highpoint Racing/Racecar Factory Ford,19.279,93.366,1,4,0.688
+62,166,13,5,David Smith,Shockwave Marine Suspension Seating Toyota,20.672,87.074,3,7,2.081
+62,277,14,72,Jonathan Reaume,RBR Engineering Chevrolet,21.32,84.428,4,4,2.729
+63,150,1,18,William Sawalich,Starkey Toyota,77.5,92.43,2,3,0
+63,301,2,25,Alon Day,JSSI Toyota,77.5,92.417,3,3,0.011
+63,206,3,7,Corey Day,Hendrickcars.com Chevrolet,77.9,91.907,2,3,0.441
+63,157,4,24,Tyler Reif,Vegas Fastener/Sigma Performance SVCS Chevrolet,78.2,91.634,3,4,0.674
+63,334,5,19,Christian Eckes,NAPA Auto Care/NAPA Nightvision Chevrolet,78.4,91.38,2,2,0.891
+63,156,6,16,Jack Wood,Weyerhauser/James Hardie/Timbertech by Azek Chevrolet,78.5,91.253,3,3,1
+63,238,7,6,Caleb Shrader,Consonus Healthcare Ford,78.7,90.993,1,3,1.224
+63,159,8,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,79.2,90.501,1,2,1.652
+63,231,9,4,"Eric Nascimento, Jr.",Impact Transport/Phillips Bros Fab Toyota,79.2,90.491,2,4,1.661
+63,160,10,71,Kyle Keller,Jan’s Towing/Jan’s Racing Ford,79.2,90.458,2,2,1.69
+63,132,11,32,Dale Quarterley,Van Dyk Recycling Solutions Chevrolet,79.2,90.416,3,4,1.727
+63,336,12,88,Will Rodgers,Shockwave Marine Suspension Seating Ford,79.5,90.161,3,3,1.951
+63,158,13,13,Tanner Reif,Central Coast Cabinets Toyota,80.1,89.4,2,2,2.627
+63,163,14,1,Robbie Kennealy,Jan’s Towing Ford,80.2,89.363,5,5,2.66
+63,162,15,5,"Eric Johnson, Jr.",Sherwin-Williams Toyota,80.9,88.553,4,4,3.394
+63,302,16,8,Jeff Anton,Deer Park Recycling Chevrolet,81.3,88.142,5,5,3.771
+63,161,17,3,Todd Souza,Central Coast Cabinets Toyota,81.4,88.003,2,3,3.899
+63,234,18,52,Ryan Philpott,Caliber Collision/Mattos Transport/Hacienda Pools Toyota,82.3,87.048,1,2,4.792
+63,335,19,14,Davey Magras,Advanced Autoworks/Koerner Racing Engines Chevrolet,83,86.361,2,3,5.447
+63,317,20,17,Kaylee Bryson,LSI Logical Logistics LLC/MMI Services Chevrolet,83.1,86.221,1,8,5.582
+63,243,21,68,Rodd Kneeland,Rodd Renovations Inc/Pedroncelli Mobile Bottling Chevrolet,83.2,86.135,3,4,5.665
+63,275,22,51,Blake Lothian,Texas Law Book Chevrolet,91.2,78.578,1,3,13.663
+63,166,23,5,David Smith,Shockwave Marine Suspension Seating Toyota,91.9,77.934,1,1,14.417
+63,277,24,72,Jonathan Reaume,RBR Engineering Chevrolet,95.4,75.086,2,3,17.904
+64,165,1,19,Jake Bollman*,NAPA Auto Care Chevrolet,19.02,94.637,1,2,0
+64,252,2,23,Greg Biffle,Sigma Performance Services Chevrolet,19.043,94.523,1,2,0.023
+64,163,3,1,Robbie Kennealy*,Jan’s Towing Ford,19.121,94.137,2,2,0.101
+64,158,4,13,Tanner Reif,Central Coast Cabinets Toyota,19.145,94.019,2,2,0.125
+64,159,5,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,19.194,93.779,1,2,0.174
+64,162,6,5,"Eric Johnson, Jr.",Sherwin-Williams Toyota,19.211,93.696,1,2,0.191
+64,160,7,71,Kyle Keller,Jan’s Racing/Jan’s Towing Ford,19.304,93.245,1,2,0.284
+64,161,8,3,Todd Souza,Central Coast Cabinets Toyota,19.417,92.702,2,2,0.397
+64,275,9,51,Blake Lothian*,Texas Lawbook Chevrolet,19.695,91.394,1,2,0.675
+64,337,10,31,Tyler Brown*,Flav-R-Pac/Blue Mountain Fire Protection Toyota,19.993,90.032,2,2,0.973
+64,277,11,72,Jonathan Reaume*,RBR Engineering Chevrolet,20.123,89.45,1,2,1.103
+64,166,12,5,David Smith,Shockwave Marina Suspension Seating Toyota,20.971,85.833,2,2,1.951
+65,150,1,18,William Sawalich,Starkey Toyota,75.4,94.011,2,2,0
+65,101,2,70,Thomas Annunziata,Bayshore Mortgage Toyota,75.5,93.951,2,2,0.048
+65,301,3,25,Alon Day,JSSI Toyota,75.7,93.691,2,2,0.258
+65,339,4,3,Fernando Navarrete,Central Coast Cabinets Toyota,77,92.154,2,2,1.52
+65,238,5,6,Caleb Shrader,Consonus Health Care Ford,77,92.139,2,3,1.533
+65,158,6,13,Tanner Reif,Central Coast Cabinets Ford,77,92.093,2,3,1.571
+65,160,7,71,Kyle Keller,Jan’s Towing/Jan’s Racing Ford,77.2,91.847,1,3,1.777
+65,252,8,24,Greg Biffle,Sigma Performance Services Chevrolet,77.3,91.738,2,3,1.869
+65,163,9,1,Robbie Kennealy,Jan’s Towing Ford,77.6,91.371,3,3,2.18
+65,162,10,5,"Eric Johnson, Jr.",Sherwin-Williams Toyota,77.8,91.154,2,2,2.364
+65,338,11,72,Austin Varco,Special Needz Coffee/Columbia Hobby Chevrolet,78.9,89.94,2,4,3.415
+65,275,12,51,Blake Lothian,Texas Lawbook Chevrolet,79.8,88.884,2,2,4.351
+65,335,13,14,Davey Magras,Advanced Autoworks/Koerner Racing Engines Chevrolet,80.9,87.696,3,6,5.432
+65,166,14,5,David Smith,Shockwave Marine Suspension Seating Toyota,83.7,84.72,1,2,8.273
+66,163,1,1,Robbie Kennealy,Jan’s Towing Ford,13.841,86.612,2,2,0
+66,158,2,13,Tanner Reif,Central Coast Cabinets Toyota,13.908,86.195,2,2,0.067
+66,231,3,4,"Eric Nascimento, Jr.",Impact Transp/RJ’s Paintshop/Phillips Bros Chevrolet,13.918,86.133,2,2,0.077
+66,159,4,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,13.938,86.009,2,2,0.097
+66,160,5,71,Kyle Keller,Jan’s Towing/Jan’s Racing Ford,13.94,85.997,2,2,0.099
+66,341,6,9,RJ Smotherman,Jan’s Towing Toyota,13.965,85.843,2,2,0.124
+66,161,7,3,Todd Souza,Central Coast Cabinets Toyota,13.969,85.819,2,2,0.128
+66,165,8,19,Jake Bollman,NAPA Auto Care Chevrolet,13.994,85.665,2,2,0.153
+66,162,9,5,"Eric Johnson, Jr.",Sherwin-Williams Toyota,14.049,85.33,2,2,0.208
+66,333,10,55,Andrew Chapman,High Point Racing/Racecar Factory Ford,14.058,85.275,2,2,0.217
+66,340,11,88,Joey Iest,Shockwave/Columbia Bank Ford,14.124,84.877,2,2,0.283
+66,275,12,51,Blake Lothian,Texas Lawbook Chevrolet,14.234,84.221,2,2,0.393
+66,166,13,5,David Smith,Shockwave Marine Suspension Seating Toyota,14.874,80.597,2,2,1.033
+66,277,14,72,Jonathan Reaume,Strike Mamba Racing Chevrolet,15.013,79.851,2,2,1.172
+67,246,1,23,Jaron Giannini,Versatile & Stone/Third Gen Race Cars Toyota,14.864,80.651,1,2,0
+67,159,2,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,14.891,80.505,2,2,0.027
+67,163,3,1,Robbie Kennealy,Jan’s Towing Ford,14.9,80.456,2,2,0.036
+67,231,4,4,"Eric Nascimento, Jr.",Impact Transp/RJ’s Paintshop/Phillips Bros Chevrolet,14.914,80.381,2,2,0.05
+67,165,5,19,Jake Bollman,NAPA Auto Care Chevrolet,14.945,80.214,2,2,0.081
+67,162,6,5,"Eric Johnson, Jr.",Sherwin-Williams Toyota,14.949,80.193,2,2,0.085
+67,158,7,13,Tanner Reif,Central Coast Cabinets Toyota,14.951,80.182,1,2,0.087
+67,160,8,71,Kyle Keller,Jan’s Towing/Jan’s Racing Ford,14.96,80.134,2,2,0.096
+67,340,9,88,Joey Iest,Shockwave/Columbia Bank Ford,14.98,80.027,2,2,0.116
+67,333,10,55,Andrew Chapman,High Point Racing/Racecar Factory Ford,15.026,79.782,2,2,0.162
+67,161,11,3,Todd Souza,Central Coast Cabinets Toyota,15.104,79.37,1,2,0.24
+67,275,12,51,Blake Lothian,Texas Lawbook Chevrolet,15.112,79.328,2,2,0.248
+67,342,13,21,Monty Tipton,Nascimento Motorports Toyota,15.132,79.223,2,2,0.268
+67,164,14,77,Nick Joanides,King Taco/Rex MD/Wallace Sign Toyota,15.434,77.673,1,2,0.57
+67,166,15,5,David Smith,Shockwave Marine Suspension Seating Toyota,15.478,77.452,2,2,0.614
+67,149,16,72,Cody Dennison,ODA Ventures Chevrolet,15.498,77.352,2,2,0.634
+69,182,1,18,Brent Crews,Mobil 1 Toyota,27.464,131.081,1,2,0
+69,311,2,77,Tristan McKee,Spire Chevrolet,27.668,130.114,1,2,0.204
+69,211,3,25,Taylor Reimer,BuzzBallz Toyota,27.731,129.819,1,2,0.267
+69,327,4,28,Carson Brown,J Star Capital Investments/Unifi MI Industrial Chevrolet,27.737,129.791,1,2,0.273
+69,101,5,70,Thomas Annunziata,Nitro Motorsports Toyota,27.761,129.678,1,2,0.297
+69,320,6,13,Jade Avedisian,Central Coast Cabinets Toyota,27.838,129.32,1,3,0.374
+69,343,7,24,Connor Hall,Sigma Performance Services Chevrolet,27.884,129.106,1,3,0.42
+69,110,8,15,Jake Finch,Phoenix Construction Toyota,27.915,128.963,1,2,0.451
+69,130,9,20,"Leland Honeyman, Jr.",Nitro Motorsports Toyota,27.939,128.852,2,3,0.475
+69,269,10,46,Thad Moffitt,Pristine Auction Toyota,27.968,128.719,2,2,0.504
+69,163,11,1,Robbie Kennealy,Jan’s Towing Ford,28.022,128.47,2,2,0.558
+69,155,12,2,Isabella Robusto,AMSYS/RAFA Racing Team Toyota,28.08,128.205,1,2,0.616
+69,342,13,4,Monty Tipton,Bare Bones Broth Toyota,28.17,127.796,1,2,0.706
+69,159,14,50,Trevor Huddleston,High Point Racing/Racecar Factory Ford,28.172,127.786,1,2,0.708
+69,160,15,71,Kyle Keller,Jan’s Racing/Jan’s Towing Ford,28.333,127.06,1,2,0.869
+69,344,16,9,Derek Kraus,Shockwave Marine Seating Toyota,28.682,125.514,1,2,1.218
+69,162,17,5,"Eric Johnson, Jr.",Sherwin-Williams Toyota,28.734,125.287,2,2,1.27
+69,317,18,17,Kaylee Bryson,MMI/LSI Chevrolet,28.879,124.658,2,3,1.415
+69,275,19,51,Blake Lothian,Texas Lawbook Chevrolet,28.97,124.266,2,2,1.506
+69,328,20,6,Gavin Ray,Jerry Pitts Racing Toyota,29.022,124.044,3,3,1.558
+69,149,21,72,Cody Dennison,Allied Cloud Chevrolet,29.356,122.633,4,4,1.892
+69,333,22,55,Andrew Chapman,High Point Racing/Racecar Factory Ford,29.455,122.22,2,3,1.991
+69,120,23,99,Michael Maples,International Brotherhood of Boilermakers Chevrolet,30.555,117.82,2,2,3.091
+69,166,24,5,David Smith,Shockwave Marine Suspension Seating Toyota,31.045,115.961,3,4,3.581
